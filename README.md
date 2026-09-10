@@ -80,7 +80,7 @@ flowchart TD
 
 Sistem, soruları analiz ederek aşağıdaki araçları otomatik tetikler ve ekranda interaktif mat kartlar üretir:
 
-| # | Araç Adı | Açıklama & Formülasyon | İcra Süresi |
+| # | Araç Adı | Açıklama & Formülasyon | Yanıt Süresi (Latency) |
 |---|---|---|:---:|
 | 1 | 🌊 **Marine Weather & Wave Monitor** | *Open-Meteo Marine API* ile anlık dalga boyu ($m$), periyot ($sn$), yüzey sıcaklığı (°C) ve deniz rüzgarı. | **1.708 s** |
 | 2 | 🐋 **Marine Species Explorer** | Canlının taksonomik sınıfını, IUCN korunma durumunu ve **dikey derinlik cetvelini (0-11000m)** çizer. | **0.14 ms** |
@@ -100,7 +100,7 @@ Ayrıntılı test sonuçları ve ampirik ölçümler için [`BENCHMARK.md`](BENC
 - **ChromaDB Vektör Arama ($k=3$):** `5.06 ms`
 - **Embedding Çıkarma (BGE-M3):** `204.63 ms`
 - **Güvenlik Kapısı Alan Dışı Reddetme:** `%100.0`
-- **Bilimsel Araç İcra Hızı:** `< 0.15 ms` (Sub-millisecond)
+- **Bilimsel Araç Yanıt Hızı:** `< 0.15 ms` (Sub-millisecond)
 - **Canlı Web Arama & Kaynak Doğrulama:** `3.03 sn` / 3 adet doğrulanmış link
 
 ### 🥊 Tilikum AI vs. Standart Frontier LLM (Head-to-Head)
