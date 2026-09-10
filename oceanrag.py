@@ -1188,27 +1188,14 @@ class RAGResponse(BaseModel):
     in_context: bool = Field(default=True, description="Sorunun cevabı bağlamda bulundu mu?")
     mode: str = Field(default="local", description="Cevap kaynağı: 'local' (yerel döküman) | 'web' (internet)")
 
-# UTF-8 Bozuk Karakter Onarıcı (Mojibake Fixer)
+# UTF-8 Bozuk Karakter Onarıcı (Mojibake Fixer Fallback)
 def fix_turkish_encoding(text: str) -> str:
-    """UTF-8 baytlarının latin-1 olarak yanlış yorumlanmasını (Ã¼ -> ü vb.) düzeltir."""
-    if not text:
-        return ""
+    """UTF-8 latin-1 bozulması varsa hızlıca düzeltir, yoksa metne dokunmaz."""
+    if not text or "Ã" not in text:
+        return text or ""
     try:
-        # Eğer çift encode/latin-1 bozulması varsa düzelt
-        fixed = text.encode('latin1').decode('utf-8')
-        return fixed
+        return text.encode('latin1').decode('utf-8')
     except Exception:
-        # Hata durumunda karakter bazlı yaygın bozulmaları düzelt
-        replacements = {
-            "Ã¼": "ü", "Ãœ": "Ü",
-            "Ä±": "ı", "Ä°": "İ",
-            "ÅŸ": "ş", "Åž": "Ş",
-            "Ã§": "ç", "Ã‡": "Ç",
-            "Ã¶": "ö", "Ã–": "Ö",
-            "ÄŸ": "ğ", "Äž": "Ğ"
-        }
-        for bad, good in replacements.items():
-            text = text.replace(bad, good)
         return text
 
 # Few-Shot Örnekler — modele beklenen JSON formatını öğretir
@@ -1259,22 +1246,18 @@ def load_embedding_model():
 @st.cache_resource(show_spinner="ChromaDB Bağlantısı kuruluyor...")
 def load_chroma_db(db_path):
     if not os.path.exists(db_path):
-        st.warning(f"Belirtilen veritabanı klasörü bulunamadı: '{db_path}'. Lütfen zip dosyasını açtığınızdan emin olun.")
-    client = chromadb.PersistentClient(path=db_path)
-    
-    # Colab üzerinde oluşturulan varsayılan koleksiyon adı: ocean_collection
+        st.warning(f"⚠️ Vektör veritabanı klasörü bulunamadı: '{db_path}'. Lütfen terminalde `python build_index.py` çalıştırarak veritabanını oluşturun.")
+        return None
     try:
-        collection = client.get_collection(name="ocean_collection")
-        return collection
-    except Exception as e:
-        # Koleksiyonları listele ve ilkini seç veya kullanıcıyı uyar
+        client = chromadb.PersistentClient(path=db_path)
         cols = client.list_collections()
-        if cols:
-            st.info(f"Orijinal 'ocean_collection' bulunamadı, mevcut ilk koleksiyon seçiliyor: {cols[0].name}")
-            return client.get_collection(name=cols[0].name)
-        else:
-            st.error("ChromaDB içerisinde aktif bir koleksiyon bulunamadı.")
+        if not cols:
+            st.warning("⚠️ ChromaDB klasörü mevcut ancak koleksiyon henüz eklenmemiş. Lütfen `python build_index.py` çalıştırın.")
             return None
+        return client.get_or_create_collection(name="ocean_collection")
+    except Exception as e:
+        st.error(f"ChromaDB bağlantı hatası: {e}")
+        return None
 
 # -------------------------------------------------------------------------
 # SIDEBAR (Ayarlar ve Donanım Paneli)
@@ -1292,7 +1275,7 @@ st.sidebar.title("🛠️ Sistem Konfigürasyonu")
 db_dir = st.sidebar.text_input(
     "1. ChromaDB Klasör Yolu", 
     value="./ocean_chroma_db",
-    help="Google Colab'den indirdiğiniz zipten çıkan klasörün yerel yolu."
+    help="Yerel ChromaDB veritabanı yolu. Eksikse 'python build_index.py' ile oluşturabilirsiniz."
 )
 
 # Yerel LLM Sunucu Ayarları (LM Studio, Ollama, LocalAI, vLLM vb.)
@@ -1478,6 +1461,7 @@ if prompt := user_prompt_input:
                     stream=True, timeout=120
                 ) as response:
                     if response.status_code == 200:
+                        response.encoding = "utf-8"
                         raw_stream = ""
                         for line in response.iter_lines(decode_unicode=True):
                             if line and line.startswith("data: "):
@@ -1659,6 +1643,7 @@ if prompt := user_prompt_input:
                             timeout=300
                         ) as response:
                             if response.status_code == 200:
+                                response.encoding = "utf-8"
                                 raw_stream_text = ""
                                 
                                 for line in response.iter_lines(decode_unicode=True):

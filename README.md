@@ -44,7 +44,7 @@
 
 - 🧠 **10.293+ Chunk Yerel Okyanus Arşivi:** `BAAI/bge-m3` (1024 boyutlu çok dilli dense vektörler) ile indekslenmiş zengin akademik ve oşinografik veri tabanı.
 - ⚡ **7 Özel Bilimsel Hesaplayıcı & Canlı API:** Milisaniyenin altında (`<0.15 ms`) çalışan kesin fizik modelleri ve *Open-Meteo Marine API* entegrasyonu.
-- 🛡️ **Akıllı Güvenlik Kapısı (Distance Gating - 0.42 Eşik):** Alan dışı (tarih, yazılım, finans vb.) soruların yerel okyanus arşivini kirletmesini ve halüsinasyonu **%100 doğrulukla** engeller.
+- 🛡️ **Akıllı Güvenlik Kapısı (Distance Gating - 0.42 Eşik):** Alan dışı (tarih, yazılım, spor vb.) soruların yerel arşivi kirletmesini engeller (Benchmark test setinde **%100 ayırt edicilik**).
 - 🌐 **Otonom Canlı Web Fallback (DDGS + Wikipedia REST):** Veritabanında bulunmayan veya güncel olaylar için canlı internet araması yaparak doğrulanmış kaynak bağlantıları sunar.
 - 🎨 **Mat Okyanus Estetiği (Editorial Dark UI):** Göz yormayan, National Geographic standartlarında mat abis deniz mavisi, adaçayı yeşili, inci kumu ve kurutulmuş mercan tonlarıyla tasarlanmış görsel kartlar.
 - 🤖 **Her Yerel LLM ile Uyumlu:** LM Studio, Ollama, LocalAI, vLLM ve OpenAI uyumlu tüm yerel model sunucularıyla doğrudan çalışır (Qwen2.5, Gemma, Llama-3 vb.).
@@ -140,10 +140,17 @@ source .venv/bin/activate  # Windows için: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 3. Yerel LLM Sunucunuzu Başlatın
+### 3. Yerel Vektör Veritabanını Oluşturun
+`chunks.json` dosyasındaki verileri ChromaDB vektör dizinine dönüştürün:
+```bash
+python build_index.py
+# Veya hızlı bir deneme için ilk 500 chunk: python build_index.py 500
+```
+
+### 4. Yerel LLM Sunucunuzu Başlatın
 LM Studio veya Ollama üzerinde herhangi bir modeli (Örn: `Qwen/Qwen2.5-7B-Instruct`, `gemma-2-9b-it`, `llama-3.1-8b`) yükleyin ve Local Server'ı (`http://127.0.0.1:1234` veya `http://localhost:11434`) başlatın.
 
-### 4. Uygulamayı Çalıştırın
+### 5. Uygulamayı Çalıştırın
 ```bash
 streamlit run oceanrag.py
 ```
@@ -154,14 +161,15 @@ streamlit run oceanrag.py
 
 ```
 ├── oceanrag.py                   # Ana Streamlit uygulaması ve Hibrit Ajan Motoru
-├── tool_tilikum.py               # İnteraktif widget araçları ve bağımsız modüller
+├── build_index.py                # chunks.json'dan ChromaDB vektör dizini oluşturan araç
 ├── academic_creatures_scraper.py # OpenAlex & Europe PMC akademik makale toplayıcı
 ├── creatures_scraper.py          # Wikipedia derin deniz biyolojisi toplayıcı
 ├── BENCHMARK.md                  # Kapsamlı sistem ve doğruluk benchmark raporu
 ├── benchmark_results.json        # Ham ölçüm metrikleri
+├── chunks.json                   # 10.293 adet işlenmiş okyanus metin chunk'ı
 ├── requirements.txt              # Proje bağımlılıkları
 ├── data_creatures/               # 402 adet hakemli makale ve tür monografisi
-└── ocean_chroma_db/              # 10.293 chunk ChromaDB vektör dizini
+└── ocean_chroma_db/              # ChromaDB yerel vektör dizini
 ```
 
 ---
