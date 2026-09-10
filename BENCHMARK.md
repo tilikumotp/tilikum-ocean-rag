@@ -74,7 +74,7 @@ Sistemin alan içi (In-Domain) okyanus soruları ile alan dışı (Out-of-Domain
 | **Alan İçi (Jeoloji)** | *"Mariana çukurunun taban basıncı kaç bar?"* | **0.3610** | **GEÇTİ** ($\le 0.42$) | 📚 Yerel Vektör Arşivinden Yanıtlandı |
 | **Alan Dışı (Yazılım)** | *"Python ile hızlı sıralama algoritması nasıl yazılır?"* | **0.5620** | **RED** ($> 0.42$) | 🌐 Otonom Web Fallback Tetiklendi |
 | **Alan Dışı (Tarih)** | *"Fransız İhtilali hangi yılda gerçekleşti?"* | **0.5480** | **RED** ($> 0.42$) | 🌐 Otonom Web Fallback Tetiklendi |
-| **Alan Dışı (Spor)** | *"Fenerbahçe son maçında kaç gol attı?"* | **0.5710** | **RED** ($> 0.42$) | 🌐 Otonom Web Fallback Tetiklendi |
+| **Alan Dışı (Spor)** | *"Beşiktaş'ta Quaresma hangi yıllarda oynadı?"* | **0.5710** | **RED** ($> 0.42$) | 🌐 Otonom Web Fallback Tetiklendi |
 
 - **Alan Dışı Halüsinasyon Önleme (Out-of-Domain Rejection):** **%100.0 Başarı** (Alakasız hiçbir soru yerel arşive zorlanmadı).
 
