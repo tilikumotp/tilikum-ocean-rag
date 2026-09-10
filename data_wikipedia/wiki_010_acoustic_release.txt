@@ -1,0 +1,45 @@
+# Acoustic release
+
+An acoustic release is an oceanographic device for the deployment and subsequent recovery of instrumentation from the sea floor, in which the recovery is triggered remotely by an acoustic command signal.
+A typical release consists of the hydrophone (see dark gray cap in the figure), the battery housing (long gray cylinder), and a (red) hook which is opened to release the anchor by high-torque electrical motor.
+
+
+== Method of operation ==
+
+Deployment phase: The instrument package is dropped to the sea floor.  The principal components of the package are the anchor weight which allows the assembly to sink and then remain firmly on the sea floor, the acoustic release device which can receive a remote commands from the control station to drop the anchor weight, the instrument or payload which is to be deployed and later recovered, and a flotation device which keeps the assembly upright on the sea floor, and at the end of the deployment allows it to return to the surface.
+Operations phase: The instrument package is on the sea floor. This phase can last anywhere from minutes to several years, depending on the application.  The instrument package is now typically unattended, performing its observations or work.
+Recovery phase: During this phase, an acoustic command is issued by the control station.  The control station is typically on a boat, but may also be a device operated by a diver or mounted on an ROV.  Upon receipt and verification, the acoustic release triggers a mechanism that drops the anchor weight.  The remainder of the instrumentation package is now carried back to the surface by the flotation device for recovery.
+
+
+== History and use ==
+Early use of acoustic releases for oceanography are reported in the 1960s, when it was recognized that deep ocean currents could more accurately be measured with sea floor mounted rather than ship board instruments. An obvious means of recovery was the use of a surface marker buoy linked to the sea floor instrument, but in areas of high ship traffic or the presence of ice bergs, this proved problematic. The acoustic release became a method to solve that problem, allowing the current meters to remain unattended on the seafloor for weeks or more, until the research vessel returned and triggered the release of the instrument by remote command, allowing it to float to the surface.  In the book Descriptive Physical Oceanography, authors Pickard and Emery vividly describe the recovery phase: 
+Upon returning to the general location of the deployed mooring the scientist will reactivate the acoustic system on the release and use it to better locate the mooring and assure its condition as being ready for release.  When ready, the release or wire-cutting mechanism is activated and the mooring is free to rise to the surface.  There are many tense moments while waiting for the mooring to come to the surface; it may be difficult to spot as it floats low in the water so it usually carries a radio transmitter and a light to assist in locating it. 
+
+Today, acoustic releases are widely used in oceanography and offshore work alike.  Applications are varied and range from individual instrument recovery, to salvage operations.  More recent technological advances have resulted in the introduction of smaller devices that are now deployed in large numbers.  For example, the Pfleger Institute of Environmental Research has deployed an array of 96 acoustic receivers for the monitoring of fish migrations in California's Channel Islands, with acoustic releases used to recover receivers beyond diver depth in regular intervals for data download and service.
+
+
+== The release mechanism ==
+A central element of any acoustic release is its release mechanism.  The function of the release mechanism is to open a gate to release an anchor line and attached anchor weight, which allows the now buoyant assembly to travel to the surface.  There are also variations of this use, where a light-load release sets free a flotation sphere, which travels to the surface trailing a strong tether that remains attached to the instrument. The sphere is recovered and the heavy instrument is then hauled aboard using a winch.
+The general function of a release mechanism is shown in figure 2, using the example of a fusible link release, a patented mechanism.  Prior to release, the lever (A) is held in the closed position by a fusible wire (B).  To trigger the release, a jolt of electricity of approx. 14 kW is passed through the fusible wire, causing it to melt or evaporate in a matter of a few milliseconds. The lever is now free to open (by the force of the instrument flotation), releasing the anchor or other release line (C).
+The design goal for release mechanisms is maximum reliability while offering an appropriate load rating.  Release mechanisms can fail due to bio-fouling or corrosion that can impair the motion of its components, failure modes that designers try to counter by minimizing the count of moving parts subject to seizing or applying high torque to overcome resistance. But failures also occur due to factors of use and environment such as rigging and ocean currents or surge that can result in an entanglement of the device.
+
+
+== Project-specific selection criteria ==
+Applications for acoustic releases can vary substantially, and correspondingly the devices are designed and selected to best fit the requirements of a particular job.  Common design and selection characteristics are as follows:
+
+Acoustic transmission range and reliability: Acoustic command transmissions are used to issue the release command as sound travels easily through the water.  The transmission range must be sufficient to reach the device.  Individual releases are identified by unique identifier codes, and the number and security of available codes can be criteria when deploying many releases or in areas where accidental or unauthorized release may be a problem.  The command transmission system for shallow water releases must also be resistant to multi-path propagation (reverberations or echoes) which can corrupt a signal.
+Battery life:  Acoustic releases are generally powered by rechargeable or replaceable batteries. Battery life must be sufficient to cover the anticipated deployment period plus a reasonable margin of safety.  Depending on model, battery life may range from several weeks to a few years.
+Control station:  Acoustic releases can generally be controlled from the surface vessel, by lowering a sonar transducer into the water (figure 3).  However, some releases also offer the option to mount an interrogator on an underwater vehicle such as a ROV (figure 4). If a release should fail to surface, the underwater vehicle can be deployed and the ranging function can be used to home in on the stuck instrument, recovering it using the manipulator of the ROV or other methods.
+Depth rating: The acoustic release must withstand the water pressure at the operations site.  Depth ratings may range from 300m or less up to full ocean depth.
+Load rating:  Acoustic releases are designed to handle a certain maximum load.  The deployment of larger instruments generally requires a higher load rating.  A release may also have a minimum load rating, required for reliable operation of its mechanism.
+Resistance to failure: Failure modes for acoustic releases are both application and site specific.  Stainless steel components for example are subject to crevice corrosion in anoxic waters.  Releases used in shallow water sites are more subject to biofouling which can impede a mechanism than those used in fresh or deep water.  Shallow water sites are also more subject to mechanical forces on the mooring caused by surge.
+Ranging and status reporting capability: Some acoustic releases offer a remote ranging and status reporting capability.  Upon arrival on site, a specific release can be interrogated and its distance determined.  Operational parameters such as remaining battery capacity or the status of the release mechanism may be reported as well. This information can be used to position the surface vessel above the instrument for ease of recovery following release, or to evaluate the health and status of a device.
+
+
+== See also ==
+Mooring (oceanography)
+Underwater acoustics
+Underwater acoustic communication
+
+
+== References ==

@@ -1,0 +1,82 @@
+# Bathythermograph
+
+A bathythermograph, or BT, also known as a mechanical bathythermograph, or MBT, is a device that holds a temperature sensor and a transducer to detect changes in water temperature versus depth down to a depth of approximately 285 meters (935 feet). Lowered by a small winch on a ship into water, a BT records pressure and temperature changes on a coated glass slide as it is dropped nearly freely through the water. While the instrument is being dropped, the wire is payed out until it reaches a predetermined depth, then a brake is applied and the BT is drawn back to the surface. Because the pressure is roughly proportional to depth according to Pascal's law, temperature measurements can be correlated to the depth at which they are recorded.
+
+
+== History ==
+The true origins of the BT began in 1935 when Carl-Gustaf Rossby started experimenting. He then forwarded the development of the BT to his graduate student Athelstan Spilhaus, who then fully developed the BT in 1938 as a collaboration between MIT, Woods Hole Oceanographic Institution (WHOI), and the U.S. Navy. The device was modified during World War II to gather information on the varying temperature of the ocean for the U.S. Navy. Originally the slides were prepared "by rubbing a bit of skunk oil on with a finger and then wiping off with the soft side of one's hand," followed by smoking the slide over the flame of a Bunsen burner. Later on the skunk oil was replaced with an evaporated metal film.
+Since water temperature may vary by layer and may affect sonar by producing inaccurate location results, bathothermographs (U.S. World War II spelling) were installed on the outer hulls of U.S. submarines during World War II.
+By monitoring variances, or lack of variances, in underwater temperature or pressure layers, while submerged, the submarine commander could adjust and compensate for temperature layers that could affect sonar accuracy. This was especially important when firing torpedoes at a target based strictly on a sonar fix.
+More importantly, when the submarine was under attack by a surface vessel using sonar, the information from the bathothermograph allowed the submarine commander to seek thermoclines, which are colder layers of water, that would distort the pinging from the surface vessel's sonar, allowing the submarine under attack to "disguise" its actual position and to escape depth charge damage and eventually to escape from the surface vessel.
+
+Throughout the use of the bathythermograph various technicians, watchstanders, and oceanographers noted how dangerous the deployment and retrieval of the BT was. According to watchstander Edward S. Barr: "… In any kind of rough weather, this BT position was frequently subject to waves making a clean sweep of the deck. In spite of breaking waves over the side, the operator had to hold his station, because the equipment was already over the side. One couldn't run for shelter as the brake and hoisting power were combined in a single hand lever. To let go of this lever would cause all the wire on the winch to unwind, sending the recording device and all its cable to the ocean bottom forever. It was not at all uncommon, from the protective position of the laboratory door, to look back and see your watchmate at the BT winch completely disappear from sight as a wave would come crashing over the side. … We also took turns taking BT readings. It wasn't fair for only one person to get wet consistently."
+
+
+== Expendable bathythermograph ==
+
+After witnessing firsthand the dangers of deploying and retrieving BTs, James M. Snodgrass began developing the expendable bathythermograph (XBT). Snodgrass' description of the XBT:Briefly, the unit would break down in two components, as follows: the ship to surface unit, and surface to expendable unit. I have in mind a package which could be jettisoned, either by the "Armstrong" method, or some simple mechanical device, which would at all times be connected to the surface vessel. The wire would be paid out from the surface ship and not from the surface float unit. The surface float would require a minimum of flotation and a small, very simple sea anchor. From this simple platform the expendable BT unit would sink as outlined for the acoustic unit. However, it would unwind as it goes a very fine thread of probably neutrally buoyant conductor terminating at the float unit, thence connected to the wire leading to the ship. In the early 1960s the U.S. Navy contracted Sippican Corporation of Marion, Massachusetts to develop the XBT, who became the sole supplier.
+
+The unit is composed of a probe; a wire link; and a shipboard canister. Inside of the probe is a thermistor which is connected electronically to a chart recorder. The probe falls freely at 20 feet per second and that determines its depth and provides a temperature-depth trace on the recorder. A pair of fine copper wires which pay out from both a spool retained on the ship and one dropped with the instrument, provide a data transfer line to the ship for shipboard recording. Eventually, the wire runs out and breaks, and the XBT sinks to the ocean floor. Since the deployment of an XBT does not require the ship to slow down or otherwise interfere with normal operations, XBTs are often deployed from vessels of opportunity, such as cargo ships or ferries, and also by dedicated research ships conducting underway operations when a conductivity–temperature–depth instrument (CTD instrument, or CTD) cast would require stopping the ship for several hours. Airborne versions (AXBT) are also used; these use radio frequencies to transmit the data to the aircraft during deployment. Today Lockheed Martin Sippican has manufactured over five million XBTs.
+
+
+=== Types of XBTs ===
+Source:
+
+
+=== Participation by Month of Country and Institutions deploying XBTs ===
+Below is the list of XBT deployments for 2013:
+
+
+=== XBT Fall Rate Bias ===
+Since XBTs do not measure depth (e.g. via pressure), fall-rate equations are used to derive depth profiles from what is essentially a time series. The fall rate equation takes the form:
+
+  
+    
+      
+        z
+        (
+        t
+        )
+        =
+        a
+        
+          t
+          
+            2
+          
+        
+        +
+        b
+        t
+      
+    
+    {\displaystyle z(t)=at^{2}+bt}
+  
+
+where, z(t) is the depth of the XBT in meters; t is time; and a & b are coefficients determined using theoretical and empirical methods. The coefficient b can be thought of as the initial speed as the probe hits the water. The coefficient a can be thought of as the reduction in mass with time as the wire spools off.
+For a considerable time, these equations were relatively well-established, however in 2007 Gouretski and Koltermann showed a bias between XBT temperature measurements and conductivity–temperature–depth instrument (CTD sonde) temperature measurements. They also showed that this varies over time and could be due to both errors in the calculation of depth and in measurement of the temperature. From that the 2008 NOAA XBT Fall Rate Workshop began to address the problem, with no viable conclusion as to how to proceed with adjusting the measurements. In 2010 the second XBT Fall Rate Workshop was held in Hamburg, Germany to continue discussing the problem and forge a way forward.
+A major implication of this is that a depth-temperature profile can be integrated to estimate upper ocean heat content; the bias in these equations lead to a warm bias in the heat content estimations. The introduction of Argo floats has provided a much more reliable source of temperature profiles than XBTs, however the XBT record remains important for estimating decadal trends and variability and hence much effort has been put into resolving these systematic biases.
+XBT correction needs to include both a drop-rate correction and a temperature correction.
+
+
+== Uses ==
+Oceanography and hydrography: to obtain information on the temperature structure of the ocean.
+A study in 2019 (published 2023) at the outfall of the Totten Glacier in East Antarctica showed that water at depth above freezing temperature was melting the under-side of the glacier.
+Submarine and Anti-submarine warfare: to determine the layer depth (thermocline) used by submarines to avoid active sonar search.
+
+
+== See also ==
+Depth sounding – Measuring the depths of a body of water
+Benthic lander – Platform for measurements on the seabed
+Conductivity–temperature–depth instrument – Device to measure seawater properties
+
+
+== References ==
+
+Blair, Clay Jr. (2001). Silent Victory, the U.S. Submarine war against Japan. Annapolis, Maryland: Naval Institute Press. p. 458. ISBN 1-55750-217-X.
+
+
+== External links ==
+Expendable Bathythermograph Expendable Sound Velocimeter (XBT/XSV) Expendable Profiling Systems from Lockheed Martin Sippican
+Richard C.J. Somerville (2003). "Climate and Atmospheric Science at Scripps: The Legacy of Jerome Namias" (PDF). Oceanography. 16 (3). Archived from the original (PDF) on 24 February 2019. (page 2 shows Jerome Namias with a bathythermograph)
+Scripps Institution of Oceanography: Probing the Oceans 1936 to 1976

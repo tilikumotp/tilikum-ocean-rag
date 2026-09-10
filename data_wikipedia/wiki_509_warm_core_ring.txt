@@ -1,0 +1,51 @@
+# Warm core ring
+
+A warm core ring is a type of mesoscale eddy which forms and breaks off from an ocean current, such as the Gulf Stream or the Kuroshio Current. The ring is an independent circulatory system of warm water that can persist for several months before losing its distinctive identity. Warm core rings can be detected using infrared satellites or sea height anomalies and are easily identifiable against the surrounding colder waters. In addition, warm core rings are also distinguished by their low levels of biological activity. This type of system is thought to have helped develop several hurricanes, most notably Hurricane Katrina, into significantly stronger storms due to the abundance of warmer ocean water reaching down to a significant depth, which in turn fuels and intensifies the hurricane. Warm core rings are also known for affecting wildlife, having the capacity to bring wildlife from typically warm waters to areas typically dominated by cold waters.
+
+
+== Life cycle ==
+
+
+=== Formation ===
+In general, warm core rings form as a meander of a strong oceanic current. They generally form when a strong meander on an oceanic current creates a "loop" by closing in on the meander, resulting in an independent system. 
+
+
+=== Movement ===
+Rings will drift to the west-southwest at 3–5 km/day for several months up to a year. The rings always rotate clockwise due to the direction of the Gulf Stream and can reach rotational velocities of up to 1 m/s. Usually warm core rings cannot move onto the continental shelf because they reach deeper than the seafloor on the shelf by over 1000 meters, though they can approach the shelf.
+
+
+=== Dissipation ===
+Warm core rings are often reabsorbed by the Gulf Stream, but they can break apart on their own as well if they move onto the continental shelf. The survivability of warm core rings can depend on the region of formation within the Gulf Stream, the season of formation in a year, the latitude of formation, and their proximity to the New England Sea Mount chain.
+
+
+== Detection and Tracking ==
+Warm core rings are easily observed in the Gulf of Mexico or elsewhere through the use of infrared imagery by weather satellites. Since the ocean water temperature of the ring is significantly higher than the surrounding waters, these rings show up easily in infrared images. This, coupled with models of ring movement, allow well-developed tracking of the rings. Because warm core rings include warm water to a significant depth, infrared satellites can differentiate the temperature, unlike cold core rings, which cannot be easily detected due to the rapid warming of waters in a cold core ring. Warm core rings are also detected by sea surface height anomalies. Since warm water takes up more space as it expands than cold water, the large amount of warm water causes an upwelling in sea height which can be detected by buoys.
+
+
+== Adverse Effects ==
+
+
+=== Intensification of Hurricanes ===
+Warm core rings have been linked to the intensification of several hurricanes passing over their location. Because high sea surface temperature as well as warmer water at greater depth is the primary intensifier of a hurricane, warm core rings account for tremendous strengthening of these storms.
+Notably, Hurricane Opal passed over a ring and had sudden increases of wind speed from 110 miles per hour to 135 miles per hour shortly before landfall, a trend also seen in Hurricane Allen and Hurricane Camille. There is evidence that Hurricane Katrina and Hurricane Rita, both notable storms which reached Category 5 intensity, as well as Hurricane Ivan, were also strengthened by warm core rings.
+
+
+=== Effects on Wildlife ===
+Warm core rings typically include far less biological specimens than the surrounding ocean. When the rings approach continental shelves, coastal currents are affected, which can cause organisms to drift onto the shelf that ordinarily would not be there. In fact, there are human accounts of sea turtles and tropical fish which normally live in much warmer waters coming near the coastal shelf due to the deep, warm waters of a warm core ring.
+
+
+=== Damages to Offshore Drilling ===
+Due to currents around warm core rings of up to nearly 5 miles per hour, warm core rings can damage offshore oil platforms and increase the risk of accidents.
+
+
+== Larval Transport ==
+Many fish species' life cycle involves two distinct habitats.  The adults live in warmer temperate waters south of Cape Hatteras, NC while the juveniles are found in estuaries of cooler waters north of Cape Hatteras. Warm Core Rings play an important role in the transport of larvae between the two habitats. Species like the bluefish (Pomatomus saltatrix) and pearly razorfish (Xyrichtys novacula) spawn near the western edge of the Gulf Stream just south of Cape Hatteras.  Because of the convergence of the Gulf Stream from the south and cooler coastal water current from the north, most water around Cape Hatteras flows into the Gulf Stream.  The larvae released near this convergence is swept into the Gulf Stream and flows north.  Since the larvae are planktonic, they don't swim into the center of the Gulf Stream but stay near the western edge.  This is beneficial for when warm core rings form. Warm core rings are formed when the crest of a meander breaks off from the Gulf Stream. Any larvae in the crest of the meanders are then entrapped in the warm core ring.  Once the warm core ring breaks way, it takes a southwesterly path towards the coast. The interaction between warm core rings and the continental shelf creates a weakening of the ring and enables the larvae to escape and continue their journey to nearby estuaries.  The warm core rings formed along the northeastern states can last between 4 and 5 months.  During this time the larvae grow so that by the time they reach the estuaries, they are able to swim away from the warm core ring into the estuaries.
+
+
+== See also ==
+Cold core ring – Type of oceanic eddyPages displaying short descriptions of redirect targets
+Hurricane Katrina – Category 5 Atlantic hurricane in 2005
+Hurricane Rita – Category 5 Atlantic hurricane in 2005
+
+
+== References ==

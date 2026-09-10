@@ -1,0 +1,39 @@
+# Conductivity–temperature–depth instrument
+
+A conductivity–temperature–depth instrument, known as a CTD instrument (or sonde, probe, or device), or simply CTD, is an oceanographic sonde, or probe, that provides measurements of electrical conductivity, temperature, and pressure. CTD stands for conductivity, temperature, and depth, pressure being closely related to depth and electrical conductivity to salinity.
+A CTD may be incorporated into an array of Niskin bottles referred to as a carousel or rosette. The sampling bottles close at predefined depths, triggered either manually or by a computer, and the water samples may subsequently be analyzed further for biological and chemical parameters.
+A CTD may also be used for the calibration of sensors.
+
+
+== Measured properties ==
+The instrument is a cluster of sensors which measure conductivity, temperature, and pressure. Sensors commonly scan at a rate of 24 Hz. Depth measurements are derived from measurement of hydrostatic pressure, and salinity is measured from electrical conductivity. Sensors are arranged inside a metal or resin housing, the material used for the housing determining the depth to which the CTD can be lowered. Titanium housings allow sampling to depths in excess of 10,500 metres (34,400 ft). Other sensors may be added to the cluster, including some that measure chemical or biological parameters, such as dissolved oxygen and chlorophyll fluorescence, the latter an indication of the concentration of microscopic photosynthetic organisms (phytoplankton) contained in the water.
+
+
+== Deployment ==
+
+Deployment of the rosette is from the deck of a research vessel. The instrument is lowered into the water in what is called the downcast to a determined depth or to a few meters above the ocean floor, generally at a rate of about 0.5 m/s. Most of the time a conducting wire cable is attached to the CTD frame connecting the CTD to an onboard computer, and allows instantaneous uploading and real time visualization of the collected data on the computer screen. The water column profile of the downcast is often used to determine the depths at which the rosette will be stopped on its way back to the surface (the upcast) to collect the water samples using the attached bottles.
+
+
+== Technological development ==
+The CTD system was conceived by Neil Brown at the CSIRO Division of Marine Research. Lack of interest by the management saw Brown move to Woods Hole Oceanographic Institution. The CTD  overcame the limitations of an earlier similar system also developed by Brown, called an STD. The improvement was made possible thanks to increased reliability and reduced cost of computer technology.  Prior to this, the Mechanical Bathythermograph (MBT) was the norm.
+
+
+== Advantages and limitations ==
+The advantage of CTD casts is the acquisition of high-resolution data. The limitation of CTD sampling is that only a point in space (the sampling site) can be sampled at one time, and many casts, which are costly and time-consuming, are needed to acquire a broad picture of the marine environment of interest.
+From the information gathered during CTD casts, however, scientists can investigate how physical parameters are related, for example, to the observed distribution and variation of organisms that live in the ocean, thus deepening our understanding of the processes that govern ocean life.
+
+
+== Gallery ==
+
+
+== References ==
+
+
+=== Sources ===
+Baker D. J. 1981 "Ocean instruments and experiment design" Chapter 14, pp. 416–418
+Pickard George L.  and William J. Emery "Descriptive Physical Oceanography, An introduction" 5th ed., Butterworth-Heineman (Elsevier Science): 1990
+Modern oceanographic CTD systems
+History of the development of CTD systems
+
+
+=== Footnotes ===

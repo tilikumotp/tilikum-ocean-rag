@@ -1,0 +1,9 @@
+# Wave buoy
+
+A wave buoy measures how the water surface moves. They are use for statistics about waves.
+Wave buoys are used for wave height and direction.
+They are accurate at measuring wave frequencies.
+Measuring waves is important for transport and safety, which is done by a wave buoy.
+
+
+== References ==

@@ -1,0 +1,93 @@
+# Marine geophysics
+
+Marine geophysics is the scientific discipline that employs methods of geophysics to study the world's ocean basins and continental margins, particularly the solid earth beneath the ocean. It shares objectives with marine geology, which uses sedimentological, paleontological, and geochemical methods. Marine geophysical data analyses led to the theories of seafloor spreading and plate tectonics.
+
+
+== Methods ==
+Marine geophysics uses techniques largely employed on the continents, from fields including exploration geophysics and seismology, and methods unique to the ocean such as sonar. Most geophysical instruments are used from surface ships but some are towed near the seafloor or function autonomously, as with Autonomous Underwater Vehicles or AUVs.
+Objectives of marine geophysics include determination of the depth and features of the seafloor, the seismic structure and earthquakes in the ocean basins, the mapping of gravity and magnetic anomalies over the basins and margins, the determination of heat flow through the seafloor, and electrical properties of the ocean crust and Earth's mantle.
+
+
+=== Navigation ===
+Modern marine geophysics, as with most oceanographic surveying with research ships, use Global Positioning System satellites, either the U.S. GPS array or the Russian GLONASS for ship navigation. Geophysical instruments towed near the seafloor typically use acoustic transponder navigation sonar networks.
+
+
+=== Ocean depth ===
+The depth of the seafloor is measured using echo sounding, a sonar method developed during the 20th century and advanced during World War II. Common variations are based on the sonar beam width and number of sonar beams as is used in multibeam sonar or swath mapping that became more advanced toward the latter half of the 20th century.
+
+
+=== Sedimentary cover of the seafloor ===
+The thickness and type of sediments covering the ocean crust are estimated using the seismic reflection technique. This method was highly advanced by offshore oil exploration companies. The method employs a sound source at the ship with much lower frequencies than echo sounding, and an array of hydrophones towed by the ship, that record echoes from the internal structure of the sediment cover and the crust below the sediment. In some cases, reflections from the internal structure of the ocean crust can be detected. Echo sounders that use lower frequencies near 3.5 kHz are used to detect both the seafloor and shallow structure below the seafloor.  Side-looking sonar, where the sonar beams are aimed just below horizontal, is used to map the seafloor bottom texture to ranges from tens of meters to a kilometer or more depending on the device.
+
+
+=== Structure of the ocean crust and upper mantle ===
+When the sound or energy source is separated from the recording devices by distances of several kilometers or more, then refracted seismic waves are measured. Their travel time can be used to determine the internal structure of the ocean crust, and from the seismic velocities determined by the method, an estimate can be made of the crustal rock type.  Recording devices include hydrophones at the ocean surface and also ocean bottom seismographs. Refraction experiments have detected anisotropy of seismic wave speed in the oceanic upper mantle.
+
+
+=== Measuring Earth’s magnetic and gravity fields within the ocean basins ===
+The usual method of measuring the Earth's magnetic field at the sea surface is by towing a total field proton precession magnetometer several hundred meters behind a survey ship. In more limited surveys magnetometers have been towed at a depth close to the seafloor or attached to deep submersibles.  Gravimeters using the zero-length spring technology are mounted in the most stable location on a ship; usually towards the center and low. They are specially designed to separate the acceleration of the ship from changes in the acceleration of Earth's gravity, or gravity anomalies, which are several thousand times less. In limited cases, gravity measurements have been made at the seafloor from deep submersibles.
+
+
+=== Determine the rate of heat flow from the Earth through the seafloor ===
+The geothermal gradient is measured using a 2-meter long temperature probe or with thermistors attached to sediment core barrels. Measured temperatures combined with the thermal conductivity of the sediment give a measure of the conductive heat flow through the seafloor.
+
+
+=== Measure the electrical properties of the ocean crust and upper mantle ===
+Electrical conductivity, or the converse resistivity, can be related to rock type, the presence of fluids within cracks and pores in rocks, the presence of magma, and mineral deposits like sulfides at the seafloor. Surveys can be done at either the sea surface or seafloor or in combination, using active current sources or natural Earth electrical currents, known as telluric currents.
+In special cases, measurements of natural gamma radiation from seafloor mineral deposits have been made using scintillometers towed near the seafloor.
+
+
+== Examples of the impact of marine geophysics ==
+
+
+=== Evidence for seafloor spreading and plate tectonics ===
+Echo sounding was used to refine the limits of the known mid-ocean ridges, and to discover new ones. Further sounding mapped linear seafloor fracture zones that are nearly orthogonal to the trends of the ridges.  Later, determining earthquake locations for the deep ocean discovered that quakes are restricted to the crests of the mid-ocean ridges and stretches of fracture zones that link one segment of a ridge to another. These are now known as transform faults, one of the three classes of plate boundaries. Echo sounding was used to map the deep trenches of the oceans and earthquake locations were noted to be located in and below the trenches.
+Data from marine seismic refraction experiments defined a thin ocean crust, approximately 6 to 8 kilometers in thickness, divided into three layers. Seismic reflection measurements made over the ocean ridges found they are devoid of sediments at the crest, but covered by increasingly thicker sediment layers with increasing distance from the ridge crest. This observation implied that the ridge crests are younger than the ridge flanks.
+Magnetic surveys discovered linear magnetic anomalies that in many areas ran parallel to an ocean ridge crest and showed a mirror-image symmetrical pattern centered on ridge crests. Correlation of the anomalies to the history of Earth's magnetic field reversals allowed the age of the seafloor to be estimated. This connection was interpreted as the spreading of the seafloor from the ridge crests. Linking spreading centers and transform faults to a common cause helped to develop the concept of plate tectonics.
+When the age of the ocean crust as determined by magnetic anomalies or drill hole samples was compared to the ocean depth it was observed that depth and age are directly related in a seafloor depth age relationship. This relationship was explained by the cooling and contracting of an oceanic plate as it spreads away from a ridge crest.
+
+
+=== Evidence for paleoclimate ===
+Seismic reflection data combined with deep-sea drilling at some locations have identified widespread unconformities and distinctive seismic reflectors in the deep sea sedimentary record. These have been interpreted as evidence of past global climate change events. Seismic reflection surveys made on polar continental selves have identified buried sedimentary features due to the advance and retreat of continental ice sheets. Swath sonar mapping has revealed the gouge tracks of ice sheets cut as they traversed polar continental shelves in the past.
+
+
+=== Evidence for hydrothermal vents ===
+
+Heat flow measured in the ocean basins revealed that conductive heat flow decreased with the increased depth and crustal age of flanks of ocean ridges. On the ridge crest, however, conductive heat flow was found to be  unexpectedly low for a location where active volcanism accompanies seafloor spreading. This anomaly was explained by the possible heat transfer by hydrothermal venting of seawater circulating in deep fissures in the crust at the ridge crest spreading centers. This hypothesis was borne out in the late 20th century when investigations by deep submersibles discovered hydrothermal vents at spreading centers.
+
+
+=== Evidence for Mid-Ocean Ridge structure and properties ===
+Marine gravity profiles made across Mid-Ocean Ridges showed a lack of a gravity anomaly, the Free-air anomaly is small or near zero when averaged over a broad area. This suggested that although ridges reached a height at their crest of two kilometers or more above the deep ocean basins, that extra mass was not related to an increase of gravity on the ridge of the magnitude that would be expected. The ridges are isostatically compensated, meaning the total mass below some reference depth in the mantle below the ridge is about the same everywhere. This requires a lower density mantle below the ridge crest and upper ridge flanks. Data from seismic studies revealed lower velocities under the ridges suggesting parts of the mantle below the crests are lower density rock melt. This is consistent with the theories of seafloor spreading and plate tectonics.
+
+
+== Centers of research conducting marine geophysics ==
+Ocean University of China
+Alfred Wegener Institute for Polar and Marine Research
+Bedford Institute of Oceanography
+Cambridge University
+IFREMER
+Lamont–Doherty Earth Observatory
+National Dong Hwa University Graduate Institute of Marine Biology
+National Institute of Water and Atmospheric Research
+National Oceanography Centre, Southampton
+Rosenstiel School of Marine, Atmospheric, and Earth Science
+Scripps Institution of Oceanography
+Texas A&M University
+University of Hawaii (Manoa)
+University of Rhode Island
+University of Washington (Seattle)
+Woods Hole Oceanographic Institution
+
+
+== See also ==
+Project FAMOUS
+RISE Project
+
+
+== References ==
+
+
+== Further reading ==
+Arora, K.; Gupta, H.; Cazenave, A.; Engdahl, E. R.; Kind, R.; Manglik, A.; Roy, S.; Sain, K.; Uyeda, S. (2011). Encyclopedia of solid earth geophysics. Dordrecht: Springer Netherlands. ISBN 9789048187010.
+Harff, J.; Meschede, M.; Petersen, S.; Thiede, J. (2014). Encyclopedia of marine geosciences. Springer Netherlands. ISBN 9789400766440.
+Jones, E. J. W. (1999). Marine geophysics. Chichester: Wiley. ISBN 978-0471986942.

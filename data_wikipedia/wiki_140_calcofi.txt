@@ -1,0 +1,48 @@
+# CalCOFI
+
+CalCOFI (California Cooperative Oceanic Fisheries Investigations) is a multi-agency partnership formed in 1949 to investigate the collapse of the sardine population off California. The organization's members are from NOAA Fisheries Service, Scripps Institution of Oceanography, and California Department of Fish and Wildlife.  The scope of this research has evolved into the study of marine ecosystems off California and the management of its fisheries resources.  In 2004, the CalCOFI survey area became one of 26 Long Term Ecological Research Network (LTER) research sites. This time-series of oceanographic and fisheries data allows scientists to assess the human impact and effects of climate change on the coastal ocean ecosystem. CalCOFI hydrographic and biological data, publications, and web information are distributed for use without restriction under the terms of the GNU Free Documentation License.
+
+
+== Origin ==
+The Pacific Sardine Fishery was once the largest fishery by volume of the North American Pacific Coast. The fishery developed in the 1920s, peaking in the 1930s with sardine landings reaching over 700,000 tons in California, but was followed by a precipitous collapse in the 1940s. Recommendations and early warnings of a fishery collapse were given throughout the period with an emphasis of setting annual catch limits given by fishery scientists, for example Scofield and Frances Clark.  Disregarding the early warnings, the Pacific Sardine fishery continued in part driven by the wartime requirement for cheap sources of protein; by the 1940s and 1950s, catches declined by an order of magnitude to 80,000 tons. In the decade that followed, sardine catches continued to decline to 20,000 tons.
+The Sardine Fishery collapse was a major catalyst for the development of the California Cooperative Sardine Research Program, a precursor to the CalCOFI program. The consensus concern for the program was whether this collapse was due to increased fishing pressure or environmental change. The program was initially led by Oscar Elton Sette, who forged a collaboration between research institutions (Scripps Institution of Oceanography) and government agencies (California Fish and Game Commission – now the California Department of Fish and Wildlife – and the United States Fish Commission – now known as the NOAA Fisheries Service) with the goal of resource management and fisheries conservation of the Eastern Pacific.
+The CalCOFI program was initially met with skepticism. The program was seen as a diversionary tactic, initiating further picayune studies of sardine abundance to delay sardine catch regulations. Nevertheless, after the sardine fishery reached a low point in 1947, efforts were focused on the investigation of the underlying forces that govern sardine abundance.
+
+
+== Sampling pattern ==
+The CalCOFI Station pattern was based on a centric-systematic-area design.
+CalCOFI sampling lines were designed to be normal to the central California coast centered at Point Conception, designated as CalCOFI Line 80. The original sampling pattern extended from Line 10 at the US-Canada border to Line 120 off Point Eugenia, Baja California, Mexico, with a spacing of 120 miles between lines (i.e. distance between lines 80 and 90 is 120 miles). Since its conception, additional lines were added within the domain, creating a 40-mile spacing between lines, which are now numbered in fractions of 3's and 7's (80, 83, 87, 90, etc.).
+Regular surveying began in 1951; however, CalCOFI data go back to 1949. Like all research and fishery surveys, there are many variables that play a role in the design of the survey pattern. The CalCOFI program has surveyed a wide variety of spatial ranges. Thus, CalCOFI surveys are generally grouped into sampling domains, which are commonly covered over the duration of this ecological study
+The largest sampling domain, which has been covered multiple times, is the area from the California–Oregon border to the tip of Baja California Sur, Mexico. This region was heavily surveyed in the 1950s (1951, 1952, 1954, 1956, 1958-1960, and 1972). Another large domain runs from San Francisco to southern Baja California (surveyed in 1953, 1955, 1957, 1961–1966, 1968, 1974, 1975, 1978, 1980, and 1981).
+The sampling domain extending from San Diego to Avila Beach is today called the "core CalCOFI area". These 66 stations have been covered over the entire time series, with exceptions only due to years where no cruises were conducted. A series of inshore South California Coastal Ocean Observing System (SCCOOS) stations (all at a water depth of approximately 20 m (66 ft)) were added to the core CalCOFI pattern in 2004, resulting in a 75-station pattern.
+Less common sampling patterns of the intermediate domain have also been conducted. This includes a survey region from San Francisco to San Diego, which has become increasingly sampled during the spring survey because the domain covers an expanded region of known sardine spawning grounds. The data from these spring cruises are heavily relied upon for sardine stock assessment and other related research.
+Every line apart from the CalCOFI sampling scheme and its corresponding stations has experienced some degree of difference and variation in spatial and temporal sampling frequency. Furthermore, technological advances have allowed increasing amounts of new chemical, physical, and biological properties to be measured within the water column. Line 90, which is a part of the core CalCOFI station domain positioned across the mid-Southern California Bight, is the best-sampled and most visited line in the time series. The data from Line 90 is used in many transect figures and analyses.
+There are a variety of similar survey programs collecting analogous data across the West Coast. These programs range in temporal and spatial extent. One such program is the Investigaciones Mexicanas de la Corriente de California (IMECOCAL) program out of Mexico, which samples the Eastern Pacific around Baja California.
+
+
+== Gear used ==
+A variety of nets and related instrumentation have been deployed on CalCOFI cruises over the years. Many of these have been developed for use by the CalCOFI program. Oblique tows using a Bongo net are employed to sample for micronekton, mesozooplankton, and ichthyoplankton. Vertical tows for icthyoplankton and mesozooplankton are conducted using a Pairovet and PRPOOS Net. Finally, surface tows with a Manta net are used to sample neuston. Supplementary sampling focuses on the collection of juvenile and small fish via trawling techniques. This includes using a Modified Isaacs Kidd Net, a Matsuda Oozeki Hu trawl (MOHT), and the Nordic rope trawl.
+
+
+=== CalCOFI nets ===
+
+
+=== Supplementary nets ===
+
+
+== See also ==
+Californian pilchard — Sardinops sagax caeruleus
+Sardine run
+Environmental impact of fishing
+
+
+== Further Information ==
+California Cooperative Oceanic Fisheries Investigations
+CCE-LTER Long Term Ecological Research Network
+NOAA Southwest Fisheries Science Center
+Cal Fish & Wildlife Marine Resources
+California Cooperative Oceanic Fisheries Investigations (CalCOFI) Records RSS-S 50. Special Collections & Archives, UC San Diego Library.
+California Cooperative Oceanic Fisheries Investigations (CalCOFI): Acoustic and Trawl Data, UC San Diego Library
+
+
+== References ==

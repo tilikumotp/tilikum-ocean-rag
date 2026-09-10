@@ -1,0 +1,18 @@
+# Cabbeling
+
+Cabbeling occurs when two separate water parcels mix to form a third that sinks below both parents. The combined water parcel is denser than the original two water parcels.
+The two parent water parcels may have the same density, but they have different properties; for instance, different salinities and temperatures. Seawater almost always gets denser if it gets either slightly colder or slightly saltier. But medium-warm, medium-salty water can be denser than both fresher, colder water and saltier, warmer water; in other words, the equation of state for seawater is monotonic, but non-linear. See diagram.
+Cabbeling may also occur in fresh water, since pure water is densest at about 4 °C (39 °F) (39 °F (4 °C)). A mixture of 1 °C water and 6 °C water, for instance, might have a temperature of 4 °C, making it denser than either parent. Ice is also less dense than water, so although ice floats in warm water, meltwater sinks in warm water.
+The densification of the new mixed water parcel is a result of a slight contraction upon mixing; a decrease in volume of the combined water parcel.  A new water parcel that has the same mass, but is lower in volume, will be denser.  Denser water sinks or downwells in the otherwise neutral surface of the water body, where the two initial water parcels originated.
+
+
+== History of term ==
+The importance of this process in oceanography was first pointed out  by Witte, in a 1902 publication (Witte, E. (1902). "Zur Theorie der Stromkabbelungen" (PDF). Gaea, Köln.).
+The German origin of the term has caused some etymological confusion and disagreements as to the correct spelling of the term; for details, see the Wiktionary entry on cabelling. Oceanographers generally follow Stommel and refer to the process as "cabbeling".
+
+
+== High-latitude cabbeling ==
+Cabbeling may occur frequently in high-latitude waters. Polar region waters are a place where cold and fresh water melting from sea ice meets warmer, saltier water.  Ocean currents are responsible for bringing this warmer, saltier water to higher latitudes, especially on the eastern shores of Northern Hemisphere continents, and on the western shores of Southern Hemisphere continents.  The phenomenon of cabbeling has been particularly noted in the Weddell Sea and the Greenland Sea.
+
+
+== References ==

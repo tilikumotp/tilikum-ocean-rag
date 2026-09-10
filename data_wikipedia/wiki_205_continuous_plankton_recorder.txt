@@ -1,0 +1,47 @@
+# Continuous Plankton Recorder
+
+The Continuous Plankton Recorder (CPR) Survey is one of the longest running marine biological monitoring programmes in the world. Started in 1931 by Sir Alister Hardy and Sir Cyril Lucas, the Survey provides marine scientists and policy-makers with measures of plankton communities, coupled with ocean physical, biological and chemical observations, on a pan-oceanic scale. The Survey is a globally recognised leader on the impacts of environmental change on the health of our oceans.
+Today the CPR Survey is operated by the Marine Biological Association (MBA), located in Plymouth, UK. Uniquely, the CPR Survey's methods of sampling and plankton analysis remain unchanged since 1948, providing a spatio-temporally comprehensive > 70 year record of marine plankton dynamics.
+
+
+== Sampling and analysis ==
+
+The CPR is a torpedo-shaped plankton sampling instrument designed to be towed from merchant ships, or ships of opportunity, on their normal sailings. As of December 31, 2020, the Survey had been towed a total of 7,063,622 nmi (13,081,828 km) by 278 ships since the survey's inception. In March 2021 the Survey was awarded a Guinness World Record for the 'Greatest Distance Sampled by a Marine Survey' equivalent to 326 circumnavigations of the world – over the course of its almost 90 year history. 
+The greatest distance sampled in a single year was 140,208 nautical miles (259,665 kilometres; 161,348 miles), logged in 2014.
+CPRs have been towed in all oceans of the world, the Mediterranean, Baltic and North Seas and in freshwater lakes. However, CPR sampling primarily focuses on the northwest European shelf and the Northeast and Northwest Atlantic, with these regions undergoing monthly sampling; regular sampling is also now carried out in the North Pacific. Additionally, sister CPR surveys, not conducted by the MBA but using similar methodology, are operated from the United States, Australia, India, Cyprus, Brazil, South Africa, France and Japan, as part of the Global Alliance of Continuous Plankton Recorder Surveys.
+The CPR is towed at a depth of approximately 10 metres. Water passes through the CPR and plankton are filtered onto a slow-moving band of silk (270 micrometre mesh size) and covered by a second silk. The silks and plankton are then spooled into a storage tank containing formalin. On return to the laboratory, the silk is removed from the mechanism and divided into samples representing 10 nautical miles (19 km) of tow.
+CPR samples are analysed in two ways. Firstly, the Phytoplankton Colour Index (PCI) is determined for each sample. The colour of the silk is evaluated against a standard colour chart and given a 'green-ness' value based on the visual discoloration of the CPR silk produced by green chlorophyll pigments; the PCI is a semi-quantitative estimate of phytoplankton biomass. In this way the PCI takes into account the chloroplasts of broken cells and small phytoplankton which cannot be counted during the microscopic analysis stage. After determination of the PCI, microscopic analysis is undertaken for each sample, and individual phytoplankton and zooplankton taxa are identified and counted. Nearly 800 phyto- and zooplankton taxa have been identified on CPR samples since 1948.
+
+
+== Plankton Archive ==
+Housing the world's largest catalogued plankton archive with samples dating back to the late 1950s, the Survey holds thousands of samples from around the world. These are available for various types of retrospective analysis such as microscopic/ taxonomic, molecular and isotopic.
+
+
+== Ecological research ==
+Due to its long time-series, comprehensive spatial coverage and methodological consistency, the Continuous Plankton Recorder Survey is a unique ecological dataset which has provided invaluable insights into numerous aspects of plankton dynamics and ecology. Its science mission is to provide the 'big picture' on global ocean change from genes to ecosystems.
+Key areas of research include:
+
+Climate change
+Biodiversity and biogeography
+Eutrophication
+Harmful Algal Blooms (HABs)
+Fisheries investigations
+Plankton ecology
+Taxonomy
+Regime shifts
+Non-indigenous species
+Marine Litter including microplastics
+Ocean Acidification
+Human Health
+Research results show that warmer water species of plankton are moving northwards towards the colder North Atlantic at a rate of about 23 km (14 mi) per year and that some plankton species have moved 1,000 km (620 mi) north over the course of 50 years due to regional climate warming. But they are not replacing the cold water species in similar abundance. The open oceans are not yet subject to eutrophication or changes due to acidification. It has detected a new species in the North Atlantic which may be the first evidence of Trans-Arctic species migration in modern times.
+The term "microplastics" was introduced in 2004 by Professor Richard Thompson, a marine biologist at the University of Plymouth in the United Kingdom using silks sampled by the CPR. The Survey is unique in that it has an historical archive with samples available for retrospective analysis. Research shows the number of microplastics collected on CPR samples is increasing. Despite their prevalence, very few long-term (>40 years) records of the distribution and temporal trends of plastics in the world's oceans exist. The CPR Survey presented a new time series, from 1957 to 2016 and covering over 6.5 million nautical miles, based on records of when plastics have become entangled on a towed marine sampler. This consistent time series provides some of the earliest records of plastic entanglement, and is the first to confirm a significant increase in open ocean plastics in recent decades.
+
+
+== References ==
+
+
+== External links ==
+Official CPR Survey website
+Global Alliance of CPR Surveys
+SCAR Southern Ocean Continuous Plankton Recorder Survey
+Australian Continuous Plankton Recorder Project

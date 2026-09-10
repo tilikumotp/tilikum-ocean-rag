@@ -1,0 +1,44 @@
+# Weather routing
+
+Weather routing is a commercial service provided by commercial companies for cargo ships, to optimize their voyage performance. An adventure version of the same used for sailing boats is referred to as sailing weather prediction or sailing weather routing. The latter focusses more on the forecasting and routing of wind and currents for adventurers and competitive sailors participating in ocean sports like yacht races.
+
+
+== For maritime commercial usage ==
+A number of large cargo ships use weather routing services for ocean passages. They are primarily geared towards protecting owners and charterers from speed claims, a secondary use being to reduce fuel consumption and improve ETAs (estimated time of arrival). Weather routing companies include:
+SOFAR Ocean (providing real-time data via a network of spotter buoys across the ocean),
+Blue Water Optimum Speed Services (BOSS),
+Oceanroutes,
+Optimum Voyage,
+SPOS,
+StormGeo AWT (formerly Applied Weather Technology),
+WNI and
+WRI.
+Promoters of weather routing companies cite high fuel savings due to their use, while many mariners tend to be sceptical of their advantages due to a number of maritime accidents (such as the sinking of the Derbyshire in 1980, and the parametric rolling of APL China in 1998) and cargo damages that continue to occur even when vessels follow routing advice. A few routing programs employ the Dijkstra algorithm and do not consider the different responses of each ship to the same weather, as the latter is difficult to estimate.
+
+
+== For sailing ==
+Weather forecasting for sailing involves several activities such as weather training and coaching, dissemination of data for use in navigation and route planning software, race modeling which involves historical weather and sea state analysis for yacht and sail design, trip and adventure planning for distance races and record attempts, monitoring for departure and trip weather windows. It involves several type of events such as day races, long-distance races, around-the-world-races, and record attempts. It is routinely used in races such as  Volvo Ocean Race, America's Cup campaigns, and olympic  classes regattas.
+
+
+=== Long-distance sailboat races ===
+Weather forecasting for long-distance races is based on dissemination of meteorological data, most often in GRIB format,  for use in navigation and route planning software and yacht characteristics (polars), providing guidance, as well as analysis of historical weather and sea state data.
+
+
+==== Data ====
+GRIB (GRIdded Binary) is a concise data format commonly used in meteorology to disseminate forecast weather data. For sailing purposes the GRIBs are transmitted and received at sea. These GRIBs   contain only small subset of surface data, usually winds (direction and wind speed), information about wave strength (proportional to significant wave height) and direction, surface pressure. The data is further reduced by providing its subset around the position of a yacht. The data is transmitted over satellite phones and single side band radios.
+
+
+==== Software ====
+Modern sailing weather forecasting involves transmission of weather forecasts which are used in on-board software which simulates optimal (and safest) routing in distance races. The data is often transmitted in form of GRIB files or similar which are customized for specific areas. These files are suitable for use in popular routing and tactical racing software.
+
+
+=== Olympic sailing ===
+Weather forecasting for olympic class sailing is a form of nowcasting predicting weather and currents in approximately 0–6 hours timeframe. Even though understanding of synoptic weather conditions is of importance but mesoscale and local scale events take precedence. The forecast includes predictions of the sea-breeze onset, turbulent winds shifts, coastal jets, changes in tidal currents, fog, as well as wind acceleration and directional changes associated with clouds.
+
+
+== References ==
+
+
+== Bibliography ==
+David Houghton and Fiona Campbell, Wind Strategy, 2005, ISBN 978-1-904475-12-5
+Tim Thornton, A Review of Weather Routing of Sailboats, Journal of Navigation Vol. 46 No. 1 pp 113–129

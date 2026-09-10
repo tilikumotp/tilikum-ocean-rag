@@ -1,0 +1,10 @@
+# Calcite sea
+
+A calcite sea is a sea in which low-magnesium calcite is the primary inorganic marine calcium carbonate precipitate. An aragonite sea is the alternate seawater chemistry in which aragonite and high-magnesium calcite are the primary inorganic carbonate precipitates. The Early Paleozoic and the Middle to Late Mesozoic oceans were predominantly calcite seas, whereas the Middle Paleozoic through the Early Mesozoic and the Cenozoic (including today) are characterized by aragonite seas.
+
+The most significant geological and biological effects of calcite sea conditions include rapid and widespread formation of carbonate hardgrounds, calcitic ooids, calcite cements, and the contemporaneous dissolution of aragonite shells in shallow warm seas. Hardgrounds were very common, for example, in the calcite seas of the Ordovician and Jurassic, but virtually absent from the aragonite seas of the Permian.
+Fossils of invertebrate organisms found in calcite sea deposits are usually dominated by either thick calcite shells and skeletons, were infaunal and/or had thick periostraca, or had an inner shell of aragonite and an outer shell of calcite. This was apparently because aragonite dissolved quickly on the seafloor and had to be either avoided or protected as a biomineral.
+Calcite seas were coincident with times of rapid seafloor spreading and global greenhouse climate conditions. Seafloor spreading centers cycle seawater through hydrothermal vents, reducing the ratio of magnesium to calcium in the seawater through metamorphism of calcium-rich minerals in basalt to magnesium-rich clays. This reduction in the Mg/Ca ratio favors the precipitation of calcite over aragonite. Increased seafloor spreading also means increased volcanism and elevated levels of carbon dioxide in the atmosphere and oceans. This may also have an effect on which polymorph of calcium carbonate is precipitated. Further, high calcium concentrations of seawater favor the burial of CaCO3, thereby removing alkalinity from the ocean, lowering seawater pH and reducing its acid/base buffering.
+
+
+== References ==

@@ -1,0 +1,99 @@
+# Endeavour Hydrothermal Vents
+
+The Endeavour Hydrothermal Vents (also known as the Main Endeavour Field, MEF, or EHV) are a group of hydrothermal vents in the north-eastern Pacific Ocean, located 260 kilometres (160 mi) southwest of Vancouver Island, British Columbia, Canada. The vent field lies 2,250 metres (7,380 ft) below sea level on the northern Endeavour segment of the Juan de Fuca Ridge. In 1982, dredged sulfide samples were recovered from the area covered in small tube worms and prompted a return to the vent field in August 1984, where the active vent field was confirmed by HOV Alvin on leg 10 of cruise AII-112.
+The temperatures within the Endeavour Hydrothermal Vent fields differs at the various depths despite some vents being just metres apart. This also has an effect on the different microorganisms and invertebrates that live within the region. In order to best grasp the scale of the EHV region, autonomous vehicles have been deployed to survey the areas and cable systems have been put in place so that better management practices can be taken. The protected area for the Endeavour Hydrothermal Vents is located on the ridge of the Juan de Fuca plate, and the established zone is 100 km2 (39 sq mi).
+The vent field falls under Canadian jurisdiction and designated as a Canadian Marine Protected Area.
+
+
+== Geology and geomorphology ==
+
+The Endeavour section of the Juan de Fuca Ridge is approximately 90 km long and spreads at 6 cm per year. Along the ridge, there are six major vent fields (including Stockwork) and over 800 individual chimneys have been recorded over a 15 kilometres (9.3 mi) section of the ridge. Other vent fields of this section include High Rise, Mothra, Salty Dawg, Sasquatch, and Stockwork. All sites are basalt-hosted.
+The MEF is located on the west side of the spreading axis at a depth of approximately 2,200 metres (7,200 ft). The mineralogy of the vent field is dominated by metal sulfides, particularly those of iron and zinc. Major sulfide phases consist of pyrite, chalcopyrite, wurtzite, and marcasite. The MEF has a significant amount of inactive chimneys and is estimated to have been active for at least 2,300 years. Within the field, there are 16 named venting sites (as assembled by InterRidge). These sites are: Bastille, Crypto, Dante, Dudley, Easter Island, Grotto, Hulk, Lobo, MilliQ, Peanut, Puffer, Salut, Smoke & Mirrors, Sully, TP, and Quebec.
+The Endeavour segment is tectonically active and there have been many reported tectonic events since the discovery of the MEF. Tectonic events like diking, such as those detected by SOSUS in 1999, caused vent geochemistry to change drastically throughout the field. Another diking event was detected in 2005. Following these events, the hydrothermal activity of the MEF has been waning and some venting sites like MilliQ have been confirmed to be extinct.
+
+
+=== Vent structure ===
+Hydrothermal vents can sometimes be seen as roughly cylindrical chimney structures. Minerals that are dissolved in the vent fluid give rise to the vents overall structure. This is because minerals precipitate out to produce particles that increase the height of the stacks when the superheated water comes into contact with the sea water that is almost frozen. This can result in the chimney's structure growing up to 60 metres. Only the axial graben and the graben's near rims above the seismically observed magma lens exhibit hydrothermal activity. Main Endeavour has shown very little volcanic activity over the past 4,300 years, and as such, dormant chimneys are not buried as they are on other peaks.
+
+The hydrothermal vents in the area also consist of black and white smoker chimneys that are 20 metres (66 ft) or taller. Black smokers emit black fumes due to being formed from deposits of iron sulfide, whereas white smokers contain barium, calcium, and silicon, and as such emits a lighter-hue of smoke.
+
+
+== Heating and chemistry ==
+Heat of the Endeavour Hydrothermal Vents is supplied by the conductive cooling of the Earth's crust along the axis and from magmatic sources beneath the field. Seawater seeps diffusively or through cracks into the Earth's crust, warms at depth, and then rises back up after it is heated at venting orifices. This heated water supplies energy and nutrients for chemoautotrophic organisms to thrive in this environment.
+
+
+=== Chemical ecology ===
+A large, intricate ecology is supported on and below the deep ocean floor by hydrothermal vents connected to the system of global oceanic ridges. Fluids from deep ocean vents have a diverse spectrum of chemical compositions and are frequently enriched in metal sulfides, such as those from iron, copper, calcium, silicon, and zinc as well as metalloids. The cooling and mixing of hot hydrothermal fluids with cold seawater results in the formation of hydrothermal vent deposits on the seafloor. Among the major sulphide and sulphate minerals preserved at vent sites, barite (BaSO 4) is unique in that precipitation requires the direct mixing of Ba-rich hydrothermal fluid with sulfate-rich seawater. Barite crystals retain geochemical fingerprints associated with formation conditions due to their extremely low solubility.
+
+
+=== Thermal biology ===
+With reported vent temperatures of 402 °C (756 °F), phase separation has been inferred to occur within fluids beneath the field. Differing ratios of brine and vapour phases have been used to characterize geochemistry at sites such as Bastille and Dante. High temperatures also allow metals to stay in solution, allowing for distinctive black-smoker chimneys. Through a combination of targeted, high-temperature (350 °C) venting and diffuse, low-temperature (10-25 °C) venting, the Main Endeavour field alone produces a total heat flux of 650±100 megawatts (MW). According to their thermal, particle, and chemical anomalies, vent plumes rise 50 to 350 metres above the seafloor to a level of neutral buoyancy. While the plumes rising above the ridge crests are free to drift with the ambient flow, the deeper portions of the plumes may remain stuck inside the valley.
+The environment of the Endeavour Hydrothermal Vent field experiences extreme temperature ranges of 300 °C all the way down to 2 °C from even just a few metres away. Stressors like elevated acidity, carbon dioxide (CO2), sulfide, anoxia, and metal ions are just a few examples of the extreme conditions in fluid vents. The hydrothermal vents wouldn't normally be thought of as able to sustain a reliable habitat due to the turbulent nature of the vent fluid. However, researchers have found that the vents are stable for most of the year except for a 40 °C temperature spikes in the month of April. Although temperatures this high can be lethal to organisms existing there, habitats there can be stable even at well below preferred temperatures. Researchers have theorized that vent animals have adapted to the rapid change in temperatures and thus are able to live within or near these vents.
+
+
+== Biodiversity ==
+Hydrothermal vents are located at mid-ocean ridges, where an abundance of life is present, providing high biodiversity and productivity. They provide habitats for many unique species of animals. Researchers have identified 12 endemic species to the Endeavour Segment of the Juan de Fuca Ridge that do not exist anywhere else in the world including the sea spider (Sericosura venticola). This endemic species is currently classified as imperiled, and is at risk of facing extinction. Many marine mammals, such as Dall's porpoise, sperm whales, Pacific white-sided dolphin, leatherback sea turtle, and northern elephant seal have also been spotted in the waters where vent fields are located. The organisms at the hydrothermal vent systems range from microorganisms to invertebrates where each have an interchanging role with one another. A sulfide-hosted microbe from this site can live in environments up to 121 °C, which is the record for the upper limit for life.
+
+
+=== Microorganisms ===
+The microbiome population is made up mostly of proteobacteria and archaea. There is limited archaeal diversity, however, as only 12 phylotypes have been detected in the area. All others have been identified as being clones, with Desulfurococcales being the most common clone. Many of the microbes present in this environment have either a sulfur oxidizing or sulfur reducing metabolism, leading to the possibility of sulfur cycling in these areas. Due to the large amount of microbial biomass, vent fields have become a hotspot for viruses. Researchers found that high flow areas were dominated by sulfur and hydrogen oxidizing bacteria, while low flow areas were dominated by heterotrophic bacteria. Epsilonproteobacteria are dominant bacteria at some sites of the MEF and genes have been identified that are associated with nitrogen fixation.
+
+
+=== Invertebrates ===
+The main invertebrate found in these areas is the tubeworm (Ridgeia piscesae), which has a "short fat" morphology when it is in high flow areas near the vents, and a 'long skinny' morphology when in low flow areas farther away from the vents. The dominating invertebrate species that have been recorded are spider crabs (Macroregonia macrochira), sulphide worms (Paralvinella sulfincola), limpets (Lepetodrilus), polynoid scaleworms, and palm worms (Paralvinellae palmiformis) that belong to the Alvinellidae family. Furthermore, symbiotic vent bacteria provide nutrients to the animals living there through the process of chemosynthesis since no sunlight reaches the depths of the Endeavour vent fields.
+
+
+== Expeditions and marine protected area management ==
+The Endeavour hydrothermal vent fields are under the protection of the Marine protected areas (MPA), and was established in 2003 under the Oceans Act because of its diverse and unique biological environment. Under these regulations, activities that pose any harm to vent systems is prohibited. The hydrothermal vent fields—Salty Dawg, High Rise, Main Endeavour, and Mothra—were divided up into four different subfields after being mapped in 1991. A fifth vent field, Sasquatch, was later discovered in 2000 and is situated just north of Salty Dawg. Out of these vent fields, Mothra and Main Endeavour have had more researched performed on them compared to the other three. On the other hand, Salty Dawg and High Rise are labelled as having the highest precaution, limiting the number of observations and activities that can be done in the fields. The last remaining vent, Sasquatch, as well as other minor vents in the area, has yet to be included into any management plans. Although the vents have been under the MPA's since 2003, a management plan for the fields was only enacted in 2010. The management plan focuses on four specific areas of study using "[a] precautionary approach, ecosystem-based approach, adaptive management, and collaboration".
+
+
+=== Autonomous underwater vehicle expeditions ===
+
+An unmanned remote-controlled vehicle, MBARI AUV D. Allan B. and other autonomous underwater vehicles (AUV) revealed that there were 572 hydrothermal sulfide chimneys total, of which only 47 are known to be currently active within the 14-kilometre (8.7 mi) segment of the ridge. The primary data for this research was done by using MBARI AUV D. Allan B.
+
+
+=== First Nations involvement ===
+During the early 2000s, due to the geographical instabilities, many consultations and workshops were held to discuss and process the designation of the Endeavour Hydrothermal Vent system (EHV) as a MPA. During this time, the Central Region Board on Vancouver Island was included in the process. The Central Region Board was made up of all Nuu-chah-nulth First Nations Chiefs as well as representatives from local and regional governments. There were no objections from the Board. According to pre-designation presentations to the Central Region Board, there are no substantive First Nation interests in the EHV MPA. However, because the area falls within the statement of intent area of the Nuu-chahnulth Tribal Council (NTC) Treaty claim, the NTC may have an interest in managing the MPA in the future.
+
+
+=== Area protection ===
+Since the area is under the protection of the Marine Protected Areas act, any forms of deep-sea mining is prohibited within the area as this could harm the species that currently live there as well damage the hydrothermal vent systems. The area was under the MPA act before any mining could take place within the area. The government of Canada cannot prevent fishing vessels and normal routine traffic from going through the area, however, despite being a Marine Protected Area. This poses a problem because of the risk associated with pollution from the ships, oil spills, and noise that come with them. Any violations of the MPA regulations within the area can face penalties under the Oceans Act, or Fisheries Act depending on the issue.
+
+
+== Cabled observatory ==
+
+Since 1987, Canada has been utilizing their cabled observatory called North Pacific Time-Series Underwater Experiment (NEPTUNE). NEPTUNE was founded by the Ocean Networks Canada (ONC) in joint with the National Science Foundation's Ocean Observatories Initiative (OOI). The US installed a sister cabled observatory at Axial Seamount called the Regional Cabled Array.
+Established in 2011, real-time monitoring of the MEF became possible through a NEPTUNE node established at the site Grotto. This enables scientific parameters, such as temperature, to be collected continuously. In 2017, the node was serviced to begin a major expansion to add additional cameras and in situ geochemical sensors.
+Although there are five different vent fields that are observed and researched, the NEPTUNE cable observatory only extends from Mothra to Main Endeavour vent fields. Furthermore, the real-time cable system for the Main Endeavour field was only established in 2010 by Ocean Networks Canada (ONC) as part of NEPTUNE, and real-time observing has been continuing since 2011. The installation of this cable was established so that better research opportunities and MPA management can be done.
+
+
+== Scientific discoveries ==
+The Endeavour Hydrothermal vents are home to several important scientific discoveries which include:
+
+1982: discovery of the first vents in Juan de Fuca Ridge
+1984: exploration of the first extensive seafloor ore deposits
+1989: discovery of glowing vents, which are vents that emit thermal radiation due to high temperature fluids above 350 °C coming out of the vent.
+1990: discovery of highest neutral water temperatures known to Earth
+1991: first extensive usage of undersea robotic vehicles
+2000: Discovery of a fifth vent field, Sasquatch
+2008-2011: Discovery of 572 chimneys in the area
+Discovery of the organism that holds the record for the upper temperature limit to life (121 °C)
+First evidence that hydrothermal plumes were zones of greatly enhanced zooplankton aggregation
+First measurements of biomass fluxes relating to hydrothermal plumes
+To this day, the Endeavour Hydrothermal Vents still continues to be a site where scientists such as biologists, geologists, physicists, microbiologists, and oceanographers gravitate toward to find new discoveries.
+
+
+== See also ==
+Volcanism in Canada – Volcanic activity in CanadaPages displaying short descriptions of redirect targets
+List of volcanoes in Canada
+Marine Protected Areas of Canada
+Hydrothermal Vents
+Ocean Networks Canada
+NEPTUNE
+
+
+== References ==
+
+
+== External links ==
+MPA regulations can be found in the Endeavour Hydrothermal Vents Marine Protected Area Regulations.

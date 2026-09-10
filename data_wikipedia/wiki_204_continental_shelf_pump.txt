@@ -1,0 +1,41 @@
+# Continental shelf pump
+
+In oceanic biogeochemistry, the continental shelf pump is proposed to operate in the shallow waters of the continental shelves, acting as a mechanism to transport carbon (as either dissolved or particulate material) from surface waters to the interior of the adjacent deep ocean.
+
+
+== Overview ==
+Originally formulated by Tsunogai et al. (1999), the pump is believed to occur where the solubility and biological pumps interact with a local hydrography that feeds dense water from the shelf floor into sub-surface (at least subthermocline) waters in the neighbouring deep ocean.  Tsunogai et al.'s (1999) original work focused on the East China Sea, and the observation that, averaged over the year, its surface waters represented a sink for carbon dioxide.  This observation was combined with others of the distribution of dissolved carbonate and alkalinity and explained as follows :
+
+the shallowness of the continental shelf restricts convection of cooling water
+as a consequence, cooling is greater for continental shelf waters than for neighbouring open ocean waters
+this leads to the production of relatively cool and dense water on the shelf
+the cooler waters promote the solubility pump and lead to an increased storage of dissolved inorganic carbon
+this extra carbon storage is augmented by the increased biological production characteristic of shelves
+the dense, carbon-rich shelf waters sink to the shelf floor and enter the sub-surface layer of the open ocean via isopycnal mixing
+
+
+== Modern Continental Shelf Pump Theory ==
+Continental shelves make up approximately 7% of the oceans area yet have significant roles in oceanic biogeochemical processes. Continental shelves have a large input of terrestrial nutrients and shallow waters that provide productive conditions for biological organisms, and they can be variable due to inputs of dissolved inorganic carbon (DIC) from estuaries, which can influence both the salinity and alkalinity. During the summer and spring, CO2 that is taken up by phytoplankton on the continental shelf sinks below the seasonal thermocline. The thermocline limits atmospheric exchange of carbon, resulting in a CO2 sink. The CO2 below the thermocline is then converted from particulate organic carbon (POC) to dissolved inorganic carbon (DIC) by heterotrophs. This was shown in a study of the East China Sea by Tsunogai et al. (1999) that the thermocline in these regions is highly stratified by density, which allows for the export of dissolved inorganic carbon (DIC) and particulate organic carbon (POC) to deeper regions of the ocean. In addition, the drawn down of CO2 along the continental shelves has been further demonstrated in the North Sea and Celtic Sea. The DIC is transported into the deep ocean by currents that occur along continental shelves.
+
+
+== Modeling ==
+Most of the current models of the global circulation in the ocean do not account for the processes that occur on continental shelves. The coastal processes were largely thought to have an insignificant impact on the ocean's carbon cycling processes compared to the vast open ocean. In the study by Yool and Fasham (2001), they modified the general circulation model (GCM) of the ocean using parametric equations to include them impacts of the continental shelf pump, and they estimated that the export of the world's continental shelves is approximately 0.589 Gt C yr−1.
+In 2009, researchers applied a large-scale hydrodynamic model simulation to assess carbon transport from shelf seas to the deep ocean and carbon sink sufficiency at the European Continental shelf. Combining an Atlantic Margin Model simulation and Proudman Oceanographic Laboratory Coastal-Ocean Modeling System allowed them to reproduce conditions from 1960-2004, with the main focus on hydrodynamics and calculating the correlating biogeochemical effects. They found that 40% of carbon sequestered was heterogeneously removed in a single growing season, with variable removal in some areas, and that only 52% of this carbon was redirected to the deep ocean. In this case, shelf and deep sea circulation must be coupled.
+
+
+== Significance ==
+Based on their measurements of the CO2 flux over the East China Sea (35 g C m−2 y−1), Tsunogai et al. (1999) estimated that the continental shelf pump could be responsible for an air-to-sea flux of approximately 1 Gt C y−1 over the world's shelf areas.  Given that observational and modelling of anthropogenic emissions of CO2 estimates suggest that the ocean is currently responsible for the uptake of approximately 2 Gt C y−1, and that these estimates are poor for the shelf regions, the continental shelf pump may play an important role in the ocean's carbon cycle.
+One caveat to this calculation is that the original work was concerned with the hydrography of the East China Sea, where cooling plays the dominant role in the formation of dense shelf water, and that this mechanism may not apply in other regions.  However, it has been suggested that other processes may drive the pump under different climatic conditions.  For instance, in polar regions, the formation of sea-ice results in the extrusion of salt that may increase seawater density.  Similarly, in tropical regions, evaporation may increase local salinity and seawater density.
+The strong sink of CO2 at temperate latitudes reported by Tsunogai et al. (1999) was later confirmed in the Gulf of Biscay, the Middle Atlantic Bight and the North Sea.  On the other hand, in the sub-tropical South Atlantic Bight reported a source of CO2 to the atmosphere.
+Recently, work has compiled and scaled available data on CO2 fluxes in coastal environments, and shown that globally marginal seas act as a significant CO2 sink (-1.6 mol C m−2 y−1; -0.45 Gt C y−1) in agreement with previous estimates. However, the global sink of CO2 in marginal seas could be almost fully compensated by the emission of CO2 (+11.1 mol C m−2 y−1; +0.40 Gt C y−1) from the ensemble of near-shore coastal ecosystems, mostly related to the emission of CO2 from estuaries (0.34 Gt C y−1).
+An interesting application of this work has been examining the impact of sea level rise over the last de-glacial transition on the global carbon cycle. During the last glacial maximum sea level was some 120 m (390 ft) lower than today. As sea level rose the surface area of the shelf seas grew and in consequence the strength of the shelf sea pump should increase.
+The effect of warming is of particular concern around the Antarctic ice shelves, as the ice sheets are the largest of the Earth’s ice reservoirs and changes in their mass has the greatest potential to have a significant impact on rising sea levels. An eddying global climate model revealed that the shelf is governed by different mechanisms: the Circumpolar Deep Water (CDW) initiates with deep shelf warming with vertical mixing and the Antarctic Slope Front (ASF) utilizes a lateral density gradient near the shelf break. The disconnect between the CDW and ASF can complicate heat transfer across the ASF and prevent heat from escaping deeper waters. But in areas where this transport is less inhibited, heat is able to move to shore and disperse. Gaining a more rounded understanding of this shelf pump could help researchers to better anticipate the effect of warming on ice sheets.
+
+
+== References ==
+
+
+== See also ==
+Biological pump
+Ocean acidification
+Solubility pump

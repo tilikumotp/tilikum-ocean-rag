@@ -1,0 +1,543 @@
+# Iceberg
+
+An iceberg is a piece of fresh water ice more than 15 meters (16 yards) long that has broken off a glacier or an ice shelf and is floating freely in open water. Smaller chunks of floating glacially derived ice are called "growlers" or "bergy bits". Much of an iceberg is below the water's surface, which led to the expression "tip of the iceberg" to illustrate a small part of a larger unseen issue. Icebergs are considered a serious maritime hazard.
+Icebergs vary considerably in size and shape. Icebergs that calve from glaciers in Greenland are often irregularly shaped while Antarctic ice shelves often produce large tabular (table top) icebergs. The largest iceberg in recent history, named B-15, was measured at nearly 300 by 40 kilometres (186 by 25 mi) in 2000. The largest iceberg on record was an Antarctic tabular iceberg measuring 335 by 97 kilometres (208 by 60 mi) sighted 240 kilometres (150 mi) west of Scott Island, in the South Pacific Ocean, by the USS Glacier on November 12, 1956. This iceberg was larger than Belgium.
+
+
+== Etymology ==
+The word iceberg is a partial loan translation from the Dutch word ijsberg, literally meaning ice mountain, cognate to Danish isbjerg, German Eisberg, Low Saxon Iesbarg and Swedish isberg.
+
+
+== Overview ==
+Typically about one-tenth of the volume of an iceberg is above water, which follows from Archimedes's Principle of buoyancy; the density of pure ice is about 920 kg/m3 (57 lb/cu ft), and that of seawater about 1,025 kg/m3 (64 lb/cu ft). The contour of the underwater portion can be difficult to judge by looking at the portion above the surface.
+
+The largest icebergs recorded have been calved, or broken off, from the Ross Ice Shelf of Antarctica. Icebergs may reach a height of more than 100 metres (300 ft) above the sea surface and have mass ranging from about 100,000 tonnes up to more than 10 million tonnes. Icebergs or pieces of floating ice smaller than 5 meters above the sea surface are classified as "bergy bits"; smaller than 1 meter—"growlers". The largest known iceberg in the North Atlantic was 168 metres (551 ft) above sea level, reported by the USCG icebreaker Eastwind in 1958, making it the height of a 55-story building. These icebergs originate from the glaciers of western Greenland and may have interior temperatures of −15 to −20 °C (5 to −4 °F).
+
+
+=== Drift ===
+A given iceberg's trajectory through the ocean can be modelled by integrating the equation
+
+  
+    
+      
+        m
+        
+          
+            
+              d
+              
+                
+                  
+                    v
+                    →
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        −
+        m
+        f
+        
+          
+            
+              k
+              →
+            
+          
+        
+        ×
+        
+          
+            
+              v
+              →
+            
+          
+        
+        +
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            a
+          
+        
+        +
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            w
+          
+        
+        +
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            r
+          
+        
+        +
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            s
+          
+        
+        +
+        
+          
+            
+              
+                F
+                →
+              
+            
+          
+          
+            p
+          
+        
+        ,
+      
+    
+    {\displaystyle m{\frac {d{\vec {v}}}{dt}}=-mf{\vec {k}}\times {\vec {v}}+{\vec {F}}_{\text{a}}+{\vec {F}}_{\text{w}}+{\vec {F}}_{\text{r}}+{\vec {F}}_{\text{s}}+{\vec {F}}_{\text{p}},}
+  
+
+where m is the iceberg mass, v the drift velocity, and the variables f, k, and F correspond to the Coriolis force, the vertical unit vector, and a given force. The subscripts a, w, r, s, and p correspond to the air drag, water drag, wave radiation force, sea ice drag, and the horizontal pressure gradient force.
+Icebergs deteriorate through melting and fracturing, which changes the mass m, as well as the surface area, volume, and stability of the iceberg. Iceberg deterioration and drift, therefore, are interconnected. Fracturing must be considered when modelling iceberg drift.
+Winds and currents may move icebergs close to coastlines, where they can become frozen into pack ice (one form of sea ice), or drift into shallow waters, where they can come into contact with the seabed, a phenomenon called seabed gouging.
+
+
+=== Mass loss ===
+Icebergs lose mass due to melting, and calving. Melting can be due to solar radiation, or heat and salt transport from the ocean. Iceberg calving is generally enhanced by waves impacting the iceberg.
+Melting tends to be driven by the ocean, rather than solar radiation. Ocean driven melting is often modelled as
+
+  
+    
+      
+        
+          M
+          
+            b
+          
+        
+        =
+        K
+        Δ
+        
+          u
+          
+            0.8
+          
+        
+        
+          
+            
+              
+                T
+                
+                  0
+                
+              
+              −
+              T
+            
+            
+              L
+              
+                0.2
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle M_{b}=K\Delta u^{0.8}{\frac {T_{0}-T}{L^{0.2}}},}
+  
+
+where 
+  
+    
+      
+        
+          M
+          
+            b
+          
+        
+      
+    
+    {\displaystyle M_{\text{b}}}
+  
+ is the melt rate in m/day, 
+  
+    
+      
+        Δ
+        u
+      
+    
+    {\displaystyle \Delta u}
+  
+ is the relative velocity between the iceberg and the ocean, 
+  
+    
+      
+        
+          T
+          
+            0
+          
+        
+        −
+        T
+      
+    
+    {\displaystyle T_{0}-T}
+  
+ is the temperature difference between the ocean and the iceberg, and 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  
+ is the length of the iceberg. 
+  
+    
+      
+        K
+      
+    
+    {\displaystyle K}
+  
+ is a constant based on properties of the iceberg and the ocean and is approximately 
+  
+    
+      
+        
+          0.75
+          
+            ∘
+          
+        
+        
+          
+            C
+          
+          
+            −
+            1
+          
+        
+        
+          
+            m
+          
+          
+            0.4
+          
+        
+        
+          
+            day
+          
+          
+            −
+            1
+          
+        
+        
+          
+            s
+          
+          
+            0.8
+          
+        
+      
+    
+    {\displaystyle 0.75^{\circ }{\text{C}}^{-1}{\text{m}}^{0.4}{\text{day}}^{-1}{\text{s}}^{0.8}}
+  
+ in the polar ocean.
+The influence of the shape of an iceberg and of the Coriolis force on iceberg melting rates has been demonstrated in laboratory experiments.
+Wave erosion is more poorly constrained but can be estimated by
+
+  
+    
+      
+        
+          M
+          
+            e
+          
+        
+        =
+        c
+        
+          S
+          
+            s
+          
+        
+        (
+        
+          T
+          
+            s
+          
+        
+        +
+        2
+        )
+        [
+        1
+        +
+        
+          cos
+        
+        (
+        
+          I
+          
+            c
+          
+          
+            3
+          
+        
+        π
+        )
+        ]
+        ,
+      
+    
+    {\displaystyle M_{\text{e}}=cS_{s}(T_{\text{s}}+2)[1+{\text{cos}}(I_{\text{c}}^{3}\pi )],}
+  
+
+where 
+  
+    
+      
+        
+          M
+          
+            e
+          
+        
+      
+    
+    {\displaystyle M_{\text{e}}}
+  
+ is the wave erosion rate in m/day, 
+  
+    
+      
+        c
+        =
+        
+          
+            1
+            12
+          
+        
+        
+          
+            m day
+          
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle c={\frac {1}{12}}{\text{m day}}^{-1}}
+  
+, 
+  
+    
+      
+        
+          S
+          
+            S
+          
+        
+      
+    
+    {\displaystyle S_{\text{S}}}
+  
+ describes the sea state, 
+  
+    
+      
+        
+          T
+          
+            S
+          
+        
+      
+    
+    {\displaystyle T_{\text{S}}}
+  
+ is the sea surface temperature, and 
+  
+    
+      
+        
+          I
+          
+            c
+          
+        
+      
+    
+    {\displaystyle I_{\text{c}}}
+  
+ is the sea ice concentration.
+
+
+=== Bubbles ===
+Air trapped in snow forms bubbles as the snow is compressed to form firn and then glacial ice. Icebergs can contain up to 10% air bubbles by volume. These bubbles are released during melting, producing a fizzing sound that some may call "Bergie Seltzer". This sound results when the water-ice interface reaches compressed air bubbles trapped in the ice. As each bubble bursts it makes a "popping" sound and the acoustic properties of these bubbles can be used to study iceberg melt.
+
+
+=== Stability ===
+An iceberg may flip, or capsize, as it melts and breaks apart, changing the center of gravity. Capsizing can occur shortly after calving when the iceberg is young and establishing balance. Icebergs are unpredictable and can capsize anytime and without warning. Large icebergs that break off from a glacier front and flip onto the glacier face can push the entire glacier backwards momentarily, producing 'glacial earthquakes' that generate as much energy as an atomic bomb.
+
+
+=== Color ===
+Icebergs are generally white because they are covered in snow, but can be green, blue, yellow, black, striped, or even rainbow-colored. Seawater, algae and lack of air bubbles in the ice can create diverse colors. Sediment can create the dirty black coloration present in some icebergs.
+
+
+=== Shape ===
+
+In addition to size classification, icebergs can be classified on the basis of their shapes. The two basic types of iceberg forms are tabular and non-tabular. Tabular icebergs have steep sides and a flat top, much like a plateau, with a length-to-height ratio of more than 5:1.
+This type of iceberg, also known as an ice island, can be quite large, as in the case of Pobeda Ice Island. Antarctic icebergs formed by breaking off from an ice shelf, such as the Ross Ice Shelf or Filchner–Ronne Ice Shelf, are typically tabular. The largest icebergs in the world are formed this way.
+Non-tabular icebergs have different shapes and include:
+
+Dome: An iceberg with a rounded top.
+Pinnacle: An iceberg with one or more spires.
+Wedge: An iceberg with a steep edge on one side and a slope on the opposite side.
+Dry-dock: An iceberg that has eroded to form a slot or channel.
+Blocky: An iceberg with steep, vertical sides and a flat top. It differs from tabular icebergs in that its aspect ratio, the ratio between its width and height, is small, more like that of a block than a flat sheet.
+
+
+== Monitoring and control ==
+
+
+=== Maritime history ===
+
+Prior to 1914 there was no formal system in place to track icebergs to guard ships against collisions despite fatal sinkings of ships by icebergs. The advent of watertight compartmentalization in ship construction led designers to declare their ships "practically unsinkable". With the invention of wireless telegraphy, ships finally had a way to communicate with other ships and with land, including exchanging navigational messages, including ice reports. However, the new techonology was not fully trusted by older mariners and was seen more for passenger use than as a navigational necessity.
+Several ships had survived collisions with icebergs. For example, in 1907, SS Kronprinz Wilhelm, a German liner, rammed an iceberg and suffered a crushed bow, but she was still able to complete her voyage. However, many ships were also lost with all hands during this period so it is unclear how many of those ships were lost amongst sea ice.
+Prior to 1912, ships known to have been lost by icebergs were few. They included:
+
+In April 1912, the brand new liner RMS Titanic sank after it struck an iceberg, leading to the death of around 1,500 people. This was despite the amount of safety precautions that had been built into the ship which was meant to make it "practically unsinkable" and having 24-hour wireless service warning the ship about ice in the area. This threw into highlight the inadequate and outdated safety regulations for ships at sea and led to changes in maritime safety regulations.
+For the remainder of the ice season of that year, the United States Navy patrolled the waters and monitored ice movements. In November 1913, the International Conference on the Safety of Life at Sea met in London to devise a more permanent system of observing icebergs. Within three months the participating maritime nations had formed the International Ice Patrol (IIP). The goal of the IIP was to collect data on meteorology and oceanography to measure currents, ice-flow, ocean temperature, and salinity levels. They monitored iceberg dangers near the Grand Banks of Newfoundland and provided the "limits of all known ice" in that vicinity to the maritime community. The IIP published their first records in 1921, which allowed for a year-by-year comparison of iceberg movement.
+
+
+=== Technological development ===
+
+Aerial surveillance of the seas in the early 1930s allowed for the development of charter systems that could accurately detail the ocean currents and iceberg locations. In 1945, experiments tested the effectiveness of radar in detecting icebergs. A decade later, oceanographic monitoring outposts were established for the purpose of collecting data; these outposts continue to serve in environmental study. A computer was first installed on a ship for the purpose of oceanographic monitoring in 1964, which allowed for a faster evaluation of data. By the 1970s, ice-breaking ships were equipped with automatic transmissions of satellite photographs of ice in Antarctica. Systems for optical satellites had been developed but were still limited by weather conditions. In the 1980s, drifting buoys were used in Antarctic waters for oceanographic and climate research. They are equipped with sensors that measure ocean temperature and currents.
+
+Side looking airborne radar (SLAR) made it possible to acquire images regardless of weather conditions. On November 4, 1995, Canada launched RADARSAT-1. Developed by the Canadian Space Agency, it provides images of Earth for scientific and commercial purposes. This system was the first to use synthetic aperture radar (SAR), which sends microwave energy to the ocean surface and records the reflections to track icebergs. The European Space Agency launched ENVISAT (an observation satellite that orbits the Earth's poles) on March 1, 2002. ENVISAT employs advanced synthetic aperture radar (ASAR) technology, which can detect changes in surface height accurately. The Canadian Space Agency launched RADARSAT-2 in December 2007, which uses SAR and multi-polarization modes and follows the same orbit path as RADARSAT-1.
+
+
+=== Modern monitoring ===
+Iceberg concentrations and size distributions are monitored worldwide by the U.S. National Ice Center (NIC), established in 1995, which produces analyses and forecasts of Arctic, Antarctic, Great Lakes and Chesapeake Bay ice conditions. More than 95% of the data used in its sea ice analyses are derived from the remote sensors on polar-orbiting satellites that survey these remote regions of the Earth.
+
+The NIC is the only organization that names and tracks all Antarctic Icebergs. It assigns each iceberg larger than 10 nautical miles (19 km) along at least one axis a name composed of a letter indicating its point of origin and a running number. The letters used are as follows:
+
+The Danish Meteorological Institute monitors iceberg populations around Greenland using data collected by the synthetic aperture radar (SAR) on the Sentinel-1 satellites.
+
+
+=== Iceberg management ===
+In Labrador and Newfoundland, iceberg management plans have been developed to protect offshore installations from impacts with icebergs.
+
+
+=== Commercial use ===
+The idea of towing large icebergs to other regions as a source of water has been raised since at least the 1950s, without having been put into practice. In 2017, a business from the UAE announced plans to tow an iceberg from Antarctica to the Middle East; in 2019 salvage engineer Nick Sloane announced a plan to move one to South Africa at an estimated cost of $200 million. In 2019, a German company, Polewater, announced plans to tow Antarctic icebergs to places like South Africa.
+Companies have used iceberg water in products such as bottled water, fizzy ice cubes and alcoholic drinks. For example, Iceberg Beer by Quidi Vidi Brewing Company is made from icebergs found around St. John's, Newfoundland. Although annual iceberg supply in Newfoundland and Labrador exceeds the total freshwater consumption of the United States, in 2016 the province introduced a tax on iceberg harvesting and imposed a limit on how much fresh water can be exported yearly.
+
+
+== Oceanography and ecology ==
+The freshwater injected into the ocean by melting icebergs can change the density of the seawater in the vicinity of the iceberg. Fresh melt water released at depth is lighter, and therefore more buoyant, than the surrounding seawater causing it to rise towards the surface. Icebergs can also act as floating breakwaters, impacting ocean waves.
+Icebergs contain variable concentrations of nutrients and minerals that are released into the ocean during melting. Iceberg-derived nutrients, particularly the iron contained in sediments, can fuel blooms of phytoplankton. Samples collected from icebergs in Antarctica, Patagonia, Greenland, Svalbard, and Iceland, however, show that iron concentrations vary significantly, complicating efforts to generalize the impacts of icebergs on marine ecosystems.
+
+
+== Recent large icebergs ==
+ Iceberg B15 calved from the Ross Ice Shelf in 2000 and initially had an area of 11,000 square kilometres (4,200 mi2). It broke apart in November 2002. The largest remaining piece of it, Iceberg B-15A, with an area of 3,000 square kilometres (1,200 mi2), was still the largest iceberg on Earth until it ran aground and split into several pieces October 27, 2005, an event that was observed by seismographs both on the iceberg and across Antarctica. It has been hypothesized that this breakup may also have been abetted by ocean swell generated by an Alaskan storm 6 days earlier and 13,500 kilometres (8,400 mi) away.
+1987, Iceberg B-9, 5,390 km2 (2,080 sq mi)
+1998, Iceberg A-38, about 6,900 km2 (2,700 sq mi)
+1999, Iceberg B-17B 140 km2 (54 sq mi), shipping alert issued December 2009.
+2000, Iceberg B-15 11,000 km2 (4,200 sq mi)
+2002, Iceberg C-19, 5,500 km2 (2,100 sq mi)
+2002, Iceberg B-22, 5,490 km2 (2,120 sq mi)
+2003 broke off, Iceberg B-15A, 3,100 km2 (1,200 sq mi)
+2006, Iceberg D-16, 310 km2 (120 sq mi)
+2010, Ice sheet, 260 km2 (100 sq mi), broken off of Petermann Glacier in northern Greenland on August 5, 2010, considered to be the largest Arctic iceberg since 1962. About a month later, this iceberg split into two pieces upon crashing into Joe Island in the Nares Strait next to Greenland. In June 2011, large fragments of the Petermann Ice Islands were observed off the Labrador coast.
+2014, Iceberg B-31, 615 km2 (237 sq mi), 2014
+2017, Iceberg A-68, (Larsen C) 5,800 km2 (2,200 sq mi)
+2018, Iceberg B-46, 225 km2 (87 sq mi)
+2019, Iceberg D-28, 1,636 km2 (632 sq mi)
+2021, Iceberg A-74 from the Brunt Ice Shelf, 1,270 km2 (490 sq mi)
+2021, Iceberg A-76 from the Ronne Ice Shelf, 4,320 km2 (1,670 sq mi)
+
+
+== In culture and metaphorical use ==
+
+One of the most infamous icebergs in history is the iceberg that sank the Titanic. The catastrophe led to the establishment of an International Ice Patrol shortly afterwards. Icebergs in both the northern and southern hemispheres have often been compared in size to multiples of the 59.1 square kilometres (22.8 sq mi)-area of Manhattan Island.
+Artists have used icebergs as the subject matter for their paintings. Frederic Edwin Church, The Icebergs, 1861 was painted from sketches Church completed on a boat trip off Newfoundland and Labrador. Caspar David Friedrich, The Sea of Ice, 1823–1824 is a polar landscape with an iceberg and ship wreck depicting the dangers of such conditions. William Bradford created detailed paintings of sailing ships set in arctic coasts and was fascinated by icebergs. Albert Bierstadt made studies on arctic trips aboard steamships in 1883 and 1884 that were the basis of his paintings of arctic scenes with colossal icebergs made in the studio.
+American poet, Lydia Sigourney, wrote the poem "Icebergs". While on a return journey from Europe in 1841, her steamship encountered a field of icebergs overnight, during an Aurora Borealis. The ship made it through unscathed to the next morning, when the sun rose and "touched the crowns, Of all those arctic kings".
+Because much of an iceberg is below the water's surface and not readily visible, the expression "tip of [an] iceberg" is often used to illustrate that what is visible or addressable is a small part of a larger unseen issue. Metaphorical references to icebergs include the iceberg theory or theory of omission in writing adopted, for example, by Ernest Hemingway, Sigmund Freud's iceberg model of the psyche, the "behavioural iceberg", and models analysing the frequencies of accidents and underlying errors.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+
+Iceberg Finder Service for east coast of Canada
+Icebergs of The Arctic and Antarctic
+ Works related to Iceberg at Wikisource

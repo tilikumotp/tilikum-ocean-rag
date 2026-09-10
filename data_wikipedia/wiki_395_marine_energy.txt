@@ -1,0 +1,128 @@
+# Marine energy
+
+Marine energy, also known as ocean energy, ocean power, or marine and hydrokinetic energy, refers to energy harnessed from waves, tides, salinity gradients, and temperature differences in the ocean. The movement of water in the world's oceans stores vast amounts of kinetic energy, which can be converted into electricity to power homes, transportation, and industries.
+
+Marine energy includes wave power, which is derived from surface waves, and tidal power, which is obtained from the kinetic energy of moving water. Offshore wind power, however, is not considered marine energy because it is generated from wind, even if the wind turbines are located over water.Ocean energy has the potential of providing a substantial amount of new renewable energy around the world.
+While marine energy is a sustainable alternative to fossil fuels, its development can impact marine ecosystems, wildlife, and the physical environment. Potential effects include habitat disruption, noise pollution, and electromagnetic fields from subsea cables, which may require mitigation strategies such as fish-friendly turbine designs and environmental impact assessments.
+Government policies, economic incentives, and regulatory frameworks contribute significantly to advancing marine energy, with countries like the UK, Canada, and South Korea leading in tidal and wave energy projects.
+
+
+== Global potential ==
+The global potential for marine energy is significant, with estimates suggesting that 20,000 to 80,000 terawatt-hours per year (TWh/y) of electricity could be generated from ocean temperature differences, salinity gradients, tides, currents, waves, and swells.
+
+Indonesia, as an archipelagic country that is three quarters ocean, has 49 GW recognized potential ocean energy and has 727 GW theoretical potential ocean energy.
+
+
+== Forms of ocean energy ==
+
+The oceans are a vast, largely untapped source of energy, including surface waves, fluid flow,  salinity gradients, and thermal differences.
+Marine and Hydrokinetic (MHK) or marine energy development in U.S. and international waters includes projects using the following devices:
+
+Wave power converters in open coastal areas with significant waves;
+Tidal turbines placed in coastal and estuarine areas;
+In-stream turbines in fast-moving rivers;
+Ocean current turbines in areas of strong marine currents;
+Ocean thermal energy converters in deep tropical waters.
+
+
+=== Marine current power ===
+
+Strong ocean currents are driven by temperature, wind, salinity, bathymetry, and the rotation of the Earth. The Sun acts as the primary driving force, causing winds and temperature differences. Because there are only small fluctuations in current speed and stream location with no changes in direction, ocean currents may be suitable locations for deploying energy extraction devices such as turbines.
+Ocean currents are instrumental in determining the climate in many regions around the world. While little is known about the effects of removing ocean current energy, the impacts of removing current energy on the farfield environment may be a significant environmental concern. The typical turbine issues with blade strike, entanglement of marine organisms, and acoustic effects still exists; however, these may be magnified due to the presence of more diverse populations of marine organisms using ocean currents for migration purposes. Locations can be further offshore and therefore require longer power cables that could affect the marine environment with electromagnetic output.
+
+
+=== Osmotic power ===
+
+At the mouth of rivers where fresh water mixes with salt water, energy associated with the salinity gradient can be harnessed using pressure-retarded reverse osmosis process and associated conversion technologies. Another system is based on using freshwater upwelling through a turbine immersed in seawater, and one involving electrochemical reactions is also in development.
+Significant research took place from 1975 to 1985 and gave various results regarding the economy of PRO and RED plants. Small-scale investigations into salinity power production take place in other countries like Japan, Israel, and the United States. In Europe the research is concentrated in Norway and the Netherlands, in both places small pilots are tested. Salinity gradient energy is the energy available from the difference in salt concentration between freshwater with saltwater. This energy source is not easy to understand, as it is not directly occurring in nature in the form of heat, waterfalls, wind, waves, or radiation.
+
+
+=== Ocean thermal energy ===
+
+Water typically varies in temperature from the surface warmed by direct sunlight to greater depths where sunlight cannot penetrate. This differential is greatest in tropical waters, making this technology most applicable in water locations. A fluid is often vaporized to drive a turbine that may generate electricity or produce desalinized water. Systems may be either open-cycle, closed-cycle, or hybrid.
+
+
+=== Tidal power ===
+
+The energy from moving masses of water – a popular form of hydroelectric power generation. Tidal power generation comprises three main forms, namely tidal stream power, tidal barrage power, and dynamic tidal power.
+
+
+=== Wave power ===
+
+Solar energy from the Sun creates temperature differentials that result in wind. The interaction between wind and the surface of water creates waves, which are larger when there is a greater distance for them to build up. Wave energy potential is greatest between 30° and 60° latitude in both hemispheres on the west coast because of the global direction of wind. When evaluating wave energy as a technology type, it is important to distinguish between the four most common approaches: point absorber buoys, surface attenuators, oscillating water columns, and overtopping devices.
+The wave energy sector is reaching a significant milestone in the development of the industry, with steps towards commercial viability being taken. The more advanced device developers are currently progressing beyond single unit demonstration devices and are proceeding to array development and multi-megawatt projects. The backing of major utility companies is now manifesting itself through partnerships within the development process, allowing for further investment, and in some cases, international co-operation.
+At a simplified level, wave energy technology can be located near-shore and offshore. Wave energy converters can also be designed for operation in specific water depth conditions: deep water, intermediate water or shallow water. The fundamental device design will be dependent on the location of the device and the intended resource characteristics.
+
+
+== Environmental effects ==
+Marine energy, harnessed from renewable sources such as waves, tides, and ocean currents, is widely regarded as a sustainable alternative to fossil fuels. However, similar to other energy technologies, marine energy may have environmental impacts that need to be carefully assessed. These effects can be broadly categorized into impacts on marine ecosystems, wildlife, and the physical environment.
+
+Impacts on Marine Ecosystems
+The deployment of marine energy infrastructure can alter local ecosystems by modifying water flow, sediment transport, and habitat structures. For instance, tidal barrages, which block the natural flow of water, can lead to changes in salinity levels and sediment deposition in estuaries. Such alterations can disrupt benthic habitats, affecting species that rely on these environments for survival. Research has shown that tidal energy projects can result in localized habitat loss, particularly for species sensitive to changes in sediment composition and water flow.
+Wave energy converters (WECs) can also influence marine ecosystems. While they may create artificial reefs that attract certain species, they can simultaneously displace others, leading to competition for resources. In some cases, these structures have been observed to enhance biodiversity, but the overall impact depends on the specific design and location of the devices. The ecological trade-offs associated with WECs highlight the importance of careful planning and monitoring to balance energy production with environmental conservation.
+
+Effects on Marine Wildlife
+
+Marine energy technologies pose risks to marine wildlife, particularly through collisions with underwater turbines, noise pollution, and electromagnetic fields (EMFs) generated by subsea cables. For example, tidal turbines, which operate in high-flow environments, can pose a threat to fish and marine mammals that may collide with rotating blades. While the risk of collision is generally considered low, it can be significant for slow-moving or migratory species, necessitating the development of fish-friendly turbine designs.
+Noise pollution is another concern associated with marine energy installations. The construction and operation of devices can generate underwater noise, which may disrupt marine life. Cetaceans, such as whales and dolphins, rely heavily on sound for communication, navigation, and foraging. Prolonged exposure to noise can lead to behavioral changes, increased stress levels, and even habitat abandonment. Mitigation measures, such as noise-reduction technologies and strategic placement of devices, are required to minimize these impacts.
+Electromagnetic fields (EMFs) from subsea power cables can also affect marine species, particularly those sensitive to electromagnetic stimuli, such as sharks and rays.
+
+Physical and Chemical Changes
+The installation of marine energy infrastructure can lead to physical changes in the marine environment, such as altered wave patterns and coastal erosion. For example, large-scale wave energy farms can reduce the amount of wave energy reaching the shore, which may impact coastal processes like sediment transport. In some cases, this could exacerbate coastal erosion, particularly in areas already vulnerable to such changes.
+Chemical impacts, such as the release of antifouling agents or other pollutants from marine energy devices, are another potential concern. While these impacts are generally minor compared to those associated with fossil fuel extraction, they still require careful management to minimize harm to marine ecosystems. Regular maintenance and the use of environmentally friendly materials can help mitigate these risks.
+
+Mitigation and Best Practices
+Governments and organizations have developed regulatory frameworks and best practices to address these environmental effects. Regulatory bodies typically require environmental impact assessments (EIAs) before deploying marine energy projects. These assessments help identify potential risks and guide mitigation strategies, such as the use of fish-friendly turbine designs, noise-reduction technologies, and strategic placement of devices to minimize ecological disruption.
+International organizations, such as the International Renewable Energy Agency (IRENA), have published guidelines for sustainable marine energy development. These guidelines emphasize the importance of stakeholder engagement, adaptive management, and long-term monitoring to ensure that marine energy projects are environmentally responsible. By adhering to these principles, the marine energy industry can balance the need for renewable energy with the protection of marine ecosystems and wildlife.
+
+
+== Policies, Economics, and Government Initiatives ==
+The development of marine energy is heavily influenced by government policies, economic incentives, and regulatory frameworks. These factors play a critical role in fostering innovation, attracting investment, and ensuring the sustainable deployment of marine energy technologies.
+
+Economic Considerations
+Marine energy is still in the early stages of commercialization, and its economic viability depends on reducing costs and improving efficiency. The high capital expenditure (CapEx) and operational expenditure (OpEx) associated with marine energy projects have historically been barriers to widespread adoption. However, technological advancements, economies of scale, and government support are helping to drive down costs. For example, the levelized cost of energy (LCOE) for tidal and wave energy has decreased significantly in recent years, though it remains higher than that of more established renewable energy sources like wind and solar.
+Government subsidies, grants, and tax incentives are often used to offset the high initial costs of marine energy projects. These financial mechanisms are designed to encourage private sector investment and accelerate the deployment of marine energy technologies.
+
+Government Policies and Regulatory Frameworks
+Government policies significantly influence the development of marine energy. Many countries have implemented renewable energy targets, feed-in tariffs, and renewable portfolio standards (RPS) to promote the development of marine energy. For instance, the European Union has set ambitious renewable energy targets as part of its Green Deal, with marine energy identified as a key component of its strategy to achieve carbon neutrality by 2050.
+In the United Kingdom, the Marine Energy Programme has been instrumental in supporting the development of tidal and wave energy. The program provides funding for research and development (R&D), as well as demonstration projects. The UK government has also established the Contracts for Difference (CfD) scheme, which guarantees a fixed price for electricity generated from marine energy, providing long-term revenue certainty for developers.
+United States has implemented policies to support marine energy through the Department of Energy's Water Power Technologies Office (WPTO). The WPTO funds R&D initiatives and provides grants for pilot projects. The Marine Renewable Energy Act has also been proposed to create a regulatory framework for the development of marine energy resources in U.S. waters.
+
+Case Studies
+United Kingdom: The UK is a global leader in marine energy, particularly tidal energy. The MeyGen tidal energy project in Scotland is one of the largest tidal stream projects in the world. Supported by government funding and private investment, the project has demonstrated the potential for large-scale tidal energy generation. The UK's supportive policy environment, including the CfD scheme, has played a key role in the project's success.
+Canada: Canada has significant marine energy resources, particularly in the Bay of Fundy, which has some of the highest tidal ranges in the world. The Fundy Ocean Research Center for Energy (FORCE) in Nova Scotia serves as a test site for tidal energy technologies. The Canadian government has provided funding for FORCE and established regulatory frameworks to facilitate the deployment of marine energy projects.
+South Korea: South Korea has made substantial investments in marine energy as part of its renewable energy strategy. The Sihwa Lake Tidal Power Station is the world's largest tidal power plant, with a capacity of 254 MW. The project was developed with significant government support and is a representative example of large-scale tidal energy deployment.
+France: France has a long history of tidal energy development, dating back to the Rance Tidal Power Station, which was commissioned in 1966 and remains one of the oldest and most successful tidal power plants in the world. The French government continues to support marine energy through R&D funding and policy initiatives aimed at expanding renewable energy capacity.
+
+
+== See also ==
+
+Energy harvesting
+Marine current power
+Tidal power
+Wave power
+Ocean thermal energy conversion
+Osmotic power
+Renewable energy
+Renewable energy commercialization
+
+
+== References ==
+
+
+== Further reading ==
+Omar Ellabban, Haitham Abu-Rub, Frede Blaabjerg: Renewable energy resources: Current status, future prospects and their enabling technology. Renewable and Sustainable Energy Reviews 39, (2014), 748–764, doi:10.1016/j.rser.2014.07.113.
+
+
+== External links ==
+
+The Ocean Energy Systems
+European Ocean Energy Association
+The European Marine Energy Centre (EMEC)
+Ocean Energy Council
+SuperGen UK Centre for Marine Energy Research
+Portal and Repository for Information on Marine Renewable Energy
+Marine Energy Projects Database
+Tethys - Environmental Effects of Wind and Marine Renewable Energy
+Tethys Engineering - Technical information on marine energy
+Marine and Hydrokinetic Data Repository

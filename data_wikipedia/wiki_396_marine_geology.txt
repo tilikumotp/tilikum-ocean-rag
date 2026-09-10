@@ -1,0 +1,134 @@
+# Marine geology
+
+Marine geology or geological oceanography is the study of the history and structure of the ocean floor. It involves geophysical, geochemical, sedimentological and paleontological investigations of the ocean floor and coastal zone. Marine geology has strong ties to geophysics and to physical oceanography.
+Marine geological studies were of extreme importance in providing the critical evidence for sea floor spreading and plate tectonics in the years following World War II. The deep ocean floor is the last essentially unexplored frontier and detailed mapping in support of economic (petroleum and metal mining), natural disaster mitigation, and academic objectives.
+
+
+== History ==
+The study of marine geology dates back to the late 1800s during the 4-year HMS Challenger expedition. HMS Challenger hosted nearly 250 people, including sailors, engineers, carpenters, marines, officers, and a 6-person team of scientists, led by Charles Wyville Thomson. The scientists' goal was to prove that there was life in the deepest parts of the ocean. Using a sounding rope, dropped over the edge of the ship, the team was able to capture ample amounts of data. Part of their discovery was that the deepest part of the ocean was not in the middle. These were some of the first records of the mid-ocean ridge system.
+Prior to World War II, marine geology grew as a scientific discipline. During the early 20th century, organizations such as the Scripps Institution of Oceanography and the Woods Hole Oceanographic Institution (WHOI) were created to support efforts in the field. With Scripps being located on the west coast of North America and WHOI on the east coast, the study of marine geology became much more accessible.
+In the 1950s, marine geology had one of the most significant discoveries, the mid-ocean ridge system. After ships were equipped with sonar sensors, they travelled back and forth across the Atlantic Ocean collecting observations of the sea floor. In 1953, the cartographer Marie Tharp generated the first three-dimensional relief map of the ocean floor which proved there was an underwater mountain range in the middle of the Atlantic, along with the Mid-Atlantic Ridge. The survey data was large step towards many more discoveries about the geology of the sea.
+
+In 1960, the American geophysicist Harry H. Hess hypothesized that the seafloor was spreading from the mid-ocean ridge system. With support from the maps of the sea floor, and the recently developed theory of plate tectonics and continental drift, Hess was able to prove that the Earth's mantle continuously released molten rock from the mid-ocean ridge and that the molten rock then solidified, causing the boundary between the two tectonic plates to diverge. A geomagnetic survey was conducted that supported this theory. The survey was composed of scientists using magnetometers to measure the magnetism of the basalt rock protruding from the mid-ocean ridge. They discovered that on either side of the ridge, symmetrical "strips" were found as the polarity of the planet would change over time. This proved that seafloor spreading existed. In later years, newer technology was able to date the rocks and identified that rocks closest to the ridge were younger than the rocks near the coasts of the Western and Eastern Hemispheres land.
+At present, marine geology focuses on geological hazards, environmental conditions, habitats, natural resources, and energy and mining projects.
+
+
+== Methods ==
+There are multiple methods for collecting data from the sea floor without physically dispatching humans or machines to the bottom of the ocean.
+
+
+=== Side-scan sonar ===
+A common method of collecting imagery of the sea floor is side-scan sonar. Developed in the late 1960s, the purpose of the survey method is to use active sonar systems on the sea floor to detect and develop images of objects. The physical sensors of the sonar device are known as a transducer array and they are mounted onto the hull of a vessel which sends acoustic pulses that reflect off the seafloor and received by the sensors. The imaging can help determine the seafloors composition as harder objects generate a stronger reflectance and appear dark on the returned image. Softer materials such as sand and mud cannot reflect the arrays pulses as well so they appear lighter on the image. This information can be analyzed by specialist to determine outcrops of rock beneath the surface of the water.
+This method is less expensive than releasing a vehicle to take photographs of the sea floor, and requires less time. The side-scan sonar is useful for scientists as it is a quick and efficient way of collecting imagery of the sea floor, but it cannot measure other factors, such as depth. Therefore, other depth measuring sonar devices are typically accompanied with the side-scan sonar to generate a more detailed survey.
+
+
+=== Multibeam bathymetry ===
+Similarly to side-scan sonar, multibeam bathymetry uses a transducer array to send and receive sound waves in order to detect objects located on the sea floor. Unlike side-scan sonar, scientists are able to determine multiple types of measurements from the recordings and make hypothesis' on the data collected. By understanding the speed at which sound will travel in the water, scientists can calculate the two way travel time from the ship's sensor to the seafloor and back to the ship. These calculations will determine to depth of the sea floor in that area.
+
+Backscatter is another measurement used to determine the intensity of the sound that is returned to the sensor. This information can provide insight on the geological makeup and objects of the sea floor as well as objects located within the water column. Objects in the water column can include structures from shipwrecks, dense biology, and bubble plumes. The importance of objects in the water column to marine geology is identifying specific features as bubble plumes can indicate the presence of hydrothermal vents and cold seeps.
+There are limitations to this technique. The distance between the sea floor and the sensor is related to the resolution of the map being created. The closer the sensor is the sea floor, the higher the resolution will be and the farther away the sensor is to the sea floor, the lower the resolution will be. Therefore, it is common for remotely operated vehicles (ROVs) and autonomous underwater vehicles (AUVs) to be equipped with the multibeam sensor or for the sensor to be towed by the ship itself. This ensures that the resolution of the collected data will be high enough for proper analysis.
+
+
+=== Sub-bottom profiler ===
+A sub-bottom profiler is another sonar system used in geophysical surveys of the sea floor to not only map depth, but also to map beneath the sea floor. Mounted to the hull of a ship, the system releases low-frequency pulses which penetrate the surface of the sea floor and are reflected by sediments in the sub-surface. Some sensors can reach over 1000 meters below the surface of the sea floor, giving hydrographers a detailed view of the marine geological environment.
+Many sub-bottom profilers can emit multiple frequencies of sound to record data on a multitude of sediments and objects on and below the sea floor. The returned data is collected by computers and with aid from hydrographers, can create cross-sections of the terrain below the sea floor. The resolution of the data also allows scientists to identify geological features such as volcanic ridges, underwater landslides, ancient river beds, and other features.
+The benefit of the sub-bottom profiler is its capability to record information on the surface and below the seafloor. When accompanied with geophysical data from multibeam sonar and physical data from rock and core samples, the sub-bottom profiles delivers insights on the location and morphology of submarine landslide, identifies how oceanic gasses travel through the subsurface, discover artifacts from cultural heritages, understand sediment deposition, and more.
+
+
+=== Marine magnetometry ===
+
+Magnetometry is the process of measuring changes in the Earth's magnetic field. The outer layer of the Earth's core is liquid and mostly made up of magnetic iron and nickel. When the Earth turns on its axis, the metals release electrical currents which generate magnetic fields. These fields can then be measured to reveal geological subseafloor structures. This method is especially useful in marine exploration and geology as it can not only characterize geological features on the seafloor but can survey aircraft and ship wrecks deep under the sea.
+A magnetometer is the main piece of equipment deployed, which is typically towed behind a vessel or mounted to a AUV. It is able to measure the changes in fields of magnetism and corresponding geolocation to create maps. The magnetometer evaluates the magnetic presence generally every second, or one hertz, but can be calibrated to measure at different speeds depending on the study. The readings will be consistent until the device detects ferrous material. This could range from a ship's hull to ferrous basalt at the seafloor. The sudden change in magnetism can be analyzed on the magnetometer's display.
+The benefit to a magnetometer compared to sonar devices is its ability to detect artifacts and geological features on top and underneath the seafloor. Because the magnetometer is a passive sensor, and does not emit waves, its exploration depth is unlimited. Although, in most studies, the resolution and certainty of the data collected is dependent on the distance from the device. The closer the device is to a ferrous object, the better the data collected.
+
+
+== Plate tectonics ==
+
+Plate tectonics is a scientific theory developed in the 1960s that explains major land form events, such as mountain building, volcanoes, earthquakes, and mid-ocean ridge systems. The idea is that Earth's most outer layer, known as the lithosphere, that is made up of the crust and mantle is divided into extensive plates of rock. These plates sit on top of partially molten layer of rock known as the asthenosphere and move relative to each other due to convection between the asthenosphere and lithosphere. The speed at which the plates move ranges between 2 and 15 centimeters per year. Why this theory is so significant is the interaction between the tectonic plates explains many geological formations. In regards to marine geology, the movement of the plates explains seafloor spreading and mid-ocean ridge systems, subduction zones and trenches, volcanism and hydrothermal vents, and more.
+There are three major types of tectonic plate boundaries; divergent, convergent, and transform boundaries. Divergent plate boundaries are when two tectonic plates move away from each other, convergent plate boundaries are when two plates move towards each other, and transform plate boundaries are when two plates slide sideways past each other. Each boundary type is associated with different geological marine features. Divergent plates are the cause for mid-ocean ridge systems while convergent plates are responsible for subduction zones and the creation of deep ocean trenches. Transform boundaries cause earthquakes, displacement of rock, and crustal deformation.
+
+
+=== Mid-ocean ridge system ===
+Divergent plates are directly responsible for the largest mountain range on Earth, known as the mid-ocean ridge system. At nearly 60,000 km long, the mid-ocean ridge is an extensive chain of underwater volcanic mountains that spans the globe. Centralized in the oceans, this unique geological formation houses a collection of ridges, rifts, fault zones, and other geological features.
+The Mid-Atlantic Ridge is a consequence of the diverging North American and Eurasian, and the African and South American Plates. It began forming over 200 million years ago when the American, African and European continents were still connected, forming the Pangea. After continental drift, the ridge system became more defined and in the last 75 years, it has been intensely studied. The Mid-Atlantic Ridge was also served as the birthplace for the discovery of seafloor spreading. As volcanic activity produces new oceanic crust along the ridge, the two plates diverge from each other pulling up the new ocean floor from below the crust. Along the ocean-continent border of the tectonic plates, the oceanic plates subduct underneath the continental plates, creating some of the deepest marine trenches in the world
+
+
+=== Subduction zones ===
+Subduction zones are caused when two tectonic plates converge on each other and one plate is pushed beneath the other. In a marine setting, this typically occurs when the oceanic crust subducts below the continental crust, resulting in volcanic activity and the development of deep ocean trenches. Marine geology focuses on mapping and understanding how these processes function. Renowned geological features created through subduction zones include the Mariana Trench and the Ring of Fire.
+
+
+==== Mariana Trench ====
+The Mariana Trench is the deepest known submarine trench, and the deepest location in the Earth's crust itself. It is a subduction zone where the Pacific Plate is being subducted under the Mariana Plate. At the deepest point, the trench is nearly 11,000 m deep (almost 36,000 feet). This is further below sea level than Mount Everest is above sea level, by over 2 kilometers.
+
+
+==== Ring of Fire ====
+The Ring of Fire is situated around the Pacific Ocean, created from several converging plate boundaries. Its intense volcanism and seismic activity poses a major threat for disastrous earthquakes, tsunamis, and volcanic eruptions. Any early warning systems and mitigation techniques for these disastrous events will require marine geology of coastal and island arc environments to predict events.
+
+
+== Economic benefits ==
+
+
+=== Resource exploration ===
+Marine geology has several methods of detecting geological features below the sea. One of the economic benefits of geological surveying of the seafloor is determining valuable resources that can be extracted. The two major resources mined at sea include oil and minerals. Over the last 30 years, deep-sea mining has generated between $9 -$11 billion USD in the United States of America. Although this sector seems profitable, it is a high risk, high reward industry with many harmful environmental impacts.
+Some of the major minerals extracted from the sea include nickel, copper, cobalt, manganese, zinc, gold, and other metals. These minerals are commonly formed around volcanic activity, more specifically hydrothermal vents and polymetallic nodules. These vents emit large volumes of super-heated, metal infused fluids that rise and rapidly cool when mixed with the cold seawater. The chemical reaction causes sulfur and minerals to precipitate and from chimneys, towers, and mineral-rich deposits on the sea floor. Polymetallic nodules, also known as manganese nodules, are rounded ores formed over millions of years from precipitating metals from seawater and sediment pore water. They are typically found unattached, spread across the abyssal seafloor and contain metals crucial for building batteries and touch screens, including cobalt, nickel, copper, and manganese.
+
+A popular area for deep-sea mining, located in the Pacific Ocean, in the Clarion–Clipperton zone (CCZ). The CCZ is approximately 4,500,000 square kilometers constructed of various submarine fracture zones. It has been divided into 16 mining claims and 9 sections dedicated to conservation. According to the International Seabed Authority (ISA), there is an estimated 21 billion tons (Bt) of nodules; 5.95 Bt of manganese, 0.27 Bt of nickel, 0.23 Bt of copper, and 0.05 Bt of cobalt. It is a highly sought-after area for mining because of the yield of minerals it possesses.
+
+
+=== Offshore energy development ===
+Marine geology also has many applications on the subject of offshore energy development. Offshore energy is the generation of electricity using ocean-based resources. This includes using wind, thermal, wave, and tidal movement to convert to energy. Understanding the seafloor and geological features can help develop the infrastructure to support these renewable energy sources. Underwater geological features can dictate ocean properties, such as currents and temperatures, which are crucial for location placement of the necessary infrastructure to produce energy.
+The stability of the seafloor is important for the creation of offshore wind turbines. Most turbines are secured to the seafloor using monopiles, if the water depth is greater than 15 meters. There must be inserted in areas that are not at risk to sediment deposition, erosion, or tectonic activity. Surveying the geological area before development is needed to insure proper support of the turbines and forces applied to them. Another example why marine geology is needed for future energy projects is to understand wave and current patterns. Analyzing the effects that the seafloor has on water movement can help support planning and location selection of generators offshore and optimize energy farming.
+
+
+== Environmental impacts and mitigation ==
+
+
+=== Habitat mapping and conservation ===
+Marine geology has a key role in habitat mapping and conservation. With global events causing potentially irreversible damage to the sea habitats, such as deep-sea mining and bottom trawling, marine geology can help us study and mitigate the effects of these activity.
+The CCZ has been surveyed and mapped to designate specific areas for mining and for conservation. The International Seabed Authority has set aside approximately 160,000 square kilometers of seabed within the CCZ as the area is rich with biodiversity and habitats. The zone houses over 5,000 species, including sea cucumbers, corals, crabs, shrimps, glass sponges, and members of the spider family and, has been an area where new species of sea worms have been discovered. Furthermore, 90% of the species have yet to be identified. Proper marine survey techniques have protected thousands of habitats and species by dedicating it to conservation.
+Bottom trawling also poses a detrimental effects to the sea and using marine geology techniques can be helpful at mitigating them. Bottom trawling, generally a commercial fishing technique, involves dragging a large net that herds and captures a target species, such as fish or crabs. During this process, the net damages the seafloor by scraping and removing animals and vegetation living on the seabed, including coral reefs, sharks, and sea turtles. It can tear up root systems and animal burrows, which can directly affect the sediment distribution. This can lead to the change in chemistry and nutriment levels in the sea water. Marine geology can determine areas which have been damaged to employ habitat restoration techniques. It can also help determine areas that have not been affecting by bottom trawling and employ conservation protection.
+
+
+=== Sediment transportation and coastal erosion ===
+Sediment transportation and coastal erosion is a complex subject that is necessary to understand to protect infrastructure and the environment. Coastal erosion is the process of sediment and materials breaking down and transported due to the effects of the sea. This can lead to destruction animal habitats, fishing industries, and infrastructure. In the United States, damages to properties and infrastructure has caused approximately $500 million per year, and an additional $150 million a year is dedicated to mitigation from the U.S. federal government. Marine geology supports the study of sediment types, current patterns, and ocean topography to predict erosional trends which can protect these environments.
+
+
+=== Natural hazard assessment ===
+
+Earthquakes are one of the most common natural disasters. Furthermore, they can cause other disasters, such as tsunamis and landslides, such as the underwater earthquake in the Indian Ocean occurred at a magnitude of 9.1 which then triggered a tsunami that caused waves to reach a height of at least 30 ft and killed approximately 230,000 people in 13 different countries. Marine geology and understanding plate boundaries supports the development of early warning systems and other mitigation techniques to protect the people and environments who may be susceptible to natural disasters. Many earthquake early warning systems (EEWS) are in place and more are being developed.
+
+
+== Future research ==
+
+
+=== Seafloor mapping and bathymetry ===
+Many section of the oceans are permanently dark, low temperatures, and are under extreme pressure, making them difficult to observe. According to the National Oceanic and Atmospheric Administration (NOAA), only 23% of the seafloor has been mapped in detail and one of the leading projects in exploration is developing high-resolution maps of the seafloor. The Okeanos Explorer, a vessel owned by NOAA, has already mapped over 2 million km2 of the seafloor using multibeam sonar since 2008, but this technique has proved to be too time-consuming.
+The importance of mapping the seafloor has been recognized by governments and scientists alike. Because of this, an international collaboration effort to create a high-definition map of the entire seafloor was developed, called the Nippon Foundation-GEBCO Seabed 2030 Project. This committee has a set goal to have the project finished by 2030. To reach their goal, they are equipping old, new, and autonomous vehicles with sonar, sensors, and other GIS based technology to reach their goal.
+
+
+== See also ==
+Geology portal
+Oceans portal
+Bathymetric chart
+Hawaiian-Emperor seamount chain
+Hydrogeology
+Pelagic sediments
+Seafloor mapping
+
+
+== References ==
+
+
+== Sources ==
+Erickson, Jon, 1996, Marine Geology: Undersea Landforms and Life Forms, Facts on File ISBN 0-8160-3354-4
+"What is the Ring of Fire? : Ocean Exploration Facts: NOAA Office of Ocean Exploration and Research". oceanexplorer.noaa.gov. Retrieved 2023-02-10.
+Atwood, Trisha B.; Witt, Andrew; Mayorga, Juan; Hammill, Edd; Sala, Enric (2020). "Global Patterns in Marine Sediment Carbon Stocks". Frontiers in Marine Science. 7. doi:10.3389/fmars.2020.00165/full. ISSN 2296-7745.
+Merino, Nancy; Aronson, Heidi S.; Bojanova, Diana P.; Feyhl-Buska, Jayme; Wong, Michael L.; Zhang, Shu; Giovannelli, Donato (2019). "Living at the Extremes: Extremophiles and the Limits of Life in a Planetary Context". Frontiers in Microbiology. 10. doi:10.3389/fmicb.2019.00780/full. ISSN 1664-302X.
+
+
+== External links ==
+Soundwaves Coastal Science & Research News from Across the USGS
+Marine Geology and Geophysics – NOAA
+Pacific Seafloor Mapping Project – USGS Archived 2014-03-18 at the Wayback Machine
+Marine Geology and Geophysics at MIT
+Ocean Drilling Program

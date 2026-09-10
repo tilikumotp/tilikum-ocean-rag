@@ -1,0 +1,20 @@
+# Continuous marine broadcast
+
+A continuous marine broadcast, or CMB, is a marine weather broadcasting service operated by the Canadian Coast Guard.  CMBs are programmed from the various Marine Communications and Traffic Services centres on the Atlantic, Pacific and Arctic coasts of Canada, as well as on the coasts of the Great Lakes.  Programming is broadcast in English and French on the Atlantic Coast and along the Saint Lawrence River, and in English only on the Great Lakes, Arctic Coast and Pacific Coast.
+The content of a CMB is a continuously-played back loop of marine weather information, provided by Environment Canada and updated several times a day, as well as live broadcasts of selected notices to mariners, shipping, and fishermen.  Most of the recordings are made using real human voices, with a computerized text-to-speech system providing information from automated weather observation points.  When necessary, an officer at an MCTS station can break into a CMB transmission and broadcast an urgent live message, such as a navigational warning or a distress relay message.
+CMBs are transmitted on several frequencies:
+
+161.65 MHz (Channel 21B)
+161.75 MHz (Channel 23B)
+161.775 MHz (Channel 83B)
+161.85 MHz (Channel 25B)
+162 MHz (Channel 28B)
+As well, on the Pacific coast, CMBs are transmitted on weather radio frequencies.
+
+
+== References ==
+
+
+== External links ==
+Continuous marine broadcast station listing
+Marine Communications and Traffic Services Centres

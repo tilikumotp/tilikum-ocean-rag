@@ -1,0 +1,46 @@
+# Acoustic seabed classification
+
+Acoustic seabed classification is the partitioning of a seabed acoustic image into discrete physical entities or classes. This is a particularly active area of development in the field of seabed mapping, marine geophysics, underwater acoustics and benthic habitat mapping. Seabed classification is one route to characterizing the seabed and its habitats. Seabed characterization makes the link between the classified regions and the seabed physical, geological, chemical or biological properties.
+Acoustic seabed classification is possible using a wide range of acoustic imaging systems including multibeam echosounders, sidescan sonar, single-beam echosounders, interferometric systems and sub-bottom profilers. Seabed classification based on acoustic properties can be divided into two main categories; surficial seabed classification and sub-surface seabed classification. Sub-surface imaging technologies use lower frequency sound to provide higher penetration, whereas surficial imaging technologies provide higher resolution imagery by utilizing higher frequencies (especially in shallow water).
+
+
+== Surficial seabed classification ==
+
+
+=== Classification methods ===
+Surficial seabed classification is concerned primarily with distinguishing marine benthic habitat characteristics (e.g. hard, soft, rough, smooth, mud, sand, clay, cobble) of the surveyed area. Multibeam echosounders, sidescan sonar systems and acoustic ground discrimination systems (AGDS) are the most commonly used technologies. The use of optical sensors has been restricted to depths less than 40 m due to absorption of electromagnetic radiation by water. Despite this limitation, processing tools have been developed to classify data acquired using airborne bathymetric LiDAR systems. Nevertheless, acoustics remain the preferred method of imaging the seafloor because data can be acquired over a much larger area (than in-situ sampling) from almost any depth.
+Multibeam systems acquire both bathymetry (depth) and backscatter (intensity) data. Multibeam backscatter was previously considered to be a by-product of a multibeam survey, with bathymetry being the primary information. Recent advances in multibeam backscatter acquisition, processing and analysis methods have increased the range of applications for which multibeam systems can be used and now allow the collection of spatially and temporally coincident multispectral multibeam backscatter. New methods of analyzing backscatter data, have increased its potential for seabed characterization. Backscatter data resolution has also increased significantly with the introduction of snippet data. Snippet data is raw backscatter time-series data for each beam footprint and each ping. These advances have allowed some multibeam backscatter data to achieve a quality comparable to that of sidescan sonar imagery.
+Different classification approaches and algorithms can yield different results. These approaches include image-based seabed classification methods such as texture analysis, artificial neural networks (ANN); and other methods, such as angular response characterization. Image processing methods traditionally used in satellite remote sensing are often adapted to quantitatively analyze multibeam backscatter intensity data. After image segmentation and classification, acoustic imagery can be used to discriminate between areas with different morphological properties. No classification method produces a map that is 100% accurate and some attempt must always be made to assess the accuracy of classification results (e.g. confusion matrix).
+
+
+=== Seabed characterization ===
+Classification maps are subject to ground-verification in order to identify the compositions and bottom type that characterize each class. The functionality of Geographic Information Systems (GIS) can be used to integrate data from different sources, including ground truth data. Such data may come from in-situ sediment grab sampling, the use of a dredge, trawl net, visual imagery or surveys using Remotely Operated Vehicles (ROVs). The seabed classification map can be combined with other information about the area, such as fish distribution and abundance or vegetation characteristics, to establish habitat groups based on associations. This process allows classification maps derived from multibeam data to help characterize the seabed and more effectively manage its use.
+
+
+== Sub-surface seabed classification ==
+Sub-surface seabed classification is commonly referred to as sub-bottom profiling and is generally used for geological assessment of the sub-surface characteristics. Sub-bottom profiling can return information from tens to hundreds of meters below the seafloor, and is often used to complement reflection seismology. From sub-surface classifications, scientists and engineers can characterize rock and sediment types, as well as pore fluids. This information is used for many applications, such as slope failure analysis and hydrocarbon exploration.
+
+
+== References ==
+
+
+== External links ==
+What is habitat mapping? (www.searchmesh.net)
+Applied Acoustics- Special Issue: The Application of Underwater Acoustics for Seabed Habitat Mapping
+Acoustic seabed classification: current practice and future directions
+Sediment Classification Software (2009)
+Acoustic Seabed Classification Systems (2001)
+Bottom Classification
+Acoustic Seabed Classification – Applications in Fisheries Science and Ecosystem Studies
+Seabed classification
+Resources - seabed surface:
+
+Acoustic Seabed Classification Bibliography
+Maritime Way Scientific
+Mapping European Seabed Habitats (MESH) Project
+RoxAnn Seabed Classification System
+ICES Study Group on Acoustic Seabed Classification
+Case Studies and References for Lakes, Rivers & Marine
+BioSonics VBT Seabed Classification Software
+ECHOplus seabed discrimination
+GEOHAB - Marine Geological and Biological Habitat Mapping - Conferences

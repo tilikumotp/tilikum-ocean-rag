@@ -1,0 +1,67 @@
+# European Consortium for Ocean Research Drilling
+
+The European Consortium for Ocean Research Drilling (ECORD) is a consortium of 14 European countries and Canada that was formed in 2003 to join the Integrated Ocean Drilling Program (IODP) as a single member. ECORD is now part of the International Ocean Discovery Program, which addresses crucial questions in Earth, Ocean, Environmental and Life sciences based on drill cores, borehole imaging, observatory data, and related geophysical imaging obtained from beneath the ocean floor using specialized ocean-going drilling and research vessels and platforms. As a contributing member of IODP, ECORD is entitled to berths on every IODP expedition.
+
+
+== Objectives ==
+Sampling and monitoring the sub-seafloor provides access to millions of years of geological history stored in the sub-seafloor sediments and rocks.
+Science proposals of global relevance are welcomed from ECORD scientists. ECORD's scientific objectives (see IODP Science Plan for 2013-2023) are guided by the four major science themes to address fundamental science questions about:
+
+Climate and Ocean Change: Reading the Past, Informing the Future targets one of the most pressing questions about the climate, ocean and ice-sheet response to the ongoing increase in greenhouse gases. Only scientific drilling can recover samples and data having sufficient distribution and resolution to understand the causes and impacts of global climate change in Earth's past.
+Biosphere Frontiers: Deep Life, Biodiversity, and Environmental Forcing of Ecosystems includes exploration of life within the sub-seafloor, facilitated by rapidly evolving methods in microbiology and related technologies. Scientific drilling also investigates ecosystem response to environmental forcing and the impacts of climate and ocean events on individual and whole ecosystems, including hominid evolution.
+Earth Connections: Deep Processes and Their Impact on Earth's Surface Environment concentrates on the links between surface, lithospheric and deep Earth processes. Drilling is an essential tool for unravelling and understanding the geologic, tectonic, geochemical, magmatic and hydrological processes responsible for development and evolution of these solid Earth systems.
+Earth in Motion: Processes and Hazards on Human Time Scales addresses dynamic processes that occur on human time scales, including those leading to and resulting from earthquakes, landslides, and tsunamis. Scientific ocean drilling, coupled with real-time observations from individual and linked networks of long-term, sub-seafloor observatories installed in boreholes addresses the frequency, magnitude, mechanisms and impacts of these events.
+The ongoing climate change, the increasing demand for resources and recent geohazards demonstrate the need to better understand the Earth system. Scientific drilling may provide solutions to major societal problems and can help to sustainably use natural resources. A better understanding of the causes of natural disasters may help to improve the predictions of such events.
+ECORD shares interests and closely collaborates with various international science programmes in order to meet future challenges:
+
+International Continental Scientific Drilling Program to better link continental and ocean drilling in order to improve the understanding of land-sea interactions and the complex processes acting on our planet
+European Multidisciplinary Seafloor and Water Column Observatory for a real-time, long-term monitoring of environmental processes from the seafloor to the sea surface
+Antarctic Geological Drilling to unravel the past glacial history from Antarctic sediments
+International Marine Process Reconstruction Study (IMPRESS) to understand the role of marine processes in the Earth's climate system
+
+
+== Members ==
+
+
+== Operations ==
+
+The IODP scientific objectives can be only achieved by combining multiple drilling platforms. The USA and Japan operate the multipurpose drillship JOIDES Resolution and the riser drilling vessel Chikyū, respectively, to drill in the deep sea. ECORD is an independent platform provider funding and implementing mission-specific platform (MSP) operations for IODP. The advantage of the MSP concept resides with its flexible use of diverse drilling vessels and systems, depending on the scientific objectives and the environment. The MSPs are able to drill in challenging environments like shallow-water reefs and ice-covered areas, thus extending the scientific and operational capability of the programme. A wider geographical distribution can be reached and more diverse science topics can be addressed. ECORD's aim is to implement one MSP expedition per year on average for IODP over the next decade. To date, eight IODP MSP expeditions have been carried out since 2004 for the Integrated Ocean Drilling Program and since 2013 for the International Ocean Discovery Program.
+Ocean drill cores are available for scientists from all over the world, and are stored and curated in three core repositories: the US Gulf Coast Repository in College Station, Texas, the Bremen Core Repository at the University of Bremen, Germany (Marum), and the Kochi Core Center at Kochi University, Japan. The boreholes themselves provide important information as borehole logging can be used to get a continuous profile of numerous physical parameters along the depth of a borehole. All expedition-generated data and publications are available online (IODP, ECORD).
+
+
+== Structure ==
+ECORD is funded by public money from its 15 member countries.
+The consortium is structured into six entities and two Task Forces:
+
+The ECORD Council is the funding entity and defines the tasks and responsibilities of the ECORD entities.
+The ECORD Facility Board is responsible for the planning of the MSP operations and determines the expedition schedule.
+A managing entity (EMA) manages the participation of the ECORD member countries to IODP.
+The scientific committee is responsible for the planning and coordination of the ECORD scientific contribution to IODP.
+The ECORD Science Operator implements MSP expeditions on various platforms for IODP.
+The ECORD Industry Liaison Panel (ECORD ILP), an ad-hoc panel, which serves as a link between academia and industry.
+An Outreach Task Force coordinates ECORD communication.
+A Vision Task Force develops future strategies regarding ECORD membership and funding opportunities.
+
+
+== Education and outreach ==
+ECORD offers a number of educational activities to students and early-career scientists, as well as to the science community and educators. 
+ECORD promotes its visibility by conveying scientific discoveries and the societal relevance of the IODP science to targeted groups including teachers, students and the general public through live videoconferences, educational videos, brochures and other materials.
+
+The ECORD Summer Schools aim at educating young scientists in marine-related sciences and training a new generation to participate in ocean drilling expeditions. ECORD Scholarships are provided to young scientists to attend the ([1] ECORD Summer Schools).
+The ECORD Research Grants consist of limited funds provided to young scientists to conduct research related to IODP and previous ocean drilling programmes ([2]).
+The Distinguished Lecturer Programme ([3]) sheds light on scientific discoveries related to ocean drilling research to a large audience within universities and institutes in ECORD countries.
+The MagellanPlus Workshop Series Programme is co-funded by ECORD and ICDP and supports scientists in developing new and innovative science drilling proposals for submission to IODP and ICDP ([4]).
+The ECORD Newsletter is a semi-annual publication (April/May and October/November), which presents up-to-date information from the different ECORD entities and reflects the scientific activity of ECORD as part of IODP ([5]).
+Scientific Drilling, the open access ICDP and IODP Programme Journal, is a multidisciplinary journal focused on bringing the latest science and news from scientific drilling and related programmes to the geosciences community. Scientific Drilling semi-annually delivers peer-reviewed science reports from recently completed and ongoing international scientific drilling projects. The journal also includes reports on Engineering Developments, Technical Developments, Workshops, Progress Reports, and news and updates from the community.
+
+
+== References ==
+
+
+== External links ==
+ECORD official site
+IODP official site
+JOIDES Resolution official site
+Chikyū official site
+ICDP official site
+IODP Bremen Core Repository official site

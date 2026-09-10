@@ -1,0 +1,99 @@
+# Continental shelf
+
+A continental shelf is a portion of a continent that is submerged under an area of relatively shallow water, known as a shelf sea. Much of these shelves were exposed by drops in sea level during glacial periods. The shelf surrounding an island is known as an "insular shelf."
+The continental margin, between the continental shelf and the abyssal plain, comprises a steep continental slope, surrounded by the flatter continental rise, in which sediment from the continent above cascades down the slope and accumulates as a pile of sediment at the base of the slope. Extending as far as 500 km (310 mi) from the slope, it consists of thick sediments deposited by turbidity currents from the shelf and slope. The continental rise's gradient is intermediate between the gradients of the slope and the shelf.
+Under the United Nations Convention on the Law of the Sea, the name continental shelf was given a legal definition as the stretch of the seabed adjacent to the shores of a particular country to which it belongs.
+
+
+== Topography ==
+The shelf usually ends at a point of increasing slope (called the shelf break). The sea floor below the break is the continental slope. Below the slope is the continental rise, which finally merges into the deep ocean floor, the abyssal plain. The continental shelf and the slope are part of the continental margin.
+
+ 	
+The shelf area is commonly subdivided into the inner continental shelf, mid continental shelf, and outer continental shelf, each with their specific geomorphology and marine biology.
+The character of the shelf changes dramatically at the shelf break, where the continental slope begins. With a few exceptions, the shelf break is located at a remarkably uniform depth of roughly 140 m (460 ft); this is likely a hallmark of past ice ages, when sea level was lower than it is now.
+The continental slope is much steeper than the shelf; the average angle is 3°, but it can be as low as 1° or as high as 10°. The slope is often cut with submarine canyons. The physical mechanisms involved in forming these canyons were not well understood until the 1960s.
+
+
+== Geographical distribution ==
+
+ 
+Continental shelves cover an area of about 27 million km2 (10 million sq mi), equal to about 7% of the surface area of the oceans. The width of the continental shelf varies considerably—it is not uncommon for an area to have virtually no shelf at all, particularly where the forward edge of an advancing oceanic plate dives beneath continental crust in an offshore subduction zone such as off the coast of Chile or the west coast of Sumatra. 
+The largest shelf—the Siberian Shelf in the Arctic Ocean—stretches to 1,500 kilometers (930 mi) in width. The South China Sea lies over another extensive area of continental shelf, the Sunda Shelf, which joins Borneo, Sumatra, and Java to the Asian mainland. Other familiar bodies of water that overlie continental shelves are the North Sea and the Persian Gulf. The average width of continental shelves is about 80 km (50 mi). The depth of the shelf also varies, but is generally limited to water shallower than 100 m (330 ft).  The slope of the shelf is usually quite low, on the order of 0.5°; vertical relief is also minimal, at less than 20 m (66 ft).
+Though the continental shelf is treated as a physiographic province of the ocean, it is not part of the deep ocean basin proper, but the flooded margins of the continent. Passive continental margins such as most of the Atlantic coasts have wide and shallow shelves, made of thick sedimentary wedges derived from long erosion of a neighboring continent. Active continental margins have narrow, relatively steep shelves, due to frequent earthquakes that move sediment to the deep sea.
+
+
+== Sediments ==
+The continental shelves are covered by terrigenous sediments; that is, those derived from erosion of the continents. However, little of the sediment is from current rivers; some 60–70% of the sediment on the world's shelves is relict sediment, deposited during the last ice age, when sea level was 100–120 m lower than it is now.
+Sediments usually become increasingly fine with distance from the coast; sand is limited to shallow, wave-agitated waters, while silt and clays are deposited in quieter, deep water far offshore.  These accumulate 15–40 centimetres (5.9–15.7 in) every millennium, much faster than deep-sea pelagic sediments.
+
+
+== Shelf seas ==
+"Shelf seas" are the ocean waters on the continental shelf. Their motion is controlled by the combined influences of the tides, wind-forcing and brackish water formed from river inflows (Regions of Freshwater Influence). These regions can often be biologically highly productive due to mixing caused by the shallower waters and the enhanced current speeds. Despite covering only about 8% of Earth's ocean surface area, shelf seas support 15–20% of global primary productivity.
+In temperate continental shelf seas, three distinctive oceanographic regimes are found, as a consequence of the interplay between surface heating, lateral buoyancy gradients (due to river inflow), and turbulent mixing by the tides and to a lesser extent the wind.
+
+In shallower water with stronger tides and away from river mouths, tidal turbulence overcomes the stratifying influence of surface heating, and the water column remains well mixed for the entire seasonal cycle.
+In contrast, in deeper water, the surface heating wins out in summer, to produce seasonal stratification with a warm surface layer overlying the isolated deep water.
+(The well mixed and seasonally stratifying regimes are separated by persistent features called tidal mixing fronts.)
+A third regime which links estuaries to shelf seas, Regions of Freshwater Influence (ROFIs), is found where estuaries enter shelf seas, for example in the Liverpool Bay area of the Irish Sea and Rhine Outflow region of the North Sea. Here, stratification can vary on timescales from the semidiurnal tidal cycle through to the springs-neap tidal cycle due to a process known as "tidal straining". While the North Sea and Irish Sea are two of the better studied shelf seas, they are not necessarily representative of all shelf seas as there is a wide variety of behaviours to be found:
+Indian Ocean shelf seas are dominated by major river systems, including the Ganges and Indus rivers. The shelf seas around New Zealand are complicated because the submerged continent of Zealandia creates wide plateaus. Shelf seas around Antarctica and the shores of the Arctic Ocean are influenced by sea ice production and polynya.
+There is evidence that changing wind, rainfall, and regional ocean currents in a warming ocean are having an effect on some shelf seas. Coastal flooding events related to currents called shelfbreak jets are being investigated by New England researchers along the East Coast of the United States. Improved data collection via Integrated Ocean Observing Systems in shelf sea regions is making identification of these changes possible.
+
+
+== Biota ==
+
+Continental shelves teem with life because of the sunlight available in shallow waters, in contrast to the biotic desert of the oceans' abyssal plain. The pelagic (water column) environment of the continental shelf constitutes the neritic zone, and the benthic (sea floor) province of the shelf is the sublittoral zone. The shelves make up less than 10% of the ocean, and a rough estimate suggests that only about 30% of the continental shelf sea floor receives enough sunlight to allow benthic photosynthesis.
+Though the shelves are usually fertile, if anoxic conditions prevail during sedimentation, the deposits may over geologic time become sources for fossil fuels.
+
+
+== Economic significance ==
+
+The continental shelf is the best understood part of the ocean floor, as it is relatively accessible. Most commercial exploitation of the sea, such as offshore drilling, extraction of metallic ore, non-metallic ore, and hydrocarbons, takes place on the continental shelf.
+Sovereign rights over their continental shelves down to a depth of 100 m (330 ft) or to a distance where the depth of waters admitted of resource exploitation were claimed by the marine nations that signed the Convention on the Continental Shelf drawn up by the UN's International Law Commission in 1958. This was partly superseded by the 1982 United Nations Convention on the Law of the Sea (UNCLOS). The 1982 convention created the 200 nautical miles (370 km; 230 mi) exclusive economic zone, plus continental shelf rights for states with physical continental shelves that extend beyond that distance.
+The legal definition of a continental shelf differs significantly from the geological definition. UNCLOS states that the shelf extends to the limit of the continental margin, but no less than 200 nmi (370 km; 230 mi) and no more than 350 nmi (650 km; 400 mi) from the baseline. Thus inhabited volcanic islands such as the Canaries, which have no actual continental shelf, nonetheless have a legal continental shelf, whereas uninhabitable islands have no shelf.
+
+
+== See also ==
+
+Baseline
+Continental island
+Continental shelf of Brazil
+Continental shelf pump
+Exclusive economic zone
+International waters
+Land bridge
+Outer Continental Shelf
+Passive margin
+Region of freshwater influence
+Territorial waters
+
+
+== Notes ==
+
+
+== References ==
+Atkinson, Larry P.; Lee, Thomas N.; Blanton, Jackson O.; Chandler, William S. (30 May 1983). "Climatology of the southeastern United States continental shelf waters". Journal of Geophysical Research: Oceans. 88 (C8): 4705–4718. Bibcode:1983JGR....88.4705A. doi:10.1029/JC088iC08p04705.
+de Haas, Henk; van Weering, Tjeerd C.E; de Stigter, Henko (March 2002). "Organic carbon in shelf seas: sinks or sources, processes and products". Continental Shelf Research. 22 (5): 691–717. Bibcode:2002CSR....22..691D. doi:10.1016/S0278-4343(01)00093-0.
+"shelf break – geology". Encyclopædia Britannica.
+Figueiredo, Alberto Garcia; Pacheco, Carlos Eduardo Pereira; de Vasconcelos, Sérgio Cadena; da Silva, Fabiano Tavares (2016). "Continental Shelf Geomorphology and Sedimentology". Geology and Geomorphology: 13–31. doi:10.1016/B978-85-352-8444-7.50009-3. ISBN 9788535284447.{{cite journal}}:  CS1 maint: periodical has ISBN (link)
+Gattuso, Jean-Pierre; Gentili, B.; Duarte, C. M.; Kleypas, J. A.; Middelburg, J. J.; Antoine, D. (2006). "Light availability in the coastal ocean: impact on the distribution of benthic photosynthetic organisms and their contribution to primary production". Biogeosciences. 3 (4). European Geosciences Union: 489–513. Bibcode:2006BGeo....3..489G. doi:10.5194/bg-3-489-2006. hdl:20.500.11937/23744. S2CID 13715554. hal-00330315. Retrieved 1 July 2021.
+Gross, M. Grant (1972). Oceanography: A View of the Earth. Englewood Cliffs: Prentice-Hall. ISBN 978-0-13-629659-1. Retrieved 12 January 2016.
+Guihou, K.; Polton, J.; Harle, J.; Wakelin, S.; O'Dea, E.; Holt, J. (January 2018). "Kilometric Scale Modeling of the North West European Shelf Seas: Exploring the Spatial and Temporal Variability of Internal Tides: Modeling of the Atlantic European Shelf". Journal of Geophysical Research: Oceans. 123 (1): 688–707. doi:10.1002/2017JC012960. hdl:11336/100068.
+Han, Weiqing; McCreary, Julian P. (15 January 2001). "Modeling salinity distributions in the Indian Ocean". Journal of Geophysical Research: Oceans. 106 (C1): 859–877. Bibcode:2001JGR...106..859H. doi:10.1029/2000JC000316.
+Harris, P.T.; Macmillan-Lawler, M.; Rupp, J.; Baker, E.K. (June 2014). "Geomorphology of the oceans". Marine Geology. 352: 4–24. Bibcode:2014MGeol.352....4H. doi:10.1016/j.margeo.2014.01.011.
+Jackson, Julia A., ed. (1997). Glossary of geology (Fourth ed.). Alexandria, Virginia: American Geological Institute. ISBN 0922152349.
+Montero-Serra, Ignasi; Edwards, Martin; Genner, Martin J. (January 2015). "Warming shelf seas drive the subtropicalization of European pelagic fish communities". Global Change Biology. 21 (1): 144–153. Bibcode:2015GCBio..21..144M. doi:10.1111/gcb.12747. hdl:1983/998db387-360a-49fb-8745-dc2e8a574c42. PMID 25230844. S2CID 25834528.
+Morley, Simon A.; Barnes, David K. A.; Dunn, Michael J. (17 January 2019). "Predicting Which Species Succeed in Climate-Forced Polar Seas". Frontiers in Marine Science. 5: 507. Bibcode:2019FrMaS...5..507M. doi:10.3389/fmars.2018.00507.
+Muelbert, José H.; Acha, Marcelo; Mianzan, Hermes; Guerrero, Raúl; Reta, Raúl; Braga, Elisabete S.; Garcia, Virginia M.T.; Berasategui, Alejandro; Gomez-Erache, Mónica; Ramírez, Fernando (July 2008). "Biological, physical and chemical properties at the Subtropical Shelf Front Zone in the SW Atlantic Continental Shelf". Continental Shelf Research. 28 (13): 1662–1673. Bibcode:2008CSR....28.1662M. doi:10.1016/j.csr.2007.08.011.
+O'Callaghan, Joanne; Stevens, Craig; Roughan, Moninya; Cornelisen, Chris; Sutton, Philip; Garrett, Sally; Giorli, Giacomo; Smith, Robert O.; Currie, Kim I.; Suanda, Sutara H.; Williams, Michael; Bowen, Melissa; Fernandez, Denise; Vennell, Ross; Knight, Benjamin R.; Barter, Paul; McComb, Peter; Oliver, Megan; Livingston, Mary; Tellier, Pierre; Meissner, Anna; Brewer, Mike; Gall, Mark; Nodder, Scott D.; Decima, Moira; Souza, Joao; Forcén-Vazquez, Aitana; Gardiner, Sarah; Paul-Burke, Kura; Chiswell, Stephen; Roberts, Jim; Hayden, Barb; Biggs, Barry; Macdonald, Helen (26 March 2019). "Developing an Integrated Ocean Observing System for New Zealand". Frontiers in Marine Science. 6: 143. Bibcode:2019FrMaS...6..143O. doi:10.3389/fmars.2019.00143. hdl:10289/16618.
+Pinet, Paul R. (2003). Invitation to Oceanography. Boston: Jones & Bartlett Learning. ISBN 978-0-7637-2136-7. Retrieved 13 January 2016.
+Stevens, Craig L.; O'Callaghan, Joanne M.; Chiswell, Stephen M.; Hadfield, Mark G. (2 January 2021). "Physical oceanography of New Zealand/Aotearoa shelf seas – a review". New Zealand Journal of Marine and Freshwater Research. 55 (1): 6–45. Bibcode:2021NZJMF..55....6S. doi:10.1080/00288330.2019.1588746.
+Tyson, R. V.; Pearson, T. H. (1991). "Modern and ancient continental shelf anoxia: an overview". Geological Society, London, Special Publications. 58 (1): 1–24. Bibcode:1991GSLSP..58....1T. doi:10.1144/GSL.SP.1991.058.01.01. S2CID 140633845.
+"Treaty Series – Convention on the Continental Shelf, 1958" (PDF). United Nations. 29 April 1958. Retrieved 13 January 2016.
+Wellner, J.S.; Heroy, D.C.; Anderson, J.B. (April 2006). "The death mask of the antarctic ice sheet: Comparison of glacial geomorphic features across the continental shelf". Geomorphology. 75 (1–2): 157–171. Bibcode:2006Geomo..75..157W. doi:10.1016/j.geomorph.2005.05.015.
+
+
+== External links ==
+Office of Naval Research: Ocean Regions: Continental Margin & Rise
+UNEP Shelf Programme
+GEBCO world map 2014
+Anna Cavnar, Accountability and the Commission on the Limits of the Continental Shelf: Deciding Who Owns the Ocean Floor

@@ -1,0 +1,67 @@
+# Euphylliidae
+
+Euphylliidae (Greek eu-, true; Greek phyllon, leaf) are known as a family of polyped stony corals under the order Scleractinia.
+This family consists of multiple genera (more than one genus) and various species which are found among the ocean floor. These coral may be sparse or conspicuous in the wild. However, they are commonly kept in home-aquariums to be enjoyed for their beauty and protection by many fish and their owners.
+
+
+== Classification ==
+As of the year 2000, the order Scleractinia was divided into 18 artificial families, known as the Acroporidae, Astrocoeniidae, Pocilloporidae, Euphyllidae, Oculinidae, Meandrinidae, Siderastreidae, Agariciidae, Fungiidae, Rhizangiidae, Pectiniidae, Merulinidae, Dendrophylliidae, Caryophylliidae, Mussidae, Faviidae, Trachyphylliidae, and Poritidae (sensu Veron 2000). During this time, only 11 families were known to contain corals that can be classified as truly reef-building. All scleractinian families considered here are zooxanthellates (contain photo-endo-symbiontic zooxanthellae). However, in 2022 there are more than 30 families determined under the Scleractinia (according to the World Register of Marine Species) order and 845 species of coral which are known to be reef-building.
+Various genera are listed by the World Register of Marine Species:
+
+Genus Coeloseris Vaughan, 1918
+Genus Ctenella Matthai, 1928
+Genus Euphyllia Dana, 1846
+Genus Fimbriaphyllia Veron & Pichon, 1980
+Genus Galaxea Oken, 1815
+Genus Gyrosmilia Milne Edwards & Haime, 1851
+Genus Montigyra Matthai, 1928
+Genus Simplastrea Umbgrove, 1939
+Additionally, Acrhelia and Acrohelia are considered synonyms of Galaxea, while Leptosmilia is considered a synonym of Euphyllia.
+
+
+== Appearance ==
+Euphyllidae typically remain consistent in appearance with most stony corals. They are long, tubular or cylindrical with many "branches" which extend up toward the surface of the ocean. The exoskeleton of this organism is made of many polyps which consist of limestone or calcium carbonate.
+"Corallum with phaceloid growth; are green, gray, bluish, or pale-brown in color. Tentacles with, greenish to cream tips, that are round, kidney to bean-shaped (according to the species). Polyps usually at least partly extended. Corallites are very tall (up to 150 mm) and either single or in rows; rise separately (even at their bases) from encrusting leaves and are usually 1-40 mm in diameter. Calices are rounded. Septa are numerous and in cycles, larger ones exsert by as much as 10 mm as they pass over the corallite wall. Septal margins are smooth, finely granulated or minutely dentate. There is no columella."
+These corals have a body plan characterized by radial symmetry, which allows all parts of their bodies to be equally receptive and responsive to predator and prey.
+
+
+=== Structure ===
+Euphylliidae inherits its body structure and size through Scleractinia:
+
+An endoskeleton structure with a solid composition of calcareous aragonite.
+Functional group: macrobenthos (stage: adult)
+Body size: (qualitative) 2.0 – 200 mm (stage: adult)
+Functional group: zooplankton (stage: planula)
+Functional group mesoplankton (stage: planula)
+Body size (qualitative) 0.2 - 2.0 mm (stage: planula)
+Colonies are phaceloid, meandroid or flabello-meandroid, with large, solid and widely spaced septo-costae which have little or no ornamentation. Corallite (cuplike calcareous skeleton of polyp) walls have a similar structure. The most conspicuous of this family are the genera Plerogyra and Euphyllia. They can be abundant in turbid lagoonal habitats. Euphyllidae are commonly referred to as the "bubble" or "grape" corals, since the large fleshy tentacles and vesicles are expanded during the day give the corals a bubble-like appearance.
+While most hard corals are best identified by looking at details of their skeleton, members of the family Euphyllidae are more easily told apart by looking at the structure of their tentacles.
+Some species have tentacles with a distinctive U-shaped tip, others lack this.
+Most coral structures are actually made up of hundreds to thousands of tiny coral creatures called polyps. Each soft-bodied polyp—most no thicker than a nickel—secretes a hard outer skeleton of limestone (calcium carbonate) that attaches either to rock or the dead skeletons of other polyps.
+In the case of stony or hard corals, these polyp conglomerates grow, die, and endlessly repeat the cycle over time, slowly laying the limestone foundation for coral reefs and giving shape to the familiar corals that reside there. Because of this cycle of growth, death, and regeneration among individual polyps, many coral colonies can live for a very long time.
+
+
+== Environment and activity ==
+Euphylliid corals are benthic and sessile organisms, remaining on the sea floor through all stages of life. Although these organisms are commonly found in shallow waters and are often assumed to be plants, they are indeed marine animals. They do not have photosynthetic capabilities, which is why it is clear that polyps are very successful in feeding.
+These animals have a single opening that serves as both the mouth and the anus. Tentacles with stinging structures, called nematocysts, usually surround this opening. These stinging cells, triggered by touch or chemical stimulus, can contain toxins or can be sticky.
+These coral do not significantly propel themselves and therefore will not move actively with the exception of outward growth. As Euphyllia are part of the coral taxonomy, they naturally feed through the small stingers of polyps which catch floating zooplankton among other small organisms. Therefore they are photosymbiotic and known as suspension feeders.
+"Polyp activity in passive suspension feeders has been considered to be affected by several environmental factors such as hydrodynamics, water temperature and food concentration."
+The current conservation status of the family overall is unthreatened, but specific species are of higher concern than most others. Reasons for this concern rely on environmental issues such as increased sea surface temperature, ocean acidification, and overfishing for the marine aquarium trade.
+Most corals contain algae called zooxanthellae, which are plant-like organisms. Residing within the coral's tissues, the microscopic algae are well protected and make use of the coral's metabolic waste products for photosynthesis.
+
+
+=== Location ===
+Various Euphyllidae were found among the Indo-Pacific, Australia, Southeast Asia, the Ryukyu Islands and East China Sea, the Solomon Islands, Fiji, and Palau. Many species prefer fringing reef crests, mid-slope terraces, and lagoons at depths of about 2 to 25 meters.
+
+
+=== Reproduction ===
+"Corals can reproduce asexually and sexually. In asexual reproduction, new clonal polyps bud off from parent polyps to expand or begin new colonies. This occurs when the parent polyp reaches a certain size and divides. This process continues throughout the animal's life.
+About three-quarters of all stony corals produce male and/or female gametes. Most of these species are broadcast spawners, releasing massive numbers of eggs and sperm into the water to distribute their offspring over a broad geographic area. The eggs and sperm join to form free-floating, or planktonic, larvae called planulae. Large numbers of planulae are produced to compensate for the many hazards, such as predators, that they encounter as they are carried by water currents. The time between planulae formation and settlement is a period of exceptionally high mortality among corals."
+"Planulae swim upward toward the light (exhibiting positive phototaxis), entering the surface waters and being transported by the current. After floating at the surface, the planulae swim back down to the bottom, where, if conditions are favorable, they will settle. Once the planulae settle, they metamorphose into polyps and form colonies that increase in size. In most species, the larvae settle within two days, although some will swim for up to three weeks, and in one known instance, two months."
+
+
+== References ==
+
+
+== Further reading ==
+Papers from the Department of Marine Biology of the Carnegie Institution of Washington. Vol. 9. 1918 – via Biodiversity Heritage Library.

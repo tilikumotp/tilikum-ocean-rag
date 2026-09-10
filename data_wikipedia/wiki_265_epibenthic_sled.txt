@@ -1,0 +1,37 @@
+# Epibenthic sled
+
+An epibenthic sled (or epibenthos sled/sledge) is an instrument designed to collect benthic and benthopelagic faunas from the deep sea.  The sled is made from a steel frame consisting of two skids and stabilizing planes to keep it from sinking too deep into the mud.  Attached to the frame is a 1 mm mesh net to collect the samples.  The sled is towed along the seafloor at the sediment water interface.  The device has a mechanically operated door that is closed when the sled is mid water and opens when it reaches the seafloor.  When the fauna is collected, the door closes again to preserve the sample on the long trek back through the water column.  The door prevents washing of the sample and loss of organisms through turbulence generated as the net is lifted out.  The epibenthic sled can also be used with external sensors and cameras.
+The sled is mostly used to collect epifauna, however some infauna can be gathered as well.  There is an adjustable cutting bar mounted underneath the sled that can cut into the sediment but it cannot sample organisms living at depths greater than 1 to 2 cm.  However, this allows the sled to get a pretty good cross section of what animals burrow because most live near the sediment water interface.  Swimming (close to the sediment), crawling, burrowing, and sessile animals all are collected by the sled.  The introduction of the epibenthic sled has led to a better understanding of the diversity of meiofauna to macrofauna in the deep sea and of the phylogeny and systematics of some major invertebrate groups.  In addition, if samples are repeatedly taken from the same area temporal information can be gathered that may be important in understanding phenomena such as reproductive patterns in the deep sea.
+
+
+== History ==
+
+The epibenthic sled was designed by Dr. Robert Hessler of Scripps Institution of Oceanography, Howard Sanders, and George R. Hampson of Woods Hole Oceanographic Institution in the 1960s.
+In the 1800s the deep sea floor was perceived to be lifeless.  The HMS Challenger expedition (1872–1876) was one of the first to explore the depths of the ocean.  The expedition produced evidence that there was life in the deep sea but it was thought that the diversity was very low compared to shallower waters.  It was not until the 1960s that the richness of species in the deep sea was discovered.  This was achieved by sampling with the new epibenthic sled.  Hessler and Sanders were able to document the large diversity of the macrofauna over a broad area with their device.  They were surprised by the numbers collected.  They pulled the sled at a depth of 1,500 meters for an hour and caught 10.804 worms of 91 different species, 4,393 arthropods of 127 species, 6,713 mollusks of 84 species and 2,715 echinoderms of 20 different species.  When they sampled from the abyssal plain at 5,000 meters they collected a total of 3,737 animals and 196 different species.  This showed that the deep sea was not barren and that it is actually very diverse.
+Hessler and Sanders were successful in obtaining a more accurate count of diversity of the deep sea floor because previous attempts, such as those from the Challenger, did not take into account the winnowing effect.  As they brought their samples up from the deep, through the shallower water, the turbulence would cause the lighter organisms to fall out of the net.  Therefore, the diversity of the sample was low as they lost fauna on the way up.  The epibenthic sled reduces this effect by closing the opening to the net so no species is lost.  Sometimes a single sample from the sled Hessler and Sanders used would have an equivalent number of specimens as the total number combined from all expeditions over the previous 100 years.  Through using the epibenthic sled the knowledge that there is high diversity in the deep sea is now well established.  As more information is gathered, the deep-sea environment becomes more comparable to a highly diverse terrestrial environment such as tropical rainforests.
+
+
+== Limitations ==
+The epibenthic sled has helped to establish that there is a high species diversity in the deep sea, however, there are some limitations to the sled.
+The epibenthic sled should not be used for a quantitative study. It is difficult to know how much area the sled covered and therefore hard to figure out how densely packed the organisms are on the sea floor.  In addition the diversity of the seafloor may be higher than the sled shows as it is limited by:
+
+Clogging of the opening by sediment
+Damage to the more delicate specimens as they are scooped up
+Irregular filtering if the mesh is clogged
+Avoidance behavior of the sled by some species
+Displacement of animals by the sled
+Misses deep burrowing animals since it can only cut through sediment up to 2 cm deep
+If an accurate density is needed of the macrofauna, grab samples or box cores would be more accurate.  However the sled is useful for collecting rare species and for providing information on an area that is not well studied.
+
+
+== Sherman (sled) ==
+The Sherman epibenthic sled is used for rough terrain.
+In 1997 an epibenthic sled was designed by CSIRO to sample invertebrates from seamounts.  Older epibenthic sleds were unable to sample in this rough terrain.  Changes were made to make it more rugged.  The bracing was enhanced and the runners were thickened.  They also improved the cutting plates and made infaunal collection optional.
+
+
+== See also ==
+Benthos
+Van Veen grab sampler
+
+
+== References ==

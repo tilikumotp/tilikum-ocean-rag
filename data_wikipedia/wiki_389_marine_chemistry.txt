@@ -1,0 +1,79 @@
+# Marine chemistry
+
+Marine chemistry, also known as ocean chemistry or chemical oceanography, is the study of the chemical composition and processes of the world’s oceans, including the interactions between seawater, the atmosphere, the seafloor, and marine organisms. This field encompasses a wide range of topics, such as the cycling of elements like carbon, nitrogen, and phosphorus, the behavior of trace metals, and the study of gases and nutrients in marine environments. Marine chemistry plays a crucial role in understanding global biogeochemical cycles, ocean circulation, and the effects of human activities, such as pollution and climate change, on oceanic systems. It is influenced by plate tectonics and seafloor spreading, turbidity, currents, sediments, pH levels, atmospheric constituents, metamorphic activity, and ecology.
+The impact of human activity on the chemistry of the Earth's oceans has increased over time, with pollution from industry and various land-use practices significantly affecting the oceans. Moreover, increasing levels of carbon dioxide in the Earth's atmosphere have led to ocean acidification, which has negative effects on marine ecosystems. The international community has agreed that restoring the chemistry of the oceans is a priority, and efforts toward this goal are tracked as part of Sustainable Development Goal 14.
+Due to the interrelatedness of the ocean, chemical oceanographers frequently work on problems relevant to physical oceanography, geology and geochemistry, biology and biochemistry, and atmospheric science. Many of them are investigating biogeochemical cycles, and the marine carbon cycle in particular attracts significant interest due to its role in carbon sequestration and ocean acidification. Other major topics of interest include analytical chemistry of the oceans, marine pollution, and anthropogenic climate change.
+
+
+== Organic compounds in the oceans ==
+
+
+=== Dissolved Organic Matter (DOM) ===
+
+DOM is a critical component of the ocean's carbon pool and includes many molecules such as amino acids, sugars, and lipids. It represents about 90% of the total organic carbon in marine environments. Colored dissolved organic matter (CDOM) is estimated to range from 20-70% of the carbon content of the oceans, being higher near river outlets and lower in the open ocean. DOM can be recycled and put back into the food web through a process called microbial loop which is essential for nutrient cycling and supporting primary productivity. It also plays a vital role in the global regulation of oceanic carbon storage, as some forms resist microbial degradation and may exist within the ocean for centuries. Marine life is similar mainly in biochemistry to terrestrial organisms, and is the most prolific source of halogenated organic compounds.
+
+
+=== Particulate Organic Matter (POM) ===
+POM includes of large organic particles, such as organisms, fecal pellets, and detritus, which settle through the water column. It is a major component of the biological pump, a process by which carbon is transferred from the surface ocean to the deep sea. As POM sinks, it decomposes by bacterial activity, releasing nutrients and carbon dioxide. The refractory POM fraction can settle on the ocean floor and make relevant contributions to carbon sequestration over a very long period of time
+
+
+== Chemical ecology of extremophiles ==
+The ocean is home to a variety of marine organisms known as extremophiles – organisms that thrive in extreme conditions of temperature, pressure, and light availability. Extremophiles inhabit many unique habitats in the ocean, such as hydrothermal vents, black smokers, cold seeps, hypersaline regions, and sea ice brine pockets. Some scientists have speculated that life may have evolved from hydrothermal vents in the ocean.In hydrothermal vents and similar environments, many extremophiles acquire energy through chemoautotrophy, using chemical compounds as energy sources, rather than light as in photoautotrophy. Hydrothermal vents enrich the nearby environment in chemicals such as elemental sulfur, H2, H2S, Fe2+, and methane. Chemoautotrophic organisms, primarily prokaryotes, derive energy from these chemicals through redox reactions. These organisms then serve as food sources for higher trophic levels, forming the basis of unique ecosystems.
+Several different metabolisms are present in hydrothermal vent ecosystems. Many marine microorganisms, including Thiomicrospira, Halothiobacillus, and Beggiatoa, are capable of oxidizing sulfur compounds, including elemental sulfur and the often toxic compound H2S. H2S is abundant in hydrothermal vents, formed through interactions between seawater and rock at the high temperatures found within vents. This compound is a major energy source, forming the basis of the sulfur cycle in hydrothermal vent ecosystems. In the colder waters surrounding vents, sulfur-oxidation can occur using oxygen as an electron acceptor; closer to the vents, organisms must use alternate metabolic pathways or utilize another electron acceptor, such as nitrate. Some species of Thiomicrospira can utilize thiosulfate as an electron donor, producing elemental sulfur. Additionally, many marine microorganisms are capable of iron-oxidation, such as Mariprofundus ferrooxydans. Iron-oxidation can be oxic, occurring in oxygen-rich parts of the ocean, or anoxic, requiring either an electron acceptor such as nitrate or light energy. In iron-oxidation, Fe(II) is used as an electron donor; conversely, iron-reducers utilize Fe(III) as an electron acceptor. These two metabolisms form the basis of the iron-redox cycle and may have contributed to banded iron formations.
+At another extreme, some marine extremophiles inhabit sea ice brine pockets where temperature is very low and salinity is very high. Organisms trapped within freezing sea ice must adapt to a rapid change in salinity up to 3 times higher than that of regular seawater, as well as the rapid change to regular seawater salinity when ice melts. Most brine-pocket dwelling organisms are photosynthetic, therefore, these microenvironments can become hyperoxic, which can be toxic to its inhabitants. Thus, these extremophiles often produce high levels of antioxidants.
+
+
+== Plate tectonics ==
+
+Seafloor spreading on mid-ocean ridges is a global scale ion-exchange system. Hydrothermal vents at spreading centers introduce various amounts of iron, sulfur, manganese, silicon and other elements into the ocean, some of which are recycled into the ocean crust. Helium-3, an isotope that accompanies volcanism from the mantle, is emitted by hydrothermal vents and can be detected in plumes within the ocean.
+Spreading rates on mid-ocean ridges vary between 10 and 200 mm/yr. Rapid spreading rates cause increased basalt reactions with seawater. The magnesium/calcium ratio will be lower because more magnesium ions are being removed from seawater and consumed by the rock, and more calcium ions are being removed from the rock and released to seawater. Hydrothermal activity at ridge crest is efficient in removing magnesium. A lower Mg/Ca ratio favors the precipitation of low-Mg calcite polymorphs of calcium carbonate (calcite seas).
+Slow spreading at mid-ocean ridges has the opposite effect and will result in a higher Mg/Ca ratio favoring the precipitation of aragonite and high-Mg calcite polymorphs of calcium carbonate (aragonite seas).
+Experiments show that most modern high-Mg calcite organisms would have been low-Mg calcite in past calcite seas, meaning that the Mg/Ca ratio in an organism's skeleton varies with the Mg/Ca ratio of the seawater in which it was grown.
+The mineralogy of reef-building and sediment-producing organisms is thus regulated by chemical reactions occurring along the mid-ocean ridge, the rate of which is controlled by the rate of sea-floor spreading.
+
+
+== Human impacts ==
+
+
+=== Marine pollution ===
+
+
+=== Climate change ===
+
+Increased carbon dioxide levels, mostly from burning fossil fuels, are changing ocean chemistry. Global warming and changes in salinity have significant implications for the ecology of marine environments.
+
+
+==== Acidification ====
+
+
+==== Deoxygenation ====
+
+
+== History ==
+
+Early inquiries about marine chemistry usually concerned the origin of salinity in the ocean, including work by Robert Boyle. Modern chemical oceanography began as a field with the 1872–1876 Challenger expedition, led by the British Royal Navy which made the first systematic measurements of ocean chemistry. The chemical analysis of these samples providing the first systematic study of the composition of seawater was conducted by John Murray and George Forchhammer, leading to a better understanding of elements like chloride, sodium, and sulfate in ocean waters
+The early 20th century saw significant advancements in marine chemistry, particularly with more accurate analytical techniques. Scientists like Martin Knudsen created the Knudsen Bottle, an instrument used to collect water samples from different ocean depths. Over the past three decades (1970s, 1980s, and 1990s), a comprehensive evaluation of advancements in chemical oceanography was compiled through a National Science Foundation initiative known as Futures of Ocean Chemistry in the United States (FOCUS). This project brought together numerous prominent chemical oceanographers, marine chemists, and geochemists to contribute to the FOCUS report.
+After World War II, advancements in geochemical techniques propelled marine chemistry into a new era. Researchers began using isotopic analysis to study ocean circulation and the carbon cycle. Roger Revelle and Hans Suess pioneered using radiocarbon dating to investigate oceanic carbon reservoirs and their exchange with the atmosphere.
+Since the 1970s, the development of highly sophisticated instruments and computational models has revolutionized marine chemistry. Scientists can now measure trace metals, organic compounds, and isotopic ratios with unprecedented precision. Studies of marine biogeochemical cycles, including the carbon, nitrogen, and sulfur cycles, have become an area of interest to understand global climate change. The use of remote sensing technology and global ocean observation programs, such as the International Geosphere-Biosphere Programme (IGBP), has provided large-scale data on ocean chemistry, allowing scientists to monitor ocean acidification, deoxygenation, and other critical issues affecting the marine environment. 
+
+
+== Tools used for analysis ==
+Chemical oceanographers collect and measure chemicals in seawater, using the standard toolset of analytical chemistry as well as instruments like pH meters, electrical conductivity meters, fluorometers, and dissolved CO2 meters. Most data are collected through shipboard measurements and from autonomous floats or buoys, but remote sensing is used as well. On an oceanographic research vessel, a CTD is used to measure electrical conductivity, temperature, and pressure, and is often mounted on a rosette of Nansen bottles to collect seawater for analysis. Sediments are commonly studied with a box corer or a sediment trap, and older sediments may be recovered by scientific drilling. 
+
+Advanced analytical equipment such as mass spectrometers and chromatographs are applied to detect trace elements, isotopes, and organic compounds. This allows for precisely measuring nutrients, gases, and pollutants in marine environments. In recent years, autonomous underwater vehicles (AUVs) and remote sensing technology have enabled continuous, large-scale ocean chemistry monitoring, particularly for tracking changes in ocean acidification and nutrient cycles.
+
+
+== Marine chemistry on other planets and their moons ==
+The chemistry of the subsurface ocean of Europa may be Earthlike. The subsurface ocean of Enceladus vents hydrogen and carbon dioxide to space.
+
+
+== See also ==
+Global Ocean Data Analysis Project
+Oceanography
+Physical oceanography
+World Ocean Atlas
+Seawater
+RISE project
+
+
+== References ==

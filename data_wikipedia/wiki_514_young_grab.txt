@@ -1,0 +1,15 @@
+# Young grab
+
+The Young grab, or the Young modified Van Veen grab sampler is an instrument to sample sediment in the ocean. It is a modified version of the Van Veen grab sampler, with a clamshell bucket made out of stainless steel mounted to a supporting frame. The sampling area extracted with this instrument can vary depending on its size. With the modifications this version of the Van Veen grab sampler is heavier than the traditional version. The frame allows for better stability and level sampling. Weights can be attached to the frame to ensure the bucket grabs sufficient sediment, or skids to ensure the gear does not sink too deep in soft sediments.
+A draw-back of the use of this sampler is that it tends to disturb the sediments more than a box corer does. This does also not allow for sampling of the water column, but only the benthic surface.
+
+
+== Mechanism ==
+While letting the instrument down into the water, the two levers with buckets at their ends are spread like an open scissor. The levers are locked in this position, and unlock when hitting the ground. When the rope is pulled upward again, the two buckets close and grab a sample from the sea floor.
+Two small technical changes lead to variations with more mechanical parts:
+
+The Ekman grab sampler does not close the shovels instantly on ground contact, but a messenger weight has to be sent down in order to release springs and take the sample.
+The Ponar type sampler is modified also has additional springs which are released upon bottom contact which might be helpful for harder surfaces.
+
+
+== References ==

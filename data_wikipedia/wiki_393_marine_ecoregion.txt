@@ -1,0 +1,68 @@
+# Marine ecoregion
+
+A marine ecoregion is an ecoregion, or ecological region, of the oceans and seas identified and defined based on biogeographic characteristics.
+
+
+== Introduction ==
+A more complete definition describes them as “Areas of relatively homogeneous species composition, clearly distinct from adjacent systems” dominated by “a small number of ecosystems and/or a distinct suite of oceanographic or topographic features”. Ecologically they “are strongly cohesive units, sufficiently large to encompass ecological or life history processes for most sedentary species.”
+
+
+== Marine Ecoregions of the World—MEOW ==
+The global classification system Marine Ecoregions of the World—MEOW was devised by an international team, including major conservation organizations, academic institutions and intergovernmental organizations.  The system covers coastal and continental shelf waters of the world, and does not include deep ocean waters. The MEOW system integrated the biogeographic regionalization systems in use at national or continental scale, like Australia's Integrated Marine and Coastal Regionalisation of Australia and the Nature Conservancy’s system in the Americas, although it often uses different names for the subdivisions.
+This system has a strong biogeographic basis, but was designed to aid in conservation activities for marine ecosystems. Its subdivisions include both the seafloor (benthic) and shelf pelagic (neritic) biotas of each marine region.
+The digital ecoregions layer is available for download as an ArcGIS Shapefile.
+
+
+=== Subdivisions ===
+
+
+==== Ecoregions ====
+The Marine Ecoregions of the World classification defines 232 marine ecoregions (e.g. Adriatic Sea, Cortezian, Ningaloo, Ross Sea) for the coastal and shelf waters of the world.
+
+
+==== Provinces ====
+These marine ecoregions form part of a nested system and are grouped into 62 provinces (e.g. the South China Sea, Mediterranean Sea, Central Indian Ocean Islands).
+
+
+==== Realms ====
+The provinces in turn, are grouped into 12 major realms. The latter are considered analogous to the eight terrestrial realms, represent large regions of the ocean basins: 
+
+Arctic
+Temperate Northern Atlantic
+Temperate Northern Pacific
+Tropical Atlantic
+Western Indo-Pacific
+Central Indo-Pacific
+Eastern Indo-Pacific
+Tropical Eastern Pacific
+Temperate South America
+Temperate Southern Africa
+Temperate Australasia
+Southern Ocean
+
+
+== Other marine ecoregion classifications ==
+Other classifications of marine ecoregions or equivalent areas have been widely developed at national and regional levels, as well as a small number of global schemes.
+Each of these systems, along with numerous regional biogeographic classifications, was used to inform the MEOW system. The WWF Global 200 work also identifies a number of major habitat types that correspond to the terrestrial biomes: polar, temperate shelves and seas, temperate upwelling, tropical upwelling, tropical coral, pelagic (trades and westerlies), abyssal, and hadal (ocean trench).
+
+
+=== Briggs Coastal Provinces ===
+One of the most comprehensive early classifications was the system of 53 coastal provinces developed by Briggs in 1974. The near-global system of 64 large marine ecosystems has a partial biogeographic basis.
+
+
+=== WWF Global 200 ===
+The World Wildlife Fund—WWF identified 43 priority marine ecoregions, as part of its Global 200 initiative.
+
+
+== See also ==
+List of marine ecoregions
+Marine botany
+Marine ecosystem
+
+
+== References ==
+
+
+== External links ==
+
+Nature.org: Marine Ecoregions of the World—MEOW

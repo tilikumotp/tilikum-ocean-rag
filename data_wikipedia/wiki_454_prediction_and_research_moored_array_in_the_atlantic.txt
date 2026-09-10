@@ -1,0 +1,35 @@
+# Prediction and Research Moored Array in the Atlantic
+
+The Prediction and Research Moored Array in the Atlantic (PIRATA) is a system of moored observation buoys in the tropical Atlantic Ocean which collect meteorological and oceanographic data. The data collected by the PIRATA array helps scientists to better understand climatic events in the Tropical Atlantic and to improve weather forecasting and climate research worldwide. Climatic and oceanic events in the tropical Atlantic, such as the Tropical Atlantic SST Dipole affect rainfall and climate in both West Africa and Northeast Brazil. The northern tropical Atlantic is also a major formation area for hurricanes affecting the West Indies and the United States. Alongside the RAMA array in the Indian Ocean and the TAO/TRITON network in the Pacific Ocean, PIRATA forms part of the worldwide system of tropical ocean observing buoys.
+
+
+== Partners ==
+The project is a tripartite cooperation between Brazil, France and the United States. The principal agencies involved are NOAA in the United States, IRD and Météo-France of France plus INPE and DHN from Brazil.
+
+
+== PIRATA network ==
+The PIRATA buoy network consists of seventeen Autonomous Temperature Line Acquisition System, or ATLAS, buoys. Twelve buoys were originally deployed in 1997. Two of these buoys were decommissioned in 1999 because of vandalism by fishing craft. Three extensions of the original network have been added. Three buoys were deployed off the coast of Brazil in 2005 and four more in 2006/2007 to extend coverage to the north and the north-east. As a demonstration exercise one buoy was deployed to the south-east of the region, off the coast of Africa, between June 2006 and June 2007.
+In addition to the ATLAS buoys, PIRATA has three island based meteorological stations, one at Fernando de Noronha, another on the Saint Peter and Saint Paul Archipelago and one on São Tomé. A tidal gauge is also maintained at São Tomé. Dedicated hydrographic cruises and annual buoy maintenance voyages are also undertaken under the auspices of the PIRATA project.
+
+
+== ATLAS buoys ==
+Each ATLAS buoy measures
+
+wind speed and direction,
+air temperature,
+rainfall,
+humidity,
+solar radiation,
+pressure, temperature and conductivity to 500 metres below sea level.
+In addition one buoy has an Acoustic Doppler Current Profiler fitted alongside to measure water current velocities and four buoys are equipped to measure net heat flux.
+Daily mean observations from the ATLAS buoys are received in near real time via both the Argos System and Brazilian satellites. The data is processed by the TAO Project Office of NOAA and also placed on the Global Telecommunications System for real time distribution to weather centres and other users. High frequency measurements are stored on the buoys and retrieved during maintenance operations. The array provides 4,000 to 4,500 unique hourly values per month.
+
+
+== Notable locations ==
+One of the buoys was positioned at 0°N 0°E, where the Equator and Prime Meridian intersect, off the coast of Africa. This buoy is sometimes jokingly referred to as Null Island.
+
+
+== Notes ==
+
+
+== References ==

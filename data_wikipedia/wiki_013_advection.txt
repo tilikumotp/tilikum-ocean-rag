@@ -1,0 +1,467 @@
+# Advection
+
+In the fields of physics, engineering, and earth sciences, advection is the transport of a substance or quantity by bulk motion of a fluid. The properties of that substance are carried with it. Generally the majority of the advected substance is also a fluid. The properties that are carried with the advected substance are conserved properties such as energy. An example of advection is the transport of pollutants or silt in a river by bulk water flow downstream. Another commonly advected quantity is energy or enthalpy. Here the fluid may be any material that contains thermal energy, such as  water or air. In general, any substance or conserved extensive quantity can be advected by a fluid that can hold or contain the quantity or substance.
+During advection, a fluid transports some conserved quantity or material via bulk motion. The fluid's motion is described mathematically as a vector field, and the transported material is described by a scalar field showing its distribution over space. Advection requires currents in the fluid, and so cannot happen in rigid solids.  It does not include transport of substances by molecular diffusion.
+Advection is sometimes confused with the more encompassing process of convection, which is the combination of advective transport and diffusive transport.
+In meteorology it is the transfer by the wind of an atmospheric mass.
+Advection is important for the formation of orographic clouds and the precipitation of water from clouds, as part of the hydrological cycle.
+
+
+== Mathematical description ==
+The advection equation is a first-order hyperbolic partial differential equation that governs the motion of a conserved scalar field as it is advected by a known velocity vector field. It is derived using the scalar field's conservation law, together with Gauss's theorem, and taking the infinitesimal limit.
+One easily  visualized example of advection is the transport of ink dumped into a river. As the river flows, ink will move downstream in a "pulse" via advection, as the water's movement itself transports the ink. If added to a lake without significant bulk water flow, the ink would simply disperse outwards from its source in a diffusive manner, which is not advection.  Note that as it moves downstream, the "pulse" of ink will also spread via diffusion.  The sum of these processes is called convection.
+
+
+=== The advection equation ===
+The advection equation for a conserved quantity described by a scalar field 
+  
+    
+      
+        ψ
+        (
+        t
+        ,
+        x
+        ,
+        y
+        ,
+        z
+        )
+      
+    
+    {\displaystyle \psi (t,x,y,z)}
+  
+ is expressed by a continuity equation:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              ψ
+            
+            
+              ∂
+              t
+            
+          
+        
+        +
+        ∇
+        ⋅
+        
+          (
+          
+            ψ
+            
+              
+                u
+              
+            
+          
+          )
+        
+        =
+        0
+        ,
+      
+    
+    {\displaystyle {\frac {\partial \psi }{\partial t}}+\nabla \cdot \left(\psi {\mathbf {u} }\right)=0,}
+  
+
+where vector field 
+  
+    
+      
+        
+          u
+        
+        =
+        (
+        
+          u
+          
+            x
+          
+        
+        ,
+        
+          u
+          
+            y
+          
+        
+        ,
+        
+          u
+          
+            z
+          
+        
+        )
+      
+    
+    {\displaystyle \mathbf {u} =(u_{x},u_{y},u_{z})}
+  
+ is the flow velocity and 
+  
+    
+      
+        ∇
+      
+    
+    {\displaystyle \nabla }
+  
+ is the del operator.  If the flow is assumed to be incompressible then 
+  
+    
+      
+        
+          u
+        
+      
+    
+    {\displaystyle \mathbf {u} }
+  
+ is solenoidal, that is, the divergence is zero:
+  
+    
+      
+        ∇
+        ⋅
+        
+          
+            u
+          
+        
+        =
+        0
+        ,
+      
+    
+    {\displaystyle \nabla \cdot {\mathbf {u} }=0,}
+  
+and (by using a product rule associated with the divergence) the above equation reduces to
+
+  
+    
+      
+        
+          
+            
+              ∂
+              ψ
+            
+            
+              ∂
+              t
+            
+          
+        
+        +
+        
+          
+            u
+          
+        
+        ⋅
+        ∇
+        ψ
+        =
+        0.
+      
+    
+    {\displaystyle {\frac {\partial \psi }{\partial t}}+{\mathbf {u} }\cdot \nabla \psi =0.}
+  
+
+In particular, if the flow is steady, then
+  
+    
+      
+        
+          
+            u
+          
+        
+        ⋅
+        ∇
+        ψ
+        =
+        0
+        ,
+      
+    
+    {\displaystyle {\mathbf {u} }\cdot \nabla \psi =0,}
+  
+which shows that 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+  
+ is constant (because 
+  
+    
+      
+        ∇
+        ψ
+        =
+        0
+      
+    
+    {\textstyle \nabla \psi =0}
+  
+ for any vector 
+  
+    
+      
+        
+          u
+        
+      
+    
+    {\textstyle \mathbf {u} }
+  
+) along a streamline. 
+If a vector quantity 
+  
+    
+      
+        
+          a
+        
+      
+    
+    {\displaystyle \mathbf {a} }
+  
+ (such as a magnetic field) is being advected by the solenoidal velocity field 
+  
+    
+      
+        
+          u
+        
+      
+    
+    {\displaystyle \mathbf {u} }
+  
+, then the advection equation above becomes:
+
+  
+    
+      
+        
+          
+            
+              ∂
+              
+                
+                  a
+                
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        +
+        
+          (
+          
+            
+              
+                u
+              
+            
+            ⋅
+            ∇
+          
+          )
+        
+        
+          
+            a
+          
+        
+        =
+        0.
+      
+    
+    {\displaystyle {\frac {\partial {\mathbf {a} }}{\partial t}}+\left({\mathbf {u} }\cdot \nabla \right){\mathbf {a} }=0.}
+  
+
+Here, 
+  
+    
+      
+        
+          a
+        
+      
+    
+    {\displaystyle \mathbf {a} }
+  
+ is a vector field instead of the scalar field 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+  
+.
+
+
+=== Solution ===
+
+Solutions to the advection equation can be approximated using numerical methods, where interest typically centers on discontinuous "shock" solutions and necessary conditions for convergence (e.g. the CFL condition). 
+Numerical simulation can be aided by considering the skew-symmetric form of advection
+
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+          
+            u
+          
+        
+        ⋅
+        ∇
+        
+          
+            u
+          
+        
+        +
+        
+          
+            
+              1
+              2
+            
+          
+        
+        ∇
+        (
+        
+          
+            u
+          
+        
+        
+          
+            u
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle {\tfrac {1}{2}}{\mathbf {u} }\cdot \nabla {\mathbf {u} }+{\tfrac {1}{2}}\nabla ({\mathbf {u} }{\mathbf {u} }),}
+  
+
+where
+
+  
+    
+      
+        ∇
+        (
+        
+          
+            u
+          
+        
+        
+          
+            u
+          
+        
+        )
+        =
+        ∇
+        ⋅
+        [
+        
+          
+            u
+          
+        
+        
+          u
+          
+            x
+          
+        
+        ,
+        
+          
+            u
+          
+        
+        
+          u
+          
+            y
+          
+        
+        ,
+        
+          
+            u
+          
+        
+        
+          u
+          
+            z
+          
+        
+        ]
+        .
+      
+    
+    {\displaystyle \nabla ({\mathbf {u} }{\mathbf {u} })=\nabla \cdot [{\mathbf {u} }u_{x},{\mathbf {u} }u_{y},{\mathbf {u} }u_{z}].}
+  
+
+Since skew symmetry implies only imaginary eigenvalues, this form reduces the "blow up" and "spectral blocking" often experienced in numerical solutions with sharp discontinuities.
+
+
+== Distinction between advection and convection ==
+
+The term advection often serves as a synonym for convection, and this correspondence of terms is used in the literature. More technically, convection applies to the movement of a fluid (often due to density gradients created by thermal gradients), whereas advection is the movement of some material by the velocity of the fluid. Thus, although it might seem confusing, it is technically correct to think of momentum being advected by the velocity field in the Navier-Stokes equations, although the resulting motion would be considered to be convection. Because of the specific use of the term convection to indicate transport in association with thermal gradients, it is probably safer to use the term advection if one is uncertain about which terminology best describes their particular system.
+
+
+== Meteorology ==
+In meteorology and physical oceanography, advection often refers to the horizontal transport of some property of the atmosphere or ocean, such as heat, humidity or salinity, and convection generally refers to vertical transport (vertical advection). Advection is important for the formation of orographic clouds (terrain-forced convection) and the precipitation of water from clouds, as part of the hydrological cycle.
+
+
+== Other quantities ==
+The advection equation also applies if the quantity being advected is represented by a probability density function at each point, although accounting for diffusion is more difficult.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+Boyd, John P. (2001). Chebyshev and Fourier Spectral Methods (PDF). Mineola, NY: Courier Corporation. ISBN 0-486-41183-4.
+LeVeque, Randall J. (2002). Finite Volume Methods for Hyperbolic Problems. Cambridge University Press. doi:10.1017/cbo9780511791253. ISBN 978-0-521-81087-6.

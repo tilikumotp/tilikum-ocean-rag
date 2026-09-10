@@ -1,0 +1,1039 @@
+# Conservative temperature
+
+Conservative temperature 
+  
+    
+      
+        (
+        Θ
+        )
+      
+    
+    {\displaystyle (\Theta )}
+  
+ is a thermodynamic property of seawater. It is derived from the potential enthalpy and is recommended under the TEOS-10 standard (Thermodynamic Equation of Seawater - 2010) as a replacement for potential temperature as it more accurately represents the heat content in the ocean.
+
+
+== Motivation ==
+Conservative temperature was initially proposed by Trevor McDougall in 2003. The motivation was to find an oceanic variable representing the heat content that is conserved during both pressure changes and turbulent mixing. In-situ temperature 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+ is not sufficient for this purpose, as the compression of a water parcel with depth causes an increase of the temperature despite the absence of any external heating. Potential temperature 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+  
+ can be used to combat this issue, as it is referenced to a specific pressure and so ignores these compressive effects. In fact, potential temperature is a conservative variable in the atmosphere for air parcels in dry adiabatic conditions, and has been used in ocean models for many years. However, turbulent mixing processes in the ocean destroy potential temperature, sometimes leading to large errors when it is assumed to be conservative.
+By contrast, the enthalpy of the parcel is conserved during turbulent mixing. However, it suffers from a similar problem to the in-situ temperature in that it also has a strong pressure dependence. Instead, potential enthalpy is proposed to remove this pressure dependence. Conservative temperature is then proportional to the potential enthalpy.
+
+
+== Derivation ==
+
+
+=== Potential enthalpy ===
+The fundamental thermodynamic relation is given by:
+
+  
+    
+      
+        d
+        h
+        −
+        
+          
+            1
+            ρ
+          
+        
+        d
+        p
+        =
+        T
+        
+        d
+        σ
+        +
+        μ
+        
+        d
+        S
+      
+    
+    {\displaystyle dh-{\frac {1}{\rho }}dp=T\,d\sigma +\mu \,dS}
+  
+
+where 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+ is the specific enthalpy, 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  
+ is the pressure, 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+  
+ is the density, 
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+  
+ is the temperature, 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+ is the specific entropy, 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  
+ is the salinity and 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+  
+ is the relative chemical potential of salt in seawater.
+During a process that does not lead to the exchange of heat or salt, entropy and salinity can be assumed constant. Therefore, taking the partial derivative of this relation with respect to pressure yields:
+
+  
+    
+      
+        
+          
+            (
+            
+              
+                
+                  ∂
+                  h
+                
+                
+                  ∂
+                  p
+                
+              
+            
+            )
+          
+          
+            S
+            ,
+            
+            σ
+          
+        
+        =
+        
+          
+            1
+            ρ
+          
+        
+      
+    
+    {\displaystyle \left({\partial h \over \partial p}\right)_{S,\,\sigma }={\frac {1}{\rho }}}
+  
+
+By integrating this equation, the potential enthalpy 
+  
+    
+      
+        
+          h
+          
+            0
+          
+        
+      
+    
+    {\displaystyle h^{0}}
+  
+ is defined as the enthalpy at a reference pressure 
+  
+    
+      
+        
+          p
+          
+            r
+          
+        
+      
+    
+    {\displaystyle p_{r}}
+  
+:
+
+  
+    
+      
+        
+          h
+          
+            0
+          
+        
+        (
+        S
+        ,
+        
+        θ
+        ,
+        
+        
+          p
+          
+            r
+          
+        
+        )
+        =
+        h
+        (
+        S
+        ,
+        
+        θ
+        ,
+        
+        p
+        )
+        −
+        
+          ∫
+          
+            
+              p
+              
+                r
+              
+            
+          
+          
+            p
+          
+        
+        
+          
+            1
+            
+              ρ
+              (
+              S
+              ,
+              
+              θ
+              ,
+              
+              
+                p
+                ′
+              
+              )
+            
+          
+        
+        d
+        
+          p
+          ′
+        
+      
+    
+    {\displaystyle h^{0}(S,\,\theta ,\,p_{r})=h(S,\,\theta ,\,p)-\int _{p_{r}}^{p}{\frac {1}{\rho (S,\,\theta ,\,p')}}dp'}
+  
+
+Here the enthalpy and density are defined in terms of the three state variables: salinity, potential temperature and pressure.
+
+
+=== Conversion to conservative temperature ===
+Conservative temperature 
+  
+    
+      
+        Θ
+      
+    
+    {\displaystyle \Theta }
+  
+ is defined to be directly proportional to potential enthalpy. It is rescaled to have the same units (Kelvin) as the in-situ temperature:
+
+  
+    
+      
+        Θ
+        =
+        
+          
+            
+              h
+              
+                0
+              
+            
+            
+              C
+              
+                p
+              
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle \Theta ={\frac {h^{0}}{C_{p}^{0}}}}
+  
+
+where 
+  
+    
+      
+        
+          C
+          
+            p
+          
+          
+            0
+          
+        
+      
+    
+    {\displaystyle C_{p}^{0}}
+  
+ = 3989.24495292815 J kg−1K−1 is a reference value of the specific heat capacity, chosen to be as close as possible to the spatial average of the heat capacity over the entire ocean surface.
+
+
+== Conservative properties of potential enthalpy ==
+
+
+=== Conservation form ===
+The first law of thermodynamics can be written in the form:
+
+  
+    
+      
+        ρ
+        
+          (
+          
+            
+              
+                
+                  D
+                  ϵ
+                
+                
+                  D
+                  t
+                
+              
+            
+            −
+            (
+            
+              p
+              
+                0
+              
+            
+            +
+            p
+            )
+            
+              
+                1
+                
+                  ρ
+                  
+                    2
+                  
+                
+              
+            
+            
+              
+                
+                  D
+                  ρ
+                
+                
+                  D
+                  t
+                
+              
+            
+          
+          )
+        
+        =
+        −
+        ∇
+        ⋅
+        
+          
+            F
+            
+              Q
+            
+          
+        
+        +
+        ρ
+        
+          ϵ
+          
+            M
+          
+        
+      
+    
+    {\displaystyle \rho \left({D\epsilon  \over Dt}-(p_{0}+p){\frac {1}{\rho ^{2}}}{D\rho  \over Dt}\right)=-\nabla \cdot \mathbf {F_{Q}} +\rho \epsilon _{M}}
+  
+
+or equivalently:
+
+  
+    
+      
+        ρ
+        
+          (
+          
+            
+              
+                
+                  D
+                  h
+                
+                
+                  D
+                  t
+                
+              
+            
+            −
+            
+              
+                1
+                ρ
+              
+            
+            
+              
+                
+                  D
+                  p
+                
+                
+                  D
+                  t
+                
+              
+            
+          
+          )
+        
+        =
+        −
+        ∇
+        ⋅
+        
+          
+            F
+            
+              Q
+            
+          
+        
+        +
+        ρ
+        
+          ϵ
+          
+            M
+          
+        
+      
+    
+    {\displaystyle \rho \left({Dh \over Dt}-{\frac {1}{\rho }}{Dp \over Dt}\right)=-\nabla \cdot \mathbf {F_{Q}} +\rho \epsilon _{M}}
+  
+
+where 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+  
+ denotes the internal energy, 
+  
+    
+      
+        
+          
+            F
+            
+              Q
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {F_{Q}} }
+  
+ represents the flux of heat and 
+  
+    
+      
+        ρ
+        
+          ϵ
+          
+            M
+          
+        
+      
+    
+    {\displaystyle \rho \epsilon _{M}}
+  
+ is the rate of dissipation, which is small compared to the other terms and can therefore be neglected. The operator 
+  
+    
+      
+        
+          
+            D
+            
+              D
+              t
+            
+          
+        
+        =
+        
+          
+            ∂
+            
+              ∂
+              t
+            
+          
+        
+        +
+        
+          u
+        
+        ⋅
+        ∇
+      
+    
+    {\displaystyle {D \over Dt}={\partial  \over \partial t}+\mathbf {u} \cdot \nabla }
+  
+ is the material derivative with respect to the fluid flow 
+  
+    
+      
+        
+          u
+        
+      
+    
+    {\displaystyle \mathbf {u} }
+  
+, and 
+  
+    
+      
+        ∇
+      
+    
+    {\displaystyle \nabla }
+  
+ is the nabla operator.
+In order to show that potential enthalpy is conservative in the ocean, it must be shown that the first law of thermodynamics can be rewritten in conservation form. Taking the material derivative of the equation of potential enthalpy yields:
+
+  
+    
+      
+        
+          
+            
+              D
+              
+                h
+                
+                  0
+                
+              
+            
+            
+              D
+              t
+            
+          
+        
+        =
+        
+          
+            
+              D
+              h
+            
+            
+              D
+              t
+            
+          
+        
+        −
+        
+          
+            1
+            ρ
+          
+        
+        
+          
+            
+              D
+              p
+            
+            
+              D
+              t
+            
+          
+        
+        −
+        
+          
+            
+              D
+              θ
+            
+            
+              D
+              t
+            
+          
+        
+        
+          ∫
+          
+            
+              p
+              
+                r
+              
+            
+          
+          
+            p
+          
+        
+        
+          
+            
+              
+                
+                  
+                    α
+                    ~
+                  
+                
+              
+              (
+              S
+              ,
+              
+              θ
+              ,
+              
+              
+                p
+                ′
+              
+              )
+            
+            
+              ρ
+              (
+              S
+              ,
+              
+              θ
+              ,
+              
+              
+                p
+                ′
+              
+              )
+            
+          
+        
+        d
+        
+          p
+          ′
+        
+        +
+        
+          
+            
+              D
+              S
+            
+            
+              D
+              t
+            
+          
+        
+        
+          ∫
+          
+            
+              p
+              
+                r
+              
+            
+          
+          
+            p
+          
+        
+        
+          
+            
+              
+                
+                  
+                    β
+                    ~
+                  
+                
+              
+              (
+              S
+              ,
+              
+              θ
+              ,
+              
+              
+                p
+                ′
+              
+              )
+            
+            
+              ρ
+              (
+              S
+              ,
+              
+              θ
+              ,
+              
+              
+                p
+                ′
+              
+              )
+            
+          
+        
+        d
+        
+          p
+          ′
+        
+      
+    
+    {\displaystyle {Dh^{0} \over Dt}={Dh \over Dt}-{\frac {1}{\rho }}{Dp \over Dt}-{D\theta  \over Dt}\int _{p_{r}}^{p}{\frac {{\tilde {\alpha }}(S,\,\theta ,\,p')}{\rho (S,\,\theta ,\,p')}}dp'+{DS \over Dt}\int _{p_{r}}^{p}{\frac {{\tilde {\beta }}(S,\,\theta ,\,p')}{\rho (S,\,\theta ,\,p')}}dp'}
+  
+
+where 
+  
+    
+      
+        
+          
+            
+              α
+              ~
+            
+          
+        
+        =
+        −
+        
+          
+            1
+            ρ
+          
+        
+        
+          
+            (
+            
+              
+                
+                  ∂
+                  ρ
+                
+                
+                  ∂
+                  θ
+                
+              
+            
+            )
+          
+          
+            S
+            ,
+            
+            p
+          
+        
+      
+    
+    {\displaystyle {\tilde {\alpha }}=-{\frac {1}{\rho }}\left({\partial \rho  \over \partial \theta }\right)_{S,\,p}}
+  
+ and 
+  
+    
+      
+        
+          
+            
+              β
+              ~
+            
+          
+        
+        =
+        
+          
+            1
+            ρ
+          
+        
+        
+          
+            (
+            
+              
+                
+                  ∂
+                  ρ
+                
+                
+                  ∂
+                  S
+                
+              
+            
+            )
+          
+          
+            θ
+            ,
+            
+            p
+          
+        
+      
+    
+    {\displaystyle {\tilde {\beta }}={\frac {1}{\rho }}\left({\partial \rho  \over \partial S}\right)_{\theta ,\,p}}
+  
+. It can be shown that the final two terms on the right-hand side of this equation are as small or even smaller than the dissipation rate discarded earlier and the equation can therefore be approximated as:
+
+  
+    
+      
+        
+          
+            
+              D
+              
+                h
+                
+                  0
+                
+              
+            
+            
+              D
+              t
+            
+          
+        
+        =
+        
+          
+            
+              D
+              h
+            
+            
+              D
+              t
+            
+          
+        
+        −
+        
+          
+            1
+            ρ
+          
+        
+        
+          
+            
+              D
+              p
+            
+            
+              D
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {Dh^{0} \over Dt}={Dh \over Dt}-{\frac {1}{\rho }}{Dp \over Dt}}
+  
+
+Combining this with the first law of thermodynamics yields the equation:
+
+  
+    
+      
+        ρ
+        
+          
+            
+              D
+              
+                h
+                
+                  0
+                
+              
+            
+            
+              D
+              t
+            
+          
+        
+        =
+        −
+        ∇
+        ⋅
+        
+          
+            F
+            
+              Q
+            
+          
+        
+      
+    
+    {\displaystyle \rho {Dh^{0} \over Dt}=-\nabla \cdot \mathbf {F_{Q}} }
+  
+
+which is in the desired conservation form.
+
+
+=== Comparison to potential temperature ===
+
+Given that conservative temperature was initially introduced to correct errors in the oceanic heat content, it is important to compare the relative errors made by assuming that conservative temperature is conserved to those originally made by assuming that potential temperature is conserved. These errors occur from non-conservation effects that are due to entirely different processes; for conservative temperature heat is lost due to work done by compression, whereas for potential temperature this is due to surface fluxes of heat and freshwater. It can be shown that these errors are approximately 120 times smaller for conservative temperature than for potential temperature, making it far more accurate as a representation of the conservation of heat in the ocean.
+
+
+== Usage ==
+
+
+=== TEOS-10 framework ===
+
+Conservative temperature is recommended under the TEOS-10 framework as the replacement for potential temperature in ocean models. Other developments in TEOS-10 include:
+
+Replacement of practical salinity with the absolute salinity 
+  
+    
+      
+        
+          S
+          
+            A
+          
+        
+      
+    
+    {\displaystyle S_{A}}
+  
+ as the primary salinity variable,
+Introduction of preformed salinity as a conservative variable under biogeochemical processes,
+Defining all oceanic variables with respect to the Gibbs function.
+
+
+=== Models ===
+Conservative temperature has been implemented in several ocean general circulation models such as those involved in the Coupled Model Intercomparison Project Phase 6 (CMIP6). However, as these models have predominantly used potential temperature in previous generations, not all models have decided to switch to conservative temperature.
+
+
+== References ==

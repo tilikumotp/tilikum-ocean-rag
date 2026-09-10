@@ -1,0 +1,27 @@
+# Python Virtual Environment & Cache
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+test_write.txt
+
+# Large Archive Files & Vector Database Binary
+*.rar
+*.zip
+data.rar
+data_wikipedia.rar
+ocean_chroma_db.zip
+ocean_chroma_db_extracted/
+ocean_chroma_db/
+
+# Temporary / Other project experiments
+stoic_*
+philosophy_*
+run_stoic_rag.py

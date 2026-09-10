@@ -1,0 +1,42 @@
+# Cabled observatory
+
+A cabled observatory is a seabed oceanographic research platform connected to land by cables that provide power and communication. Observatories are outfitted with a multitude of scientific instruments that can collect many kinds of data from the seafloor and water column. By removing the limitations of undersea power sources and sonar or RF communications, cabled observatories allow persistent study of underwater phenomena. Data from these instruments is relayed to a land station and data networks, such as Ocean Networks Canada, in real time.
+
+
+== On-board sensors ==
+Cabled observatories have the benefit of high-power cable connections that can support a variety of instrumentation at any time. Such instrumentation can include cameras and microphones that can take high-definition audio and video, standard sensors that measure pressure, temperature, oxygen content, conductivity, turbidity, and chlorophyll-a fluorescence, and custom sensors for specialized purposes. Over 200 instruments can be installed on a cabled observatory at a time, as seen on the NEPTUNE and VENUS observatories.
+
+
+== Comparison with other data collection methods ==
+
+Cabled observatories are ideal for use in complex regions of the ocean where continuous data sampling is required for understanding the area of interest. Such areas include the complex biospheres of the temperate coasts and polar regions, which are sensitive to climate change. Conventional methods for oceanographic data collection, such as by ship, are often limited by the harsh typical weather conditions and cannot sample data continuously. Mooring systems have also been a common method for long-term ocean data sampling, however they require scientific cruises for scientists to receive data or to discover damage to the mooring system and carry out repairs. Data collection by ship and by mooring system in complex or harsh environments has historically led to data losses and inaccurate conclusions. By eliminating the need for regular ship use and bolstered with extensive sensor sets, enabled by direct power connections, cabled observatories have the capability to provide continuous and detailed data sampling for regions of the ocean that are otherwise inaccessible.
+
+
+== Usage locations ==
+Cabled observatories are permanently fixed in one area and cannot take measurements beyond that area, however they can support sensors and apparatuses that can travel vertically in the water column and observatory data can be combined with ship data to create a more complete understanding of the area as well. An observatory can be placed as far as 300 km from shore if the conditions permit. Observatories can be placed in waters as deep as 2500 meters and as shallow as 10 meters, even when the wave height is greater than the water depth.
+
+
+== Operation Limitations ==
+Many issues involving data reliability and loss have arisen and been investigated by teams running cabled observatories. Such issues include data loss, sensor failure, and data reliability issues. The sources of these issues are diverse, with common causes being improper operation, biofouling, cable connection issues, and leakages. Systematic improvements, to lessen the impacts of such factors, are currently being studied by groups such as Ocean Networks Canada. Additionally, data loss can occur from improper installation or operations of sensors and data management, which are more likely to occur if those responsibilities are taken on by research groups external to the observatory team. This issue prompted the usage of streaming of final probe data to communicate data to partner research groups for the COSYNA observatory team, and streaming is now a common method for data communication for other observatory teams.
+
+
+== Examples of cabled observatories ==
+MARS (Monterey Accelerated Research System)
+NEPTUNE (North-East Pacific Time-series Undersea Networked Experiments)
+VENUS (Victoria Experimental Network Under the Sea)
+Liquid Jungle Lab (LJL) Panama- PLUTO
+H2O (Hawaii-2 Observatory)- early experiment [1]
+ALOHA [2]
+ESONET
+Ocean Observatories Initiative Cabled Array
+Exploration & Remote Instrumentation by Students (ERIS) 
+
+
+== See also ==
+Mooring (oceanography)
+Benthic lander
+Oceanography
+Ocean observations
+
+
+== References ==

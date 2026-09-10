@@ -1,0 +1,45 @@
+# Index to Marine & Lacustrine Geological Samples
+
+The Index to Marine & Lacustrine Geological Samples is a collaboration between multiple institutions and agencies that operate geological sample repositories. The purpose of the database is to help researchers locate sea floor and lakebed cores, grabs, dredges, and drill samples in their collections.
+
+Sample material is available from participating institutions unless noted as unavailable.
+Data include basic collection and storage information. Lithology, texture, age, principal investigator, province, weathering/metamorphism, glass remarks, and descriptive comments are included for some samples. Links are provided to related data and information at the institutions and at NCEI.
+Data are coded by individual institutions, several of which receive funding from the US National Science Foundation. For more information see the NSF Division of Ocean Sciences Data and Sample Policy.
+The Index is endorsed by the Intergovernmental Oceanographic Commission, Committee on International Oceanographic Data and Information Exchange (IODE-XIV.2).
+The index was created by, and was maintained by the National Centers for Environmental Information (NCEI), formerly the National Geophysical Data Center (NGDC), and collocated World Data Center for Geophysics, Boulder, Colorado until May 5, 2025, when it was discontinued.  NCEI is part of the National Environmental Satellite, Data and Information Service of the National Oceanic & Atmospheric Administration, U. S. Department of Commerce.
+As of May, 2025, the Lamont Doherty Earth Observatory (LDEO) of Columbia University is planning to continue the IMLGS. More information about progress on providing access to the IMLGS is available at https://www.geosamples.org/news/current-events/notice-to-the-community-regarding-the-imlgs
+Prior to its discontinuation by NCEI, searches and data downloads from the IMLGS were available via a JSP and an ArcIMS interface.  Both WMS and WFS interfaces were also available.
+The Index was created in 1977 in response to a meeting of Curators of Marine Geological Samples, sponsored by the U.S. National Science Foundation.  The Curators' group continues to meet every 2–3 years.
+
+
+== Dataset Digital Object Identifier ==
+DOI:10.7289/V5H41PB8
+
+
+== Web site ==
+The Index to Marine and Lacustrine Geological Samples
+
+
+== Participating Institutions ==
+Antarctic Research Facility, Florida State University
+Geological Survey of Canada, Atlantic
+BPCRC Polar Rock Repository, Ohio State University
+BPCRC Sediment Repository, Ohio State University
+Lamont–Doherty Earth Observatory, Columbia University
+National Lacustrine Core Repository, University of Minnesota
+Ocean Drilling Program/Deep Sea Drilling Project
+Oregon State University, College of Ocean and Atmospheric Sciences
+Scripps Institution of Oceanography
+University of Rhode Island, Graduate School of Oceanography
+USGS West Coast Repository
+USGS East Coast Repository
+Woods Hole Oceanographic Institution
+Complete list of Participants
+
+
+== References ==
+https://www.re3data.org/repository/r3d100011045
+Moore, C.J. and R.E. Habermann, 2006, Core data stewardship: A long-term perspective. In, Rothwell, Guy, ed., New Techniques in Sediment Core Analysis, Geological Society of London Special Publication 267, pp. 241–251 (DOI: 10.1144/GSL.SP.2006.267.01.18).
+Mix, A., Conard, B., Broda, J., Carey, S., Firth, J., Janecek, T., Lotti-Bond, R., Moore, C., Norris, R., and D. Schnurrenberger. Curators of Sea Floor and Lakebed Samples Celebrate 25 Years of Service. EOS, Vol., 84, No. 20, 20 May 2003. (DOI: 10.1029/2003EO200005)
+Moore, C. J., Curators of Marine Geological Samples Gather at NGDC; Twenty years of cooperation results in worldwide access to global ocean floor samples, Earth System Monitor, Vol. 6, No. 4, June, 1996.
+Potter, C.J., 1979, Marine Geological Data and the Core Curators' File, EDIS Magazine.

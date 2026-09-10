@@ -1,0 +1,49 @@
+# Acoustic Doppler current profiler
+
+An acoustic doppler current profiler (ADCP) is a hydroacoustic current meter similar to a sonar, used to measure water current velocities over a depth range using the Doppler effect of sound waves scattered back from particles within the water column. The term ADCP is a generic term for all acoustic current profilers, although the abbreviation originates from an instrument series introduced by RD Instruments in the 1980s.  The working frequencies range of ADCPs range from 38 kHz to several megahertz.
+A similar device is a SODAR, which works in the air and uses the same principles for wind speed profiling.
+
+
+== Working principle ==
+
+ADCPs contain piezoelectric transducers to transmit and receive sound signals. The traveling time of sound waves gives an estimate of the distance. The frequency shift of the echo is proportional to the water velocity along the acoustic path. To measure 3D velocities, at least three beams are required.  In rivers, only the 2D velocity is relevant and ADCPs typically have two beams.  In recent years, more functionality has been added to ADCPs (notably wave and turbulence measurements) and systems can be found with two, three, four, five or even nine beams.
+Further components of an ADCP are an electronic amplifier, a receiver, a clock to measure the traveling time, a temperature sensor, a compass to know the heading, and a pitch/roll sensor to know the orientation. An analog-to-digital converter and a digital signal processor are required to sample the returning signal in order to determine the Doppler shift. A temperature sensor is used to estimate the sound velocity at the instrument position using the seawater equation of state, and uses this to estimate scale the frequency shift to water velocities. This procedure assumes that the salinity has a preconfigured constant value. Finally, the results are saved to internal memory or output online to an external display software. 
+
+
+== Processing methods ==
+Three common methods are used to calculate the Doppler shift and thus the water velocity along the acoustic beams. The first method uses a monochromatic transmit pulse and is referred to as "incoherent" or "narrowband".  The method is robust and provides good quality mean current profiles but has limited space-time resolution.  When the transmit pulse consists of coded elements that are repeated, the method is referred to as "repeat sequence coding" or "broadband".  This method improves the space-time resolution by a factor of 5 (typical).  Commercially, this method was protected by US patent 5615173 until 2011.  The pulse-to-pulse coherent method relies on a sequence of transmit pulses where the echo from subsequent pulses are assumed not to interfere with each other.  This method is only applicable for very short profiling ranges but the corresponding improvement in space time resolution is of order 1000.
+
+
+== Applications ==
+Depending on the mounting, one can distinguish between side-looking, downward- and upward-looking ADCPs. A bottom-mounted ADCP can measure the speed and direction of currents at equal intervals all the way to the surface. Mounted sideways on a wall or bridge piling in rivers or canals, it can measure the current profile from bank to bank. In very deep water they can be lowered on cables from the surface.
+The primary usage is for oceanography. The instruments can also be used in rivers and canals to continuously measure the discharge.
+Mounted on moorings within the water column or directly at the seabed, water current and wave studies may be performed. They can stay underwater for years at a time, the limiting factor is the lifetime of the battery pack. Depending on the nature of the deployment the instrument usually has the ability to be powered from shore, using the same umbilical cable for data communication. Deployment duration can be extended by a factor of three by substituting lithium battery packs for the standard alkaline packs.
+
+
+=== Bottom tracking ===
+By adjusting the window where the Doppler shift is calculated, it is possible to measure the relative velocity between the instrument and the bottom. This feature is referred to as bottom-track. The process has two parts; first identify the position of the bottom from the acoustic echo, then calculating the velocity from a window centered around the bottom position.  When an ADCP is mounted on a moving ship, the bottom track velocity may be subtracted from the measured water velocity.  The result is the net current profile. Bottom track provides the foundation for surveys of the water currents in coastal areas.  In deep water where the acoustic signals cannot reach the bottom, the ship velocity is estimated from a more complex combination of velocity and heading information from GPS, gyro, etc.
+
+
+=== Discharge measurements ===
+In rivers, the ADCP is used to measure the total water transport.  The method requires a vessel with an ADCP mounted over the side to cross from one bank to another while measuring continuously. Using the bottom track feature, the track of the boat as well as the cross sectional area is estimated after adjustment for left and right bank areas. The discharge can then be calculated as the dot product between the vector track and the current velocity.  The method is in use by hydrographic survey organisations across the world and forms an important component in the stage-discharge curves used in many places to continuously monitor river discharge.
+
+
+=== Doppler velocity log (DVL) ===
+For underwater vehicles, the bottom tracking feature can be used as an important component in the navigation systems.  In this case the velocity of the vehicle is combined with an initial position fix, compass or gyro heading, and data from the acceleration sensor.  The sensor suite is combined (typically by use of a Kalman filter) to estimate the position of the vehicle. This may help to navigate submarines, autonomous, and remotely operated underwater vehicles.
+
+
+=== Wave measurements ===
+Some ADCPs can be configured to measure surface wave height and direction. The wave height is estimated with a vertical beam that measures the distance to the surface using the echo from short pulses and simple peak estimation algorithms.  The wave direction is found by cross correlating the along-beam velocity estimates and the wave height measurement from the vertical beam.  Wave measurements are typically available for seafloor-mounted instruments but recent improvements permit the instrument to be mounted also on rotating subsurface buoys.
+
+
+=== Turbulence ===
+ADCPs with pulse-to-pulse coherent processing can estimate the velocity with the precision required to resolve small scale motion. As a consequence, it is possible to estimate turbulent parameters from properly configured ADCPs.  A typical approach is to fit the along beam velocity to the Kolmogorov structure configuration and thereby estimate the dissipation rate.  The application of ADCPs to turbulence measurement is possible from stationary deployments but can also be done from moving underwater structures like gliders or from subsurface buoys.
+
+
+== Advantages and disadvantages ==
+The two major advantages of ADCPs is the absence of moving parts that are subject to biofouling and the remote sensing aspect, where a single, stationary instrument can measure the current profile over ranges exceeding 1000 m. These features allow for long term measurements of the ocean currents over a significant portion of the water column.  Since the start in the mid-1980s, many thousand ADCPs have been used in the world oceans and the instrument has played a significant role in our understanding of the world ocean circulation.
+The main disadvantage of the ADCPs is the loss of data close to the boundary.  This mechanism, often referred to as a sidelobe interference, covers 6–12% of the water column and, for instruments looking up toward the surface, the loss of velocity information close to the surface is a real disadvantage.  Cost is also a concern but is normally dwarfed by the cost of the ship required to ensure a safe and professional deployment.
+As any acoustical instrument, the ADCP contributes to noise pollution in the ocean which may interfere with cetacean navigation and echolocation.  The effect depends on the frequency and the power of the instrument but most ADCPs operate in a frequency range where noise pollution has not been identified to be a serious problem.
+
+
+== References ==

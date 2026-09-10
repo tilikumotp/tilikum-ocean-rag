@@ -1,0 +1,88 @@
+# Bathypelagic zone
+
+The bathypelagic zone or bathyal zone (from Greek βαθύς (bathýs), deep) is the part of the open ocean that extends from a depth of 1,000 to 4,000 m (3,300 to 13,000 ft) below the ocean surface. It lies between the mesopelagic above and the abyssopelagic below. The bathypelagic is also known as the midnight zone because of the lack of sunlight; this feature does not allow for photosynthesis-driven primary production, preventing growth of phytoplankton or aquatic plants. Although larger by volume than the photic zone, human knowledge of the bathypelagic zone remains limited by ability to explore the deep ocean.
+
+
+== Physical characteristics ==
+
+The bathypelagic zone is characterized by a nearly constant temperature of approximately 4 °C (39 °F) and a salinity range of 33-35 g/kg. This region has little to no light because sunlight does not reach this deep in the ocean and bioluminescence is limited. The hydrostatic pressure in this zone ranges from 100-400 atmospheres (atm) due to the increase of 1 atm for every 10 m depth. It is believed that these conditions have been consistent for the past 8000 years.
+This ocean depth spans from the edge of the continental shelf down to the top of the abyssal zone, and along continental slope depths. The bathymetry of the bathypelagic zone consists of limited areas where the seafloor is in this depth range along the deepest parts of the continental margins, as well as seamounts and mid-ocean ridges. The continental slopes are mostly made up of accumulated sediment, while seamounts and mid-ocean ridges contain large areas of hard substrate that provide habitats for bathypelagic fishes and benthic invertebrates. Although currents at these depths are very slow, the topography of seamounts interrupts the currents and creates eddies that retain plankton in the seamount region, thus increasing fauna nearby as well
+Hydrothermal vents are also a common feature in some areas of the bathypelagic zone and are primarily formed from the spreading of Earth's tectonic plates at mid-ocean ridges. As the bathypelagic region lacks light, these vents play an important role in global ocean chemical processes, thus supporting unique ecosystems that have adapted to utilize chemicals as energy, via chemoautotrophy, instead of sunlight, to sustain themselves. In addition, hydrothermal vents facilitate precipitation of minerals on the seafloor, making them regions of interest for deep-sea mining.
+
+
+== Biogeochemistry ==
+
+Many of the biogeochemical processes in the bathypelagic region are dependent upon the input of organic matter from the overlying epipelagic and mesopelagic zones. This organic material, sometimes called marine snow, sinks in the water column or is transported within downward convected water masses such as the Thermohaline Circulation. Hydrothermal vents also deliver heat and chemicals such as sulfide and methane. These chemicals can be utilized to sustain metabolism by organisms in the region. Our understanding of these biogeochemical processes has historically been limited due to the difficulty and cost of collecting samples from these ocean depths. Other technological challenges, such as measuring microbial activity under the pressure conditions experienced in the bathypelagic zone, have also restricted our knowledge of the region. Although scientific advancements have increased our understanding over the past several decades, many aspects remain a mystery. One of the major areas of current research is focused on understanding carbon remineralization rates in the region. Prior studies have struggled to quantify the rates at which prokaryotes in this region remineralize carbon because previously developed techniques may not be adequate for this region, and indicate remineralization rates much higher than expected. Further work is needed to explore this question, and may require revisions to our understanding of the global carbon cycle.
+
+
+=== Particulate organic matter ===
+Organic material from primary production in the epipelagic zone, and to a far lesser extent, organic inputs from terrestrial sources, make up a majority of the Particulate Organic Matter (POM) in the ocean. POM is delivered to the bathypelagic zone via sinking copepod fecal pellets and dead organisms; these parcels of organic matter fall through the water column and deliver organic carbon, nitrogen, and phosphorus, to organisms that live below the photic zone. These parcels are sometimes referred to as marine snow or ocean dandruff. This is also the dominant delivery mechanism of food to organisms in the bathypelagic zone because there is no sunlight for photosynthesis, with chemoautotrophy playing a more minor role as far as we know.
+As POM sinks through the water column, it is consumed by organisms which deplete it of nutrients. The size and density of these particles affect their likelihood of reaching organisms in the bathypelagic zone. Smaller parcels of POM often become aggregated together as they fall, which quickens their descent and prohibits their consumption by other organisms, increasing their likelihood of reaching lower depths. The density of these particles may be increased in some regions where minerals associated with some forms of phytoplankton, such as biogenic silica and calcium carbonate "ballast" resulting in more rapid transport to deeper depth.
+
+
+=== Carbon ===
+
+A majority of organic carbon is produced in the epipelagic zone, with a small portion transported deeper into the ocean interior. This process, known as the biological pump, plays a large role in the sequestration of carbon from the atmosphere into the ocean. Organic carbon is primarily exported to the bathypelagic zone in the form of particulate organic carbon (POC) and dissolved organic carbon (DOC).
+POC is the largest component of organic carbon delivered to the bathypelagic zone; it primarily takes the form of fecal pellets and dead organisms that sink out of the surface waters and fall toward the ocean floor. Regions with higher primary productivity where particles are able to sink quickly, such as equatorial upwelling zones and the Arabian Sea, have the greatest amount of POC delivery to the bathypelagic zone.
+The vertical mixing of DOC-rich surface waters is also a process that delivers carbon to the bathypelagic zone, however, it constitutes a substantially smaller portion of overall transport than POC delivery. DOC transport occurs most readily in regions with high rates of ventilation or ocean turnover, such as the interior of gyres or deep water formation sites along the thermohaline circulation.
+
+
+=== Calcium carbonate dissolution ===
+The region in the water column at which calcite dissolution begins to occur rapidly, known as the lysocline, is typically located near the base bathypelagic zone at approximately 3,500 m depth, but varies among ocean basins. The lysocline lies below the saturation depth (the transition to undersaturated conditions with respect to calcium carbonate) and above the carbonate compensation depth (below which there is no calcium carbonate preservation). In a supersaturated environment, the tests of calcite-forming organisms are preserved as they sink toward the sea floor, resulting in sediments with relatively high amounts of CaCO3. However, as depth and pressure increase and temperature decreases, the solubility of calcium carbonate also increases, which results in more dissolution and less net transport to the deeper, underlying seafloor. As a result of this rapid change in dissolution rates, sediments in the bathypelagic region vary widely in CaCO3 content and burial.
+
+
+== Ecology ==
+The ecology of the bathypelagic ecosystem is constrained by its lack of sunlight and primary producers, with limited production of microbial biomass via autotrophy. The trophic networks in this region rely on particulate organic matter (POM) that sinks from the epipelagic and mesopelagic water, and oxygen inputs from the thermohaline circulation. Despite these limitations, this open-ocean ecosystem is home to microbial organisms, fish, and nekton.
+
+
+=== Microbial ecology ===
+
+A comprehensive understanding of the inputs driving the microbial ecology in the bathypelagic zone is lacking due to limited observational data, but has been improving with advancements in deep-sea technology. A majority of our knowledge of ocean microbial activity comes from studies of the shallower regions of the ocean because it is easier to access, and it was previously assumed that deeper water did not have suitable physical conditions for diverse microbial communities. The bathypelagic zone receives inputs of organic material and POM from the surface ocean on the order of 1-3.6 Pg C/year.
+Prokaryote biomass in the bathypelagic is dependent on and thus correlated with the amount of sinking POM and organic carbon availability. These essential organic carbon inputs for microbes typically decrease with depth as they are utilized while sinking to the bathypelagic. Microbial production varies over six orders of magnitude based on resource availability in a given area. Prokaryote abundance can range from 0.03-2.3x105 cells ml−1, and have population turnover times that can range from 0.1–30 years. Archaea make up a larger portion of the total prokaryote cell abundance, and different groups have different growth needs, with some archaea groups for example utilizing amino acid groups more readily than others. Some archaea like Crenarchaeota have Crenarchaeota 16S rRNA and archaeal amoA gene abundances correlated to dissolved inorganic carbon (DIC) fixation. The utilization of DIC is thought to be fueled by the oxidation of ammonium and is one form of chemoautotrophy. Based on regional variation and differences in prokaryote abundance, heterotrophic prokaryote production, and particulate organic carbon (POC) inputs to the bathypelagic zone.
+Research to quantify bacterial-consuming grazers, like heterotrophic eukaryotes, has been limited by difficulties in sampling. Often organisms do not survive being brought to the surface due to experiencing drastic pressure changes in a short amount of time. Work is underway to quantify cell abundance and biomass, but due to poor survival, it is difficult to get accurate counts. In more recent years there has been an effort to categorize the diversity of the eukaryotic assemblages in the bathypelagic zone using methods to assess the genetic compositions of microbial communities based on supergroups, which is a way to classify organisms that have common ancestry. Some important groups of bacterial grazers include Rhizaria, Alveolata, Fungi, Stramenopiles, Amoebozoa, and Excavata (listed from most to least abundant), with the remaining composition classified as uncertain or other.
+Viruses influence biogeochemical cycling through the role they play in marine food webs. Their overall abundance can be up to two orders of magnitude lower than the mesopelagic zone, however, there is often high viral abundance found around deep-sea hydrothermal vents. The magnitude of their impacts on biological systems is demonstrated by the varying range of viral-to-prokaryote abundance ratios ranging from 1-223, this indicates that there are the same amount or more viruses than prokaryotes.
+
+
+=== Fauna ===
+
+
+==== Fish ecology ====
+
+Despite the lack of light, vision plays a role in life within the bathypelagic with bioluminescence a trait among both nektonic and planktonic organisms. In contrast to organisms in the water column, benthic organisms in this region tend to have limited to no bioluminescence. The bathypelagic zone contains sharks, squid, octopuses, and many species of fish, including deep-water anglerfish, gulper eel, amphipods, and dragonfish. The fish are characterized by weak muscles, soft skin, and slimy bodies. The adaptations of some of the fish that live there include small eyes and transparent skin. However, this zone is difficult for fish to live in since food is scarce; resulting in species evolving slow metabolic rates in order to conserve energy. Occasionally, large sources of organic matter from decaying organisms, such as whale falls, create a brief burst of activity by attracting organisms from different bathypelagic communities.
+
+
+==== Diel vertical migration ====
+Some bathypelagic species undergo vertical migration, which differs from the diel vertical migration of mesopelagic species in that it is not driven by sunlight. Instead, the migration of bathypelagic organisms is driven by other factors, most of which remain unknown. Some research suggests the movement of species within the overlying pelagic region could prompt individual bathypelagic species to migrate, such as Sthenoteuthis sp., a species of squid. In this particular example, Sthenoteuthis sp. appears to migrate individually over the course of ~4–5 hours towards the surface and then form into groups. While in most regions migration patterns can be driven by predation, in this particular region, the migration patterns are not believed to result solely from predator-prey relations. Instead, these relations are commensalistic, with the species who remain in the bathypelagic benefitting from the POM mixing caused by the upward movement of another species. In addition, the vertical migrating species' timing bathypelagic appears linked to the lunar cycle. However, the exact indicators causing this timing are still unknown.
+
+
+== Research and exploration ==
+
+This region is understudied due to a lack of data/observations and difficulty of access (i.e. cost, remote locations, extreme pressure). Historically in oceanography, continental margins were the most sampled and researched due to their relatively easy access. However, more recently locations further offshore and at greater depths, such as ocean ridges and seamounts, are being increasingly studied due to advances in technology and laboratory methods, as well as collaboration with industry. The first discovery of communities subsisting off of the chemical energy in hydrothermal vents was aboard an expedition in 1977 led by Jack Corliss, an oceanographer from Oregon State University. More recent advancements include remotely operated vehicles (ROVs), autonomous underwater vehicles (AUVs), and independent gliders and floats.
+
+
+=== Specific technologies and research projects ===
+SERPENT Project 
+Ocean Twilight Zone (OTZ) Project
+DEEP SEARCH Project
+DEEPEND Project
+AUV Sentry
+ROV Jason
+Hybrid ROV Nereus
+AUV Autosub Long Range
+
+
+== Climate change ==
+
+The oceans act as a buffer for anthropogenic climate change due to their ability to take up atmospheric CO2 and absorb heat from the atmosphere. However, the ocean's ability to do so will be negatively affected as atmospheric CO2 concentrations continue to rise and global temperatures continue to warm. This will lead to changes such as deoxygenation, ocean acidification, temperature increase, and carbon sequestration decrease, among other physical and chemical alterations. These perturbations may have significant impacts on the organisms that dwell in the bathypelagic region and the properties that deliver organic carbon to the deep sea.
+
+
+=== Carbon storage ===
+The bathypelagic zone currently acts as a significant reservoir for carbon because of its sheer volume and the century to millennial timescales these waters are isolated from the atmosphere, this ocean zone plays an important role in moderating the effects of anthropogenic climate change. The burial of particulate organic carbon (POC) in the underlying sediments via the biological carbon pump, and the solubility pump of dissolved inorganic carbon (DIC) into the ocean interior via the thermohaline conveyor are key processes for removing excess atmospheric carbon. However, as atmospheric CO2 concentrations and global temperatures continue to rise, the efficiency at which the bathypelagic will store and bury the influx of carbon will most likely decrease. While some regions may experience an increase in POC input, such as Arctic regions where increased periods of minimal sea ice coverage will increase the downward flux of carbon from the surface oceans, overall, there will likely be less carbon sequestered to the bathypelagic region.
+
+
+== References ==
+
+
+== External links ==
+Woods Hole Oceanographic Institution - Midnight Zone
+Oregon Coast Aquarium OceanScape - Midnight Zone
